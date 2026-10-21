@@ -1,0 +1,86 @@
+Image: 000115_CLICK_20261020_141605_328_EVTAE408.webp
+Image reference: 000115_CLICK_20261020_141605_328_EVTAE408.webp
+MIME type: image/webp
+SHA-256: 15fc22be6d985801821fb30af4bbf9cea676b9c02706dd655515f1f507867c4b
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 115
+Included: Yes
+Captured: 2026-10-20T14:16:05.3286882+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 136
+OCR confidence: 0.950
+OCR status: Completed
+OCR result ID: OCR-17bcec1e90814318ac2a1fd0fdbd9251
+OCR completed UTC: 2026-10-20T06:33:20.5044288Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Unrecognized screen
+Recognized screen ID: OCR-6522E14A44
+Recognized screen confidence: 0.950
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+No text extracted.
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+No text detected.
+
+Corrected OCR text:
+No correction supplied.

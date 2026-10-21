@@ -1,0 +1,236 @@
+Image: 000072_CAPTURE_20261020_141527_951.webp
+Image reference: 000072_CAPTURE_20261020_141527_951.webp
+MIME type: image/webp
+SHA-256: 6bfa401d974005798adfb96e7b45781a471716ce57409b99202ef3f8236c687d
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 72
+Included: Yes
+Captured: 2026-10-20T14:15:27.9643130+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.500
+OCR status: Completed
+OCR result ID: OCR-c4dce86fba464b0b83483bfdc29cf9f8
+OCR completed UTC: 2026-10-20T06:33:04.6495545Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+709 & Column hander hare 2 grop by that coiumn
+
+
+
+
+
+Anwyte Descrgton ey Worstanen sbmcey code mage
+s A FSHO, FSH3O, FSHED
+~ i1 Assay : 88
+A2 o2 Desc : Folicle Stimulating Hormone
+s Ao Mask : sazszasss. as
+TW Reven!-TWM [ Unit @ TU/L
+LR oil Fac : 5
+
+
+
+Rl T R TWM Di] Dess
+
+
+
+
+
+RevesldTWM LHO, LH3O, LHGO
+645
+: Luteinizing Hormone
+sssseasss. 88
+e “Munit @ TU/L
+r 0il Fac : 4
+Dil Dess
+
+
+
+
+
+done? yes
+
+ok please proceed create FSHO, FSH3O, FSHEO and LHO, LH3O, LH6O
+111 monitor
+wait
+
+seems like the lis code will be create by us, then we will share to them
+
+Windows (CRLF
+
+5 Vernen Seinase dote
+I on il 583 yoon2ezs
+
+nazer gt
+
+
+
+path D\CMNLAR DE L%
+
+
+
+Q@
+
+
+
+
+
+v
+
+]
+
+
+
+X Comcet
+
+Oescrpton
+
+Uk OC
+
+X Concnt
+
+(] Gove
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+709 & Column hander hare 2 grop by that coiumn
+
+
+
+
+
+Anwyte Descrgton ey Worstanen sbmcey code mage
+s A FSHO, FSH3O, FSHED
+~ i1 Assay : 88
+A2 o2 Desc : Folicle Stimulating Hormone
+s Ao Mask : sazszasss. as
+TW Reven!-TWM [ Unit @ TU/L
+LR oil Fac : 5
+
+
+
+Rl T R TWM Di] Dess
+
+
+
+
+
+RevesldTWM LHO, LH3O, LHGO
+645
+: Luteinizing Hormone
+sssseasss. 88
+e “Munit @ TU/L
+r 0il Fac : 4
+Dil Dess
+
+
+
+
+
+done? yes
+
+ok please proceed create FSHO, FSH3O, FSHEO and LHO, LH3O, LH6O
+111 monitor
+wait
+
+seems like the lis code will be create by us, then we will share to them
+
+Windows (CRLF
+
+5 Vernen Seinase dote
+I on il 583 yoon2ezs
+
+nazer gt
+
+
+
+path D\CMNLAR DE L%
+
+
+
+Q@
+
+
+
+
+
+v
+
+]
+
+
+
+X Comcet
+
+Oescrpton
+
+Uk OC
+
+X Concnt
+
+(] Gove
+
+Corrected OCR text:
+No correction supplied.

@@ -1,0 +1,410 @@
+Image: 000036_CAPTURE_20261020_141453_339.webp
+Image reference: 000036_CAPTURE_20261020_141453_339.webp
+MIME type: image/webp
+SHA-256: ec12c1cb73c6ea0e0f60cd4bd224abee42a4e3d8f39ac4f481d7c7b0a294eb10
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 36
+Included: Yes
+Captured: 2026-10-20T14:14:53.3513631+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.420
+OCR status: Completed
+OCR result ID: OCR-9c7d7e296cfe46f9a16ed0c28b0ca610
+OCR completed UTC: 2026-10-20T06:32:40.7964593Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Test panets  Anaisa Moo
+
+e
+
+- ~Tont progpertes
+- -
+
+
+
+
+
+B Ted coe
+= - ety enabied tests
+
+
+
+1letcode & Ansyn code Mnemore Sescrgten Mesremert e Mou Etemal et code At
+
+
+
+
+
+
+
+» e e wu et
+
+vo v wamen © (Cokchered 25 ety
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anstyzery Cramnehs Workfion  Rapon Groups
+
+
+
+
+
+1<)
+
+3
+
+£
+(<]
+
+
+
+8 v s Serd 10 U5 smer ok
+W Tw
+
+- Doys of pa. i om bt bt
+By
+
+
+
+
+
+
+
+o vt AVG
+Coctanen mte
+et eage
+Coraned srage
+Lowe e
+Ursr ime
+Acooge type
+Yourmber of et par po
+e
+
+T weeage of Normal AN
+Noamioer of peores out |
+Port it % compune|
+
+Mo Aveiage WA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Concet Mot > Devrcn et Panges ~
+1 Oyt of retertion of o 1
+Feston
+S o et e
+SHardard deveton (%
+~ Namber of powets ||
+Acton o be per, |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e o gt ¢ 1
+Chaon 08 ne e
+et G e MA Detads.
+
+ustle
+
+% [ Desrption s we vy Cuatomes.
+
+Y e + a0 v X Concet
+£ impon
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Test panets  Anaisa Moo
+
+e
+
+- ~Tont progpertes
+- -
+
+
+
+
+
+B Ted coe
+= - ety enabied tests
+
+
+
+1letcode & Ansyn code Mnemore Sescrgten Mesremert e Mou Etemal et code At
+
+
+
+
+
+
+
+» e e wu et
+
+vo v wamen © (Cokchered 25 ety
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anstyzery Cramnehs Workfion  Rapon Groups
+
+
+
+
+
+1<)
+
+3
+
+£
+(<]
+
+
+
+8 v s Serd 10 U5 smer ok
+W Tw
+
+- Doys of pa. i om bt bt
+By
+
+
+
+
+
+
+
+o vt AVG
+Coctanen mte
+et eage
+Coraned srage
+Lowe e
+Ursr ime
+Acooge type
+Yourmber of et par po
+e
+
+T weeage of Normal AN
+Noamioer of peores out |
+Port it % compune|
+
+Mo Aveiage WA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Concet Mot > Devrcn et Panges ~
+1 Oyt of retertion of o 1
+Feston
+S o et e
+SHardard deveton (%
+~ Namber of powets ||
+Acton o be per, |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e o gt ¢ 1
+Chaon 08 ne e
+et G e MA Detads.
+
+ustle
+
+% [ Desrption s we vy Cuatomes.
+
+Y e + a0 v X Concet
+£ impon
+
+Corrected OCR text:
+No correction supplied.

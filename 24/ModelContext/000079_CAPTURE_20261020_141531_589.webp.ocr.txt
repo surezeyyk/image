@@ -1,0 +1,278 @@
+Image: 000079_CAPTURE_20261020_141531_589.webp
+Image reference: 000079_CAPTURE_20261020_141531_589.webp
+MIME type: image/webp
+SHA-256: dad93862f1678738128cd3f3f42b295b54763c7df26cee975e1d3e72ca7c59f5
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: CONFIGURATOR.SEC.5_10_9
+Hierarchy path: Configurator > Configurator > Parameters > Order Entry
+Hierarchy manual: Configurator
+Hierarchy section: 5.10.9
+Hierarchy node type: Screen/Window
+Hierarchy source: Automatic OCR match
+Hierarchy confidence: 95%
+Hierarchy evidence: OCR contains the screen title: Order Entry
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 79
+Included: Yes
+Captured: 2026-10-20T14:15:31.6025605+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.340
+OCR status: Completed
+OCR result ID: OCR-c5196e5776c944e88d2b9f3c6610d2e3
+OCR completed UTC: 2026-10-20T06:33:07.0053352Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Configurator > Configurator > Parameters > Order Entry
+Recognized screen ID: CONFIGURATOR.SEC.5_10_9
+Recognized screen confidence: 0.950
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Fle Optioms Winbow
+3 8 Coamn hander hare 82 g10up by thet cciumn sy
+R segery Woksaen B
+- O
+] Anyrer code Ay res et Workstatn.
+Alei 1 i1 (AMsPRI] " +
+Reve Communication 1 fle Wnstrument s Test/Crmoe sociotion [l %k QC Aoratation
+(R N Vantstn method Ansyrev cormes tion v
+" ™ 15 Q% actare om mamaal et Warn dver sbcrst tests deleted by LIS ox Order Entry
+N ™ 2 Snghe trararmansen Worn nver sbont teut closure
+™ Sl romarmssion of testy with remlt Shore in Sarmphe 5
+
+
+
+pesston masagament
+
+
+
+. oo - & trae
+
+4 parert Semcopagne
+
+
+
+
+
+
+
+M ALC-2CM Resuls shes tases e or X Setoncing
+
+ORI ALCH1SC (5] Hoghgh resus s s faked OC (28 Cplo o e o
+“ of
+
+! ‘ Resgent chect Mt marsl doarbond
+
+
+
+(20 Whoch resuts s e toded OCs [ et honge
+
+
+
+
+
+e orty % Don compue DC when mes
+
+
+
+
+
+
+
+Moot S resern
+
+
+
+120 Show OCs oty # tter sebected
+
+Lsomat Etermat OCs Blach et
+
+
+
+M tube management
+
+
+
+
+
+Ascmat 1otng Actate quaed tube 4 no actie e found
+
+
+
+
+
+1 G wbcut domricaded tests
+
+12 Accopt vt for
+=
+
+Rarum for choned test S st revites
+
+
+
+Accept diution = | froem dver o 1 G sbcut vaintated tests
+
+
+
+
+
+ple with nbments WM e st harrseh statn spdetes
+
+
+
+
+
+sbdatn for ma W G s charmah statin wpdates
+
+Q= v X Cacet
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Fle Optioms Winbow
+3 8 Coamn hander hare 82 g10up by thet cciumn sy
+R segery Woksaen B
+- O
+] Anyrer code Ay res et Workstatn.
+Alei 1 i1 (AMsPRI] " +
+Reve Communication 1 fle Wnstrument s Test/Crmoe sociotion [l %k QC Aoratation
+(R N Vantstn method Ansyrev cormes tion v
+" ™ 15 Q% actare om mamaal et Warn dver sbcrst tests deleted by LIS ox Order Entry
+N ™ 2 Snghe trararmansen Worn nver sbont teut closure
+™ Sl romarmssion of testy with remlt Shore in Sarmphe 5
+
+
+
+pesston masagament
+
+
+
+. oo - & trae
+
+4 parert Semcopagne
+
+
+
+
+
+
+
+M ALC-2CM Resuls shes tases e or X Setoncing
+
+ORI ALCH1SC (5] Hoghgh resus s s faked OC (28 Cplo o e o
+“ of
+
+! ‘ Resgent chect Mt marsl doarbond
+
+
+
+(20 Whoch resuts s e toded OCs [ et honge
+
+
+
+
+
+e orty % Don compue DC when mes
+
+
+
+
+
+
+
+Moot S resern
+
+
+
+120 Show OCs oty # tter sebected
+
+Lsomat Etermat OCs Blach et
+
+
+
+M tube management
+
+
+
+
+
+Ascmat 1otng Actate quaed tube 4 no actie e found
+
+
+
+
+
+1 G wbcut domricaded tests
+
+12 Accopt vt for
+=
+
+Rarum for choned test S st revites
+
+
+
+Accept diution = | froem dver o 1 G sbcut vaintated tests
+
+
+
+
+
+ple with nbments WM e st harrseh statn spdetes
+
+
+
+
+
+sbdatn for ma W G s charmah statin wpdates
+
+Q= v X Cacet
+
+Corrected OCR text:
+No correction supplied.

@@ -1,0 +1,452 @@
+Image: 000044_CAPTURE_20261020_141502_813.webp
+Image reference: 000044_CAPTURE_20261020_141502_813.webp
+MIME type: image/webp
+SHA-256: 7941fe481cb99c164ddd9d372c1a373408595ae0caa27a4d0162788113c61ce5
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 44
+Included: Yes
+Captured: 2026-10-20T14:15:02.8254689+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.390
+OCR status: Completed
+OCR result ID: OCR-1b887c8f65df497fb2f0384b21765a28
+OCR completed UTC: 2026-10-20T06:32:47.4144091Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+- o
+
+o
+
+Test code
+
+
+
+
+
+& Ansiyun code Mnemorc Sencreten
+
+-~
+
+
+
+wtune Mk
+
+
+
+Etema vt code
+
+VB12 bt ccmtugen st messnd
+
+Wealm
+
+
+
+
+
+Workflon  Repont Croupt
+Uphoad
+
+
+
+Y
+
+Fog Actve Process dunt.
+
+
+
+Adt Tent Method
+
+[ Rl
+
+
+
+Nech (e
+
+Premary result
+
+
+
+
+
+
+
+
+
+
+
+Sert 1 US ster vabdanion
+
+| SemdwlS e tdme |
+Days of pemm. o o bt | 55
+
+
+
+Averages wettings AV
+
+
+
+Do e mote
+[
+s soerige |
+
+Tower bt
+Upper it
+[ Avengetipe |
+Voumbar o revts por o
+s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Avvree of Normal AN
+
+
+
+Nourries of peorts oot
+[ Pomt et % compuns|
+
+
+
+~ Movimg Avetage WA
+
+
+
+Doys of retertion of o,
+Festan
+
+
+
+
+
+Sreim o sentows
+Stardard devaton %]
+~ Actm
+Hamter of peers |
+Achen e be per
+Heureer o porr
+Acton e e per
+Hareer of ports
+Achon 1o e por
+= Mearrber of poets 1|
+4 Acton e e por
+~ Vhurmier of porets |
+
+
+
+
+
+
+
+
+
+
+
+
+
+Concet <k et »
+
+
+
+et Fanges
+
+
+
+
+
+
+
+
+
+
+
+
+
+Actien Yo be per
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Odan 08 el o
+amt A fen MA Dutate
+Cuabie
+x [ Descrgtion s e ' S + A v X Concel
+£ mpet
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+- o
+
+o
+
+Test code
+
+
+
+
+
+& Ansiyun code Mnemorc Sencreten
+
+-~
+
+
+
+wtune Mk
+
+
+
+Etema vt code
+
+VB12 bt ccmtugen st messnd
+
+Wealm
+
+
+
+
+
+Workflon  Repont Croupt
+Uphoad
+
+
+
+Y
+
+Fog Actve Process dunt.
+
+
+
+Adt Tent Method
+
+[ Rl
+
+
+
+Nech (e
+
+Premary result
+
+
+
+
+
+
+
+
+
+
+
+Sert 1 US ster vabdanion
+
+| SemdwlS e tdme |
+Days of pemm. o o bt | 55
+
+
+
+Averages wettings AV
+
+
+
+Do e mote
+[
+s soerige |
+
+Tower bt
+Upper it
+[ Avengetipe |
+Voumbar o revts por o
+s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Avvree of Normal AN
+
+
+
+Nourries of peorts oot
+[ Pomt et % compuns|
+
+
+
+~ Movimg Avetage WA
+
+
+
+Doys of retertion of o,
+Festan
+
+
+
+
+
+Sreim o sentows
+Stardard devaton %]
+~ Actm
+Hamter of peers |
+Achen e be per
+Heureer o porr
+Acton e e per
+Hareer of ports
+Achon 1o e por
+= Mearrber of poets 1|
+4 Acton e e por
+~ Vhurmier of porets |
+
+
+
+
+
+
+
+
+
+
+
+
+
+Concet <k et »
+
+
+
+et Fanges
+
+
+
+
+
+
+
+
+
+
+
+
+
+Actien Yo be per
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Odan 08 el o
+amt A fen MA Dutate
+Cuabie
+x [ Descrgtion s e ' S + A v X Concel
+£ mpet
+
+Corrected OCR text:
+No correction supplied.

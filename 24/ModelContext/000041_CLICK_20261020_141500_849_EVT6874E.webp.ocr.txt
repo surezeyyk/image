@@ -1,0 +1,125 @@
+Image: 000041_CLICK_20261020_141500_849_EVT6874E.webp
+Image reference: 000041_CLICK_20261020_141500_849_EVT6874E.webp
+MIME type: image/webp
+SHA-256: a669f16302e2da3a42faf20a5cbab40eb1295215203acf9e401459cf2bcbafc3
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: CONFIGURATOR.SEC.5_18_1_4
+Hierarchy path: Configurator > Configurator > Profiles / Analysis / Tests / Specimen > Tests > AVG filters
+Hierarchy manual: Configurator
+Hierarchy section: 5.18.1.4
+Hierarchy node type: Function/Procedure
+Hierarchy source: Automatic OCR match
+Hierarchy confidence: 95%
+Hierarchy evidence: OCR contains the screen title: AVG filters
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 41
+Included: Yes
+Captured: 2026-10-20T14:15:00.8494395+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.730
+OCR status: Completed
+OCR result ID: OCR-8de6e0b945434aaab9ec45efde743342
+OCR completed UTC: 2026-10-20T06:32:41.8465888Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Configurator > Configurator > Profiles / Analysis / Tests / Specimen > Tests > AVG filters
+Recognized screen ID: CONFIGURATOR.SEC.5_18_1_4
+Recognized screen confidence: 0.950
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+batin et NO
+
+Double validation No result
+Exclude from statistics |
+
+Dilution SOP Ref. rar
+
+Wiz;# AVG filters MA De
+
+Disable Restc
+
+< Add  Apply X Ca
+
+B, Fvnort B Imnort <1l
+
+Click-region OCR:
+batin et NO
+
+Double validation No result
+Exclude from statistics |
+
+Dilution SOP Ref. rar
+
+Wiz;# AVG filters MA De
+
+Disable Restc
+
+< Add  Apply X Ca
+
+B, Fvnort B Imnort <1l
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+batin et NO
+
+Double validation No result
+Exclude from statistics |
+
+Dilution SOP Ref. rar
+
+Wiz;# AVG filters MA De
+
+Disable Restc
+
+< Add  Apply X Ca
+
+B, Fvnort B Imnort <1l
+
+Corrected OCR text:
+No correction supplied.

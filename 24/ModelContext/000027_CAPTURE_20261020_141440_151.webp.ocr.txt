@@ -1,0 +1,422 @@
+Image: 000027_CAPTURE_20261020_141440_151.webp
+Image reference: 000027_CAPTURE_20261020_141440_151.webp
+MIME type: image/webp
+SHA-256: 2b139bd66833e058a370085320ae3778668dc98e7f7eded0693a4579c2acde58
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 27
+Included: Yes
+Captured: 2026-10-20T14:14:40.1627636+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.710
+OCR status: Completed
+OCR result ID: OCR-3fea6faa13144a1294e38e76a7035dce
+OCR completed UTC: 2026-10-20T06:32:38.0119209Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+. B
+.
+e
+
+. cap
+. crA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mnermoe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Messiromert une Mok
+
+
+
+
+
+
+
+
+
+
+
+
+
+)
+~a eeseesee
+
+
+
+
+
+
+
+y voe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ftem.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ R R B R B R B R B R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+L]
+
+-
+
+[}
+
+<<
+
+(<]
+
+=
+
+
+
+
+
+
+
+Mo §
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+. B
+.
+e
+
+. cap
+. crA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mnermoe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Messiromert une Mok
+
+
+
+
+
+
+
+
+
+
+
+
+
+)
+~a eeseesee
+
+
+
+
+
+
+
+y voe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ftem.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ R R B R B R B R B R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+L]
+
+-
+
+[}
+
+<<
+
+(<]
+
+=
+
+
+
+
+
+
+
+Mo §
+
+Corrected OCR text:
+No correction supplied.

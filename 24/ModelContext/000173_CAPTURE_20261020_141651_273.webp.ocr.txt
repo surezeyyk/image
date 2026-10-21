@@ -1,0 +1,226 @@
+Image: 000173_CAPTURE_20261020_141651_273.webp
+Image reference: 000173_CAPTURE_20261020_141651_273.webp
+MIME type: image/webp
+SHA-256: eaa6324397f590723f8a1f14445f886d1807773276451e3a45d1492dfc8d1d07
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 173
+Included: Yes
+Captured: 2026-10-20T14:16:51.2871844+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.420
+OCR status: Completed
+OCR result ID: OCR-b25b4f27bf8141fa9e2091ee427afd44
+OCR completed UTC: 2026-10-20T06:34:06.1911757Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: *Untitled - Notepad
+Recognized screen ID: S0001
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Frens 1
+Plmtcode & Anslywn code Memansc Messremert e Mok Etemal et code ptons Ve code Vbete, PSRN 1 == 1
+v Tt v o oy |
+
+.o s e r “ A common
+
+- . u [T o ]
+
+. e [o— - = |
+
+- -. e ) .|
+
+.19 . e = {
+
+. s aca — ca = 1
+
+« Ut » " 24 ] 1
+
+. acRia cra ‘ ] 1
+
+. G o ‘@ -a 7] |
+
+o . " i a 1
+
+. oo -~ ‘ von ] ]
+
+. V2o - . ves ] =
+
+. o o P e ] )|
+
+« RO T ot e . = ]
+
+v e " ™ [e— s ) ]
+
+. vaswmea oA A o mta ] |
+
+- et : = | :
+
+. ™1 1
+
+. . e Chicsde o~ = |
+
+ucomt ucoRr et - ] )|
+
+. vra *a " A ] ]
+
+.ve » . - — ° = ]
+
+- x . . - ] {
+
+. s " " ) |
+
+. acn axcn w—nocRme  mymeme J— axce ] ? CALCERROR {
+
+v . ; ™ !
+
+.« a e -~ " ] 1
+
+.o ok wcr o ] axcrmmon 1
+
+. e o ~os ] : ]
+
+. uem . - -y o ) 5 o
+
+. s mia Il
+
+cutaey una N G e p— G e A Detsie
+
+. wa " v e U et N ]
+
+. s noia w1 woe Ures ’ ®ia = O
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Frens 1
+Plmtcode & Anslywn code Memansc Messremert e Mok Etemal et code ptons Ve code Vbete, PSRN 1 == 1
+v Tt v o oy |
+
+.o s e r “ A common
+
+- . u [T o ]
+
+. e [o— - = |
+
+- -. e ) .|
+
+.19 . e = {
+
+. s aca — ca = 1
+
+« Ut » " 24 ] 1
+
+. acRia cra ‘ ] 1
+
+. G o ‘@ -a 7] |
+
+o . " i a 1
+
+. oo -~ ‘ von ] ]
+
+. V2o - . ves ] =
+
+. o o P e ] )|
+
+« RO T ot e . = ]
+
+v e " ™ [e— s ) ]
+
+. vaswmea oA A o mta ] |
+
+- et : = | :
+
+. ™1 1
+
+. . e Chicsde o~ = |
+
+ucomt ucoRr et - ] )|
+
+. vra *a " A ] ]
+
+.ve » . - — ° = ]
+
+- x . . - ] {
+
+. s " " ) |
+
+. acn axcn w—nocRme  mymeme J— axce ] ? CALCERROR {
+
+v . ; ™ !
+
+.« a e -~ " ] 1
+
+.o ok wcr o ] axcrmmon 1
+
+. e o ~os ] : ]
+
+. uem . - -y o ) 5 o
+
+. s mia Il
+
+cutaey una N G e p— G e A Detsie
+
+. wa " v e U et N ]
+
+. s noia w1 woe Ures ’ ®ia = O
+
+Corrected OCR text:
+No correction supplied.

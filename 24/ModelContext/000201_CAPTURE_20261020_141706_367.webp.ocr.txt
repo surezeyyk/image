@@ -1,0 +1,406 @@
+Image: 000201_CAPTURE_20261020_141706_367.webp
+Image reference: 000201_CAPTURE_20261020_141706_367.webp
+MIME type: image/webp
+SHA-256: c2c129ffdf1d4b19e480fa6b9779413bd0755d40182ef584a57f91227e0bc2f4
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 201
+Included: Yes
+Captured: 2026-10-20T14:17:06.3793737+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.470
+OCR status: Completed
+OCR result ID: OCR-9edfb3321bb74879bcd3c94d86d4f70b
+OCR completed UTC: 2026-10-20T06:34:23.4097046Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Fners
+
+
+
+Wealat
+o
+Aot
+
+S
+
+
+
+Concel
+
+x B (Test code s e )
+
+Etema tent code
+
+vanc
+
+
+
+) Preary st Ausomation O test
+
+Rt Ranges
+
+Cumpomas.
+
+
+
+
+
+Tt et
+
+
+
+Test code
+
+Test sescnpmen
+e veut coe AN
+
+
+
+
+
+
+
+
+
+Test type ]
+
+
+
+
+
+tied remen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+g
+
+
+
+Sered e US ster < pbdanen
+
+Dos of purm. o om bt ot 5
+
+
+
+= Avevages vettngs VG
+
+
+
+Cakoancn mote
+[
+Coveret soeraze
+Lower et
+Urper it
+|
+
+Voarmer of rests por po
+sree.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+" Aveesor of Narmel (AON)
+
+
+
+Pouerier of pesrts out |
+ot st % compars |
+
+
+
+= Wancing Avetage WA
+
+
+
+Dups of retertson of o,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+G bers
+
+et anges
+
+A Detae
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Fners
+
+
+
+Wealat
+o
+Aot
+
+S
+
+
+
+Concel
+
+x B (Test code s e )
+
+Etema tent code
+
+vanc
+
+
+
+) Preary st Ausomation O test
+
+Rt Ranges
+
+Cumpomas.
+
+
+
+
+
+Tt et
+
+
+
+Test code
+
+Test sescnpmen
+e veut coe AN
+
+
+
+
+
+
+
+
+
+Test type ]
+
+
+
+
+
+tied remen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+g
+
+
+
+Sered e US ster < pbdanen
+
+Dos of purm. o om bt ot 5
+
+
+
+= Avevages vettngs VG
+
+
+
+Cakoancn mote
+[
+Coveret soeraze
+Lower et
+Urper it
+|
+
+Voarmer of rests por po
+sree.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+" Aveesor of Narmel (AON)
+
+
+
+Pouerier of pesrts out |
+ot st % compars |
+
+
+
+= Wancing Avetage WA
+
+
+
+Dups of retertson of o,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+G bers
+
+et anges
+
+A Detae
+
+Corrected OCR text:
+No correction supplied.

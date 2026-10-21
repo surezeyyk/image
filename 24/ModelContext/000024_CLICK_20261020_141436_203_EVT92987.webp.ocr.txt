@@ -1,0 +1,152 @@
+Image: 000024_CLICK_20261020_141436_203_EVT92987.webp
+Image reference: 000024_CLICK_20261020_141436_203_EVT92987.webp
+MIME type: image/webp
+SHA-256: dea5e63a66a0fd7eff1e940f252506f82642ada7894b38a36323e3db3fc745c9
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 24
+Included: Yes
+Captured: 2026-10-20T14:14:36.2027204+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.750
+OCR status: Completed
+OCR result ID: OCR-eb971c05c6214e779ae16b2c33e5e6e9
+OCR completed UTC: 2026-10-20T06:32:33.4335970Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Klist
+Recognized screen ID: OCR-11EABBA340
+Recognized screen confidence: 0.750
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Klist
+] Al v
+
+
+
+
+
+
+
+
+
+
+
+Analysis coc”) Mnemonic Description Me
+
+
+
+1HPP 1HPP 1 Hour Post Prandial mr
+2HPP 2HPP 2 Hours Post Prandial mry
+AlclFCC AlclFCC AlclIFCC mn
+A1cNGSP A1cNGSP Alc NGSP %
+
+ACCP ACCP Anti-CCP U/n
+
+Click-region OCR:
+Klist
+] Al v
+
+
+
+
+
+
+
+
+
+
+
+Analysis coc”) Mnemonic Description Me
+
+
+
+1HPP 1HPP 1 Hour Post Prandial mr
+2HPP 2HPP 2 Hours Post Prandial mry
+AlclFCC AlclFCC AlclIFCC mn
+A1cNGSP A1cNGSP Alc NGSP %
+
+ACCP ACCP Anti-CCP U/n
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Klist
+] Al v
+
+
+
+
+
+
+
+
+
+
+
+Analysis coc”) Mnemonic Description Me
+
+
+
+1HPP 1HPP 1 Hour Post Prandial mr
+2HPP 2HPP 2 Hours Post Prandial mry
+AlclFCC AlclFCC AlclIFCC mn
+A1cNGSP A1cNGSP Alc NGSP %
+
+ACCP ACCP Anti-CCP U/n
+
+Corrected OCR text:
+No correction supplied.

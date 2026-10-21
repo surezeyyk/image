@@ -1,0 +1,164 @@
+Image: 000114_CAPTURE_20261020_141604_786.webp
+Image reference: 000114_CAPTURE_20261020_141604_786.webp
+MIME type: image/webp
+SHA-256: 07af1e56a1e92abb05e802e8e494caa26e944eb3b00d64090985058dee332c2b
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 114
+Included: Yes
+Captured: 2026-10-20T14:16:04.7987904+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.460
+OCR status: Completed
+OCR result ID: OCR-2285670aa0934e21acabcfb5c054c080
+OCR completed UTC: 2026-10-20T06:33:20.4812448Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Ejﬂ, AMS - (AMSPRI)
+Recognized screen ID: S0005
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+1 Tost code & Anehin code Mmermoew Messremert une = 1
+- 1
+. ) B e 1
+. G e 7 CALCTRROR |
+. 'x B e ]
+v v aca “ca “ca B e {
+» - e N wear ] 7 1
+ G2CPEA « CREA ] 1
+. UG = @ “a ] 1
+. - ux “x = 1
+. o ™ <ot AL ] |
+. aow an = ]
+. o -~ ana "™ - on “na = [acowe = 1
+. -~ ] ] ]
+» ik , ] -
+cwws was au u ]
+CGAREA  WQRREA  URUREA u |
+. U 2 B e v 1] 4
+.uA " % ]
+. ann = 1
+. = 1
+. A n R o Yourreer of et por g 1
+C 5 I — :
+« ucoa - ar =
+« vora xata A Il [
+- . ] NI |
+. x . ] i
+. =
+« e nacr = A cEmmoR |
+. o - » ] ]
+. A s = 1
+. wcn ocr wcn ) aucTRRon {
+. U - ]
+. e or - =
+. s mia s 5
+* ViAA RS 1A = Oon o0 et arges
+. A N ]
+. o “ B e — G e WA Detain
+. " v =
+gon v 7] [
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+1 Tost code & Anehin code Mmermoew Messremert une = 1
+- 1
+. ) B e 1
+. G e 7 CALCTRROR |
+. 'x B e ]
+v v aca “ca “ca B e {
+» - e N wear ] 7 1
+ G2CPEA « CREA ] 1
+. UG = @ “a ] 1
+. - ux “x = 1
+. o ™ <ot AL ] |
+. aow an = ]
+. o -~ ana "™ - on “na = [acowe = 1
+. -~ ] ] ]
+» ik , ] -
+cwws was au u ]
+CGAREA  WQRREA  URUREA u |
+. U 2 B e v 1] 4
+.uA " % ]
+. ann = 1
+. = 1
+. A n R o Yourreer of et por g 1
+C 5 I — :
+« ucoa - ar =
+« vora xata A Il [
+- . ] NI |
+. x . ] i
+. =
+« e nacr = A cEmmoR |
+. o - » ] ]
+. A s = 1
+. wcn ocr wcn ) aucTRRon {
+. U - ]
+. e or - =
+. s mia s 5
+* ViAA RS 1A = Oon o0 et arges
+. A N ]
+. o “ B e — G e WA Detain
+. " v =
+gon v 7] [
+
+Corrected OCR text:
+No correction supplied.

@@ -1,0 +1,191 @@
+Image: 000170_CLICK_20261020_141649_309_EVT2AE92.webp
+Image reference: 000170_CLICK_20261020_141649_309_EVT2AE92.webp
+MIME type: image/webp
+SHA-256: e57ce864ec0f672a14f2d7cfae7796967db4d55d0f7368cf6a26698ba80c1963
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 170
+Included: Yes
+Captured: 2026-10-20T14:16:49.3100506+08:00
+Original resolution: Unknown
+Saved resolution: 388 x 250
+OCR confidence: 0.850
+OCR status: Completed
+OCR result ID: OCR-062b4d7eda7d4b18a9b42c57bcf86022
+OCR completed UTC: 2026-10-20T06:34:04.0418650Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: properties
+Recognized screen ID: OCR-E50C2A53BD
+Recognized screen confidence: 0.850
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+properties
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+st code VANC
+nemonic Vancomycin
+st description VANC
+ternal test code VANC
+ternal test code for export +
+nalysis
+ask Zzzzzz sz
+easurement unit mg/L|
+st type Numeric
+dified phrases
+
+Narmal
+
+Click-region OCR:
+properties
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+st code VANC
+nemonic Vancomycin
+st description VANC
+ternal test code VANC
+ternal test code for export +
+nalysis
+ask Zzzzzz sz
+easurement unit mg/L|
+st type Numeric
+dified phrases
+
+Narmal
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+properties
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+st code VANC
+nemonic Vancomycin
+st description VANC
+ternal test code VANC
+ternal test code for export +
+nalysis
+ask Zzzzzz sz
+easurement unit mg/L|
+st type Numeric
+dified phrases
+
+Narmal
+
+Corrected OCR text:
+No correction supplied.

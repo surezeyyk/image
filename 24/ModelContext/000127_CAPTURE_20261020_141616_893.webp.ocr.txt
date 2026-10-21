@@ -1,0 +1,168 @@
+Image: 000127_CAPTURE_20261020_141616_893.webp
+Image reference: 000127_CAPTURE_20261020_141616_893.webp
+MIME type: image/webp
+SHA-256: 66c13b89cccdc97858769ad29114cd1f8bcfa20afb559165c6d8e5ae4a3a1a6a
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 127
+Included: Yes
+Captured: 2026-10-20T14:16:16.9055175+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.450
+OCR status: Completed
+OCR result ID: OCR-940386a81c864ebcbe8fa411f7fc2ecb
+OCR completed UTC: 2026-10-20T06:33:28.2470291Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+vy enatied ety
+]
+1 Tost code 8 Anstan code Mmermors Messremert une Mk teter Test type an Materal code  Vaide, 34 1
+. or - vor rop = 1
+. nor »eo 1o o ] —_ ]
+. Atos aew arce e = acERmoR {
+CAINGS  AINGR AN Alc NG 3 s 5 ALCERROR — 4
+. acce wcr acce sowrcCP " accr ) {
+. are . we w e ] {
+. n A G Pase ? = ALcERROR 1
+. am P a » apo? % 1
+. uw o aw ¢ a % 1
+.a u A . ] ] |
+.M “p ar A shre Prosghatase ALP oo P = ]
+« g B L - = = |
+- - . a - ]
+. am o , = . ]
+. sy e = 1
+. ANaLD = ]
+Cwnie  awiBe  wore R o {
+. an .a ] ] ]
+. ey w ] oo 8 1
+- ot o ot s = {
+.w " b e ) 1
+. pu " - - ] 1
+.o s ’ ] ] Avenor of Noarmal (AON ]
+- o ot o - - — ]
+. ) {
+‘o " 4 . ‘ =
+o camn . W o = ‘ i
+.ca " " ) " n ) Nument _— i
+.ca A A A . A G e Eamtd bt ]
+. Ay 2199 A1 219 - A% ] = {
+. =
+.o " A e - o a ) {
+. CAl X e Tent A A = = (S e ]
+. car » ap » ] =
+. cca " eched Cokiu Comected Cak N = ucumpon
+. L “ A - A =
+. ' ] ]
+. ox - e " =
+. o Yo reu = =
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+vy enatied ety
+]
+1 Tost code 8 Anstan code Mmermors Messremert une Mk teter Test type an Materal code  Vaide, 34 1
+. or - vor rop = 1
+. nor »eo 1o o ] —_ ]
+. Atos aew arce e = acERmoR {
+CAINGS  AINGR AN Alc NG 3 s 5 ALCERROR — 4
+. acce wcr acce sowrcCP " accr ) {
+. are . we w e ] {
+. n A G Pase ? = ALcERROR 1
+. am P a » apo? % 1
+. uw o aw ¢ a % 1
+.a u A . ] ] |
+.M “p ar A shre Prosghatase ALP oo P = ]
+« g B L - = = |
+- - . a - ]
+. am o , = . ]
+. sy e = 1
+. ANaLD = ]
+Cwnie  awiBe  wore R o {
+. an .a ] ] ]
+. ey w ] oo 8 1
+- ot o ot s = {
+.w " b e ) 1
+. pu " - - ] 1
+.o s ’ ] ] Avenor of Noarmal (AON ]
+- o ot o - - — ]
+. ) {
+‘o " 4 . ‘ =
+o camn . W o = ‘ i
+.ca " " ) " n ) Nument _— i
+.ca A A A . A G e Eamtd bt ]
+. Ay 2199 A1 219 - A% ] = {
+. =
+.o " A e - o a ) {
+. CAl X e Tent A A = = (S e ]
+. car » ap » ] =
+. cca " eched Cokiu Comected Cak N = ucumpon
+. L “ A - A =
+. ' ] ]
+. ox - e " =
+. o Yo reu = =
+
+Corrected OCR text:
+No correction supplied.

@@ -1,0 +1,104 @@
+Image: 000189_CLICK_20261020_141700_939_EVT49E3C.webp
+Image reference: 000189_CLICK_20261020_141700_939_EVT49E3C.webp
+MIME type: image/webp
+SHA-256: 4ab30f66ef6e425591766fe8e0bb2e90839e0892af1fb042aa14814446f45cd2
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 189
+Included: Yes
+Captured: 2026-10-20T14:17:00.9395418+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.770
+OCR status: Completed
+OCR result ID: OCR-cd00e2932b8541499cb50d0fdf148d7c
+OCR completed UTC: 2026-10-20T06:34:16.2100053Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: ** Wizard
+Recognized screen ID: OCR-A3CF2F55BC
+Recognized screen confidence: 0.770
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+** Wizard
+
+Vancomycin test configuration wizard
+
+WorkList Analyzeri7Channels  Workflow Report Grou
+IACC - IACC
+.‘TWM TWM
+
+Click-region OCR:
+** Wizard
+
+Vancomycin test configuration wizard
+
+WorkList Analyzeri7Channels  Workflow Report Grou
+IACC - IACC
+.‘TWM TWM
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+** Wizard
+
+Vancomycin test configuration wizard
+
+WorkList Analyzeri7Channels  Workflow Report Grou
+IACC - IACC
+.‘TWM TWM
+
+Corrected OCR text:
+No correction supplied.

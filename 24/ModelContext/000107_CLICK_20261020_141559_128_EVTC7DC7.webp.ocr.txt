@@ -1,0 +1,134 @@
+Image: 000107_CLICK_20261020_141559_128_EVTC7DC7.webp
+Image reference: 000107_CLICK_20261020_141559_128_EVTC7DC7.webp
+MIME type: image/webp
+SHA-256: 423e889794a9d3b69c005238c3529d433484438419bbeaba39e20cd2388cb676
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 107
+Included: Yes
+Captured: 2026-10-20T14:15:59.1294507+08:00
+Original resolution: Unknown
+Saved resolution: 242 x 202
+OCR confidence: 0.620
+OCR status: Completed
+OCR result ID: OCR-deaf0b6e61c246eb98af76e1a45dfb79
+OCR completed UTC: 2026-10-20T06:33:17.4674424Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: e he ofiedd - |
+Recognized screen ID: OCR-B679E037B0
+Recognized screen confidence: 0.620
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+e he ofiedd - |
+
+t <+ Add == Delete
+t v X Cancel
+x] Clage
+
+
+
+
+
+2:15PM
+10/20/2026
+
+
+
+
+ATl
+
+Click-region OCR:
+e he ofiedd - |
+
+t <+ Add == Delete
+t v X Cancel
+x] Clage
+
+
+
+
+
+2:15PM
+10/20/2026
+
+
+
+
+ATl
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+e he ofiedd - |
+
+t <+ Add == Delete
+t v X Cancel
+x] Clage
+
+
+
+
+
+2:15PM
+10/20/2026
+
+
+
+
+ATl
+
+Corrected OCR text:
+No correction supplied.

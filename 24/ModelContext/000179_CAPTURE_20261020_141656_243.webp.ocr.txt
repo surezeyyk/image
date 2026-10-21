@@ -1,0 +1,366 @@
+Image: 000179_CAPTURE_20261020_141656_243.webp
+Image reference: 000179_CAPTURE_20261020_141656_243.webp
+MIME type: image/webp
+SHA-256: ba09f18431a04d4343b7ea222bf450f3836f2fb7f63a496175a04f0149a34c09
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 179
+Included: Yes
+Captured: 2026-10-20T14:16:56.2579366+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.460
+OCR status: Completed
+OCR result ID: OCR-ea1e0299779844c4b10e0f2986d70783
+OCR completed UTC: 2026-10-20T06:34:11.8235003Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+« L
+. G
+. s
+. IO
+. won
+. U
+« uemoT
+* Uaea
+. UamEs
+
+
+
+.
+.o
+
+
+
+
+
+. AN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v 4P80T
+I ‘s 4 44 Unne e A0l
+et “umia 4 U
+xoRT at
+XREA vEA
+ALD s
+nack MR
+ock ¢
+o o>
+os. o=
+1A ver
+roga s e Ures
+A Vascomycn  VANC
+
+
+
+
+
+Messoremert une
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Etwma vt code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(SR R R R R R BB R R R R R R R R R R R R R R R R R R R R R R B R R R R R R<]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+wron
+RpOR
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+acte
+
+
+
+
+
+chen to be per
+
+= |
+
+08 [re—-
+
+AGlaen  MADask
+Ot
+
+v X Concel
+
+(& Cose
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+« L
+. G
+. s
+. IO
+. won
+. U
+« uemoT
+* Uaea
+. UamEs
+
+
+
+.
+.o
+
+
+
+
+
+. AN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v 4P80T
+I ‘s 4 44 Unne e A0l
+et “umia 4 U
+xoRT at
+XREA vEA
+ALD s
+nack MR
+ock ¢
+o o>
+os. o=
+1A ver
+roga s e Ures
+A Vascomycn  VANC
+
+
+
+
+
+Messoremert une
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Etwma vt code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(SR R R R R R BB R R R R R R R R R R R R R R R R R R R R R R B R R R R R R<]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+wron
+RpOR
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+acte
+
+
+
+
+
+chen to be per
+
+= |
+
+08 [re—-
+
+AGlaen  MADask
+Ot
+
+v X Concel
+
+(& Cose
+
+Corrected OCR text:
+No correction supplied.

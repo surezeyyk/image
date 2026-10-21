@@ -1,0 +1,174 @@
+Image: 000001_CAPTURE_20261020_141409_193.webp
+Image reference: 000001_CAPTURE_20261020_141409_193.webp
+MIME type: image/webp
+SHA-256: 82aee77ac39376933c73ece8a224a18f85fea9363d70b74dc8bf94688a8f397f
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 1
+Included: Yes
+Captured: 2026-10-20T14:14:09.2041811+08:00
+Original resolution: 1687 x 1022
+Saved resolution: 960 x 582
+OCR confidence: 0.570
+OCR status: Completed
+OCR result ID: OCR-9548c6ed9d5e4dca8e35478e3875e6c7
+OCR completed UTC: 2026-10-20T06:32:26.5755428Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: a oS Oradle components
+Recognized screen ID: OCR-1FFAD48A02
+Recognized screen confidence: 0.570
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+& [
+a oS Oradle components
+
+RecycleBin  Tha PC
+Install Oracle Server 640t for Windows.
+@ install Oracle instances (AMS D8 & Offine Historical AMS DB)
+L Q
+TeamViewes L miMonsor e Install Oracle Client 32bit for Windows
+
+4 Unttied - Noteped
+
+Fie [t Fomst View Hep
+
+Vancomycin
+
+dilution name: Dil 1 - factor: 4
+assay number
+
+!m. unit : mg/l
+
+decimal : 3
+
+bl Track code?
+
+LIS code : VANC
+
+
+
+165789
+
+
+
+iﬁ nume:
+
+
+
+Ly 2ems,
+
+
+
+
+
+report gt
+
+Wndows (CRLF) tn Col
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+& [
+a oS Oradle components
+
+RecycleBin  Tha PC
+Install Oracle Server 640t for Windows.
+@ install Oracle instances (AMS D8 & Offine Historical AMS DB)
+L Q
+TeamViewes L miMonsor e Install Oracle Client 32bit for Windows
+
+4 Unttied - Noteped
+
+Fie [t Fomst View Hep
+
+Vancomycin
+
+dilution name: Dil 1 - factor: 4
+assay number
+
+!m. unit : mg/l
+
+decimal : 3
+
+bl Track code?
+
+LIS code : VANC
+
+
+
+165789
+
+
+
+iﬁ nume:
+
+
+
+Ly 2ems,
+
+
+
+
+
+report gt
+
+Wndows (CRLF) tn Col
+
+Corrected OCR text:
+No correction supplied.

@@ -1,0 +1,185 @@
+Image: 000159_CLICK_20261020_141639_705_EVT342E4.webp
+Image reference: 000159_CLICK_20261020_141639_705_EVT342E4.webp
+MIME type: image/webp
+SHA-256: 3fe473fb3a17df043a50bb8ba7e9ecb6ad8781f9d4f37fafb2616879ea6fa3f2
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 159
+Included: Yes
+Captured: 2026-10-20T14:16:39.7061333+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.880
+OCR status: Completed
+OCR result ID: OCR-5cf47f221c9949f9bfe78ae1773fd4e8
+OCR completed UTC: 2026-10-20T06:33:55.2214158Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: ‘necessary to:
+Recognized screen ID: OCR-ECC05B590E
+Recognized screen confidence: 0.880
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+‘necessary to:
+
+1 want that changes affect old results please stop the service, check Restart 2
+
+
+
+
+
+
+
++
+
+
+
+J
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Textual
+Textual
+Numeric
+Numeric
+
+Click-region OCR:
+‘necessary to:
+
+1 want that changes affect old results please stop the service, check Restart 2
+
+
+
+
+
+
+
++
+
+
+
+J
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Textual
+Textual
+Numeric
+Numeric
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+‘necessary to:
+
+1 want that changes affect old results please stop the service, check Restart 2
+
+
+
+
+
+
+
++
+
+
+
+J
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Textual
+Textual
+Numeric
+Numeric
+
+Corrected OCR text:
+No correction supplied.

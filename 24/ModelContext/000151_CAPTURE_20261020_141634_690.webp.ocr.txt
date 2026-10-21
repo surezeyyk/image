@@ -1,0 +1,236 @@
+Image: 000151_CAPTURE_20261020_141634_690.webp
+Image reference: 000151_CAPTURE_20261020_141634_690.webp
+MIME type: image/webp
+SHA-256: f6603d3a7c9721f171ed9a1fa4f1a54929e3bdd58178347e30b2c28a7f753862
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 151
+Included: Yes
+Captured: 2026-10-20T14:16:34.7020310+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.450
+OCR status: Completed
+OCR result ID: OCR-f614bec7c3084bcdb8076adf0f778ce9
+OCR completed UTC: 2026-10-20T06:33:51.6101163Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: *Untitled - Notepad
+Recognized screen ID: S0001
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+oy ensbied ey
+[l sl 1
+
+1locode & Anshan code Mnemonsc Mesremert une  Mask [oe—" Tet tpe SAN  Mutenal code Vedty » 1
+
+. wor - vor - , vor ) |
+
+. pov - or Prossw— or 5 sexzes o3 |
+
+.a Ao s acw a % acERmoR ]
+
+CAINGD  AINGP  AINGD Ale NG s ] ALCERROR — y|
+
+o acce acr acce sowr-CCP " accr 7] 4
+
+. ap M s w ap o Mmes 1
+
+.a u u B e AucuRpom {
+
+. ap u » apor ] 1
+
+cuw y s = ]
+
+iy P u uo ] =
+
+.M ~p ak A shee Prosghatase (ALP A e P = 1
+
+* ag x aQ p = = |
+
+. ar a % Send v US e vokdion. | =
+
+» sarv ;, = 1
+
+. [ ANAL D = 4
+
+cwadie  oaie o e = {
+
+. an an ] ]
+
+. sy = % 1
+
+.o " - e “ {
+
+. B " - . e ] 1
+
+.o » - ] ] Aveesor of Normel A 1
+
+e oot pous = = pores ot ]
+
+. = ]
+
+cu " " . ) ]
+
+.ca " A A " A ] —_ ] {
+
+- A A A A 5 Lol ]
+
+. Ay 2199 A1 219 - A% ] . 4
+
+. =
+
+. CAL X AL Al ]
+
+. o - " " 5 = l
+
+.o 2 w0 » % =
+
+. cca x ached Cocon Comecied Cokons A u scemmon
+
+.t " womsemaeyensc Arogen B “ =
+
+.o ; ] ]
+
+. ox " e o =
+
+. o = -
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+oy ensbied ey
+[l sl 1
+
+1locode & Anshan code Mnemonsc Mesremert une  Mask [oe—" Tet tpe SAN  Mutenal code Vedty » 1
+
+. wor - vor - , vor ) |
+
+. pov - or Prossw— or 5 sexzes o3 |
+
+.a Ao s acw a % acERmoR ]
+
+CAINGD  AINGP  AINGD Ale NG s ] ALCERROR — y|
+
+o acce acr acce sowr-CCP " accr 7] 4
+
+. ap M s w ap o Mmes 1
+
+.a u u B e AucuRpom {
+
+. ap u » apor ] 1
+
+cuw y s = ]
+
+iy P u uo ] =
+
+.M ~p ak A shee Prosghatase (ALP A e P = 1
+
+* ag x aQ p = = |
+
+. ar a % Send v US e vokdion. | =
+
+» sarv ;, = 1
+
+. [ ANAL D = 4
+
+cwadie  oaie o e = {
+
+. an an ] ]
+
+. sy = % 1
+
+.o " - e “ {
+
+. B " - . e ] 1
+
+.o » - ] ] Aveesor of Normel A 1
+
+e oot pous = = pores ot ]
+
+. = ]
+
+cu " " . ) ]
+
+.ca " A A " A ] —_ ] {
+
+- A A A A 5 Lol ]
+
+. Ay 2199 A1 219 - A% ] . 4
+
+. =
+
+. CAL X AL Al ]
+
+. o - " " 5 = l
+
+.o 2 w0 » % =
+
+. cca x ached Cocon Comecied Cokons A u scemmon
+
+.t " womsemaeyensc Arogen B “ =
+
+.o ; ] ]
+
+. ox " e o =
+
+. o = -
+
+Corrected OCR text:
+No correction supplied.

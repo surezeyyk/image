@@ -1,0 +1,128 @@
+Image: 000117_CLICK_20261020_141606_929_EVTAC6CA.webp
+Image reference: 000117_CLICK_20261020_141606_929_EVTAC6CA.webp
+MIME type: image/webp
+SHA-256: 027a75b90cfa208ca650fca63b440d2223ef634cffee7edcd9d47978188f84e5
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 117
+Included: Yes
+Captured: 2026-10-20T14:16:06.9286846+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.860
+OCR status: Completed
+OCR result ID: OCR-52620ec606f948a3b3d69d1b70aef2c1
+OCR completed UTC: 2026-10-20T06:33:22.9017997Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Filters Worklist
+Recognized screen ID: OCR-5DAB5E4720
+Recognized screen confidence: 0.860
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Filters Worklist
+Al
+
+£ Testcode & Analysis code Mnemonic Description
+v+
+
++ TRFN TRFN TRFN Transferrin
+
++ TRFNS TRFNS TRFNS % Transferrin Saturat
+
++ TRIG TRIG TRIG Triglycerides
+
++ TSH TSH TSH Thyroid Stimulating |
+
++ U24CA U24CA U24 CA 24 Hr Urine Calcium
+
+Click-region OCR:
+Filters Worklist
+Al
+
+£ Testcode & Analysis code Mnemonic Description
+v+
+
++ TRFN TRFN TRFN Transferrin
+
++ TRFNS TRFNS TRFNS % Transferrin Saturat
+
++ TRIG TRIG TRIG Triglycerides
+
++ TSH TSH TSH Thyroid Stimulating |
+
++ U24CA U24CA U24 CA 24 Hr Urine Calcium
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Filters Worklist
+Al
+
+£ Testcode & Analysis code Mnemonic Description
+v+
+
++ TRFN TRFN TRFN Transferrin
+
++ TRFNS TRFNS TRFNS % Transferrin Saturat
+
++ TRIG TRIG TRIG Triglycerides
+
++ TSH TSH TSH Thyroid Stimulating |
+
++ U24CA U24CA U24 CA 24 Hr Urine Calcium
+
+Corrected OCR text:
+No correction supplied.

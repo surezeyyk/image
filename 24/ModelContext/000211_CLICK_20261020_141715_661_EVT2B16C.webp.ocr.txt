@@ -1,0 +1,104 @@
+Image: 000211_CLICK_20261020_141715_661_EVT2B16C.webp
+Image reference: 000211_CLICK_20261020_141715_661_EVT2B16C.webp
+MIME type: image/webp
+SHA-256: 4a2f78e858879b46ccaa2acb78479798962c50942094d3c8b4a6a4182f3e2fb9
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 211
+Included: Yes
+Captured: 2026-10-20T14:17:15.6617835+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.800
+OCR status: Completed
+OCR result ID: OCR-f2ddf034f672454492967b10b9d91bc7
+OCR completed UTC: 2026-10-20T06:34:26.1558511Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Vancomycin test configuration wizard
+Recognized screen ID: OCR-622D00753B
+Recognized screen confidence: 0.800
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Vancomycin test configuration wizard
+
+
+
+WorkList Analyzers/Channels  Workflow Repc
+Analyzer  Downlo.. Upload Flag Active
+Alci-1 1869 1869 0
+
+Click-region OCR:
+Vancomycin test configuration wizard
+
+
+
+WorkList Analyzers/Channels  Workflow Repc
+Analyzer  Downlo.. Upload Flag Active
+Alci-1 1869 1869 0
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Vancomycin test configuration wizard
+
+
+
+WorkList Analyzers/Channels  Workflow Repc
+Analyzer  Downlo.. Upload Flag Active
+Alci-1 1869 1869 0
+
+Corrected OCR text:
+No correction supplied.

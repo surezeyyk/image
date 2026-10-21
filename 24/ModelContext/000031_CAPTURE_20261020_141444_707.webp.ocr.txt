@@ -1,0 +1,106 @@
+Image: 000031_CAPTURE_20261020_141444_707.webp
+Image reference: 000031_CAPTURE_20261020_141444_707.webp
+MIME type: image/webp
+SHA-256: a965537f4f840dc6c6aac3bade04b40353e02b55b8539b1d5e8315a974928ae5
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 31
+Included: Yes
+Captured: 2026-10-20T14:14:44.7209497+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.470
+OCR status: Completed
+OCR result ID: OCR-2c437c40a67f4724ac655321444fbf74
+OCR completed UTC: 2026-10-20T06:32:38.9994633Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+N i
+5 oty enabied tesn !
+1 Teat code A cade Mnamo O Mesmiremare une Eitem s act Test type N ode Vabdty  Codfed sty - Nom Puth 1
+e w2 wu [ pct\ wu M e ]
+=
+=
+[ Poarter o g o]
+Acten to be por
+et e
+WA Detai
+X 1 Descrption s e v Caemca
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+N i
+5 oty enabied tesn !
+1 Teat code A cade Mnamo O Mesmiremare une Eitem s act Test type N ode Vabdty  Codfed sty - Nom Puth 1
+e w2 wu [ pct\ wu M e ]
+=
+=
+[ Poarter o g o]
+Acten to be por
+et e
+WA Detai
+X 1 Descrption s e v Caemca
+
+Corrected OCR text:
+No correction supplied.

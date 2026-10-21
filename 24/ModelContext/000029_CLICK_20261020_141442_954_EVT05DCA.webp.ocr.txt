@@ -1,0 +1,98 @@
+Image: 000029_CLICK_20261020_141442_954_EVT05DCA.webp
+Image reference: 000029_CLICK_20261020_141442_954_EVT05DCA.webp
+MIME type: image/webp
+SHA-256: 52ed9bfdbe6ccca94295adf6f920286b6158e40435e70846503e04b71c8ecb57
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 29
+Included: Yes
+Captured: 2026-10-20T14:14:42.9542996+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.760
+OCR status: Completed
+OCR result ID: OCR-9eafe2c788fe4aa09e0d1b9cbe738001
+OCR completed UTC: 2026-10-20T06:32:38.4903519Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: , code Mnemonic Description 7 Measureme
+Recognized screen ID: OCR-0DDA2B801F
+Recognized screen confidence: 0.760
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+, code Mnemonic Description 7 Measureme
+N N |
+VB12 Vitamin B12}- pmol/L
+
+VD25 Vitamin D (Calciferol 25) nmol/L
+
+Click-region OCR:
+, code Mnemonic Description 7 Measureme
+N N |
+VB12 Vitamin B12}- pmol/L
+
+VD25 Vitamin D (Calciferol 25) nmol/L
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+, code Mnemonic Description 7 Measureme
+N N |
+VB12 Vitamin B12}- pmol/L
+
+VD25 Vitamin D (Calciferol 25) nmol/L
+
+Corrected OCR text:
+No correction supplied.

@@ -1,0 +1,572 @@
+Image: 000129_CAPTURE_20261020_141619_079.webp
+Image reference: 000129_CAPTURE_20261020_141619_079.webp
+MIME type: image/webp
+SHA-256: 0e94d6505f94baec69550633a79e3f9d0dd1f34dc19d1496594f6141f1c36a0c
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 129
+Included: Yes
+Captured: 2026-10-20T14:16:19.0922507+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.450
+OCR status: Completed
+OCR result ID: OCR-1d1c51b3cce4486597a755b3da39ef17
+OCR completed UTC: 2026-10-20T06:33:31.3815900Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+.
+. cam
+. s
+. cau
+.car
+
+
+
+
+
+
+
+
+
+
+
+Oescrgtion
+
+1 Moww Post Prandial
+
+
+
+2 Houws Bont Prond
+PUTES
+PO
+sow-cCP
+
+gha Fevogeoten (AT
+Aesran Giote b Patie
+Lo
+
+rapis
+
+0
+
+
+
+sk Phesghatase (ALP)
+
+
+
+opurne Toamcammase (45T
+Totw Beta HCG
+T Bt HCG
+- -
+
+
+
+mected Cokcons Cammected Cakinm
+
+cua Carcemembeycs Artgen (<
+
+
+
+o€ Nebeneserie
+
+CHEMSTRY
+
+
+
+
+
+
+
+L
+
+
+
+
+
+ree—— ap
+p— At
+oe e
+p— anre
+oo ke
+
+
+
+s B
+
+
+
+
+
+[re— ans
+
+
+
+wovsssesemee  CAL
+
+
+
+
+
+
+
+Etemal vt code
+
+1
+i
+
+(SRR BB R R R R R R R R R R R R R R R R R R R R R R R R RCRCRClChClC R R )
+
+
+
+
+
+
+
+(<))
+
+
+
+CALCHRROR
+CALCERROR
+
+CALCERROR
+
+ALCERROR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Messromert une.
+Test type
+
+
+
+
+
+omare
+
+
+
+= Cotified phemes
+
+
+
+Pesema
+Waming
+Pancioges
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sered 10 US sher vabdamon
+Doys of pamm. 1 om-bet et
+
+
+
+
+
+ Averages wetting, AVG
+
+
+
+Cabtancn mote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Avreace of Mormal AON!
+
+
+
+Nosmmier of peeres out
+Fort it ccmpare.
+
+
+
+
+
+= Morcing Averane WA
+
+
+
+Ooys of returtion of o,
+Festan
+Srem et 0g
+
+
+
+
+
+
+
+Uarderd devation (%
+
+
+
+~ Actiom
+
+
+
+
+
+Neuroer of peees
+Action o be per
+Nourreer of poees (|
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+.
+. cam
+. s
+. cau
+.car
+
+
+
+
+
+
+
+
+
+
+
+Oescrgtion
+
+1 Moww Post Prandial
+
+
+
+2 Houws Bont Prond
+PUTES
+PO
+sow-cCP
+
+gha Fevogeoten (AT
+Aesran Giote b Patie
+Lo
+
+rapis
+
+0
+
+
+
+sk Phesghatase (ALP)
+
+
+
+opurne Toamcammase (45T
+Totw Beta HCG
+T Bt HCG
+- -
+
+
+
+mected Cokcons Cammected Cakinm
+
+cua Carcemembeycs Artgen (<
+
+
+
+o€ Nebeneserie
+
+CHEMSTRY
+
+
+
+
+
+
+
+L
+
+
+
+
+
+ree—— ap
+p— At
+oe e
+p— anre
+oo ke
+
+
+
+s B
+
+
+
+
+
+[re— ans
+
+
+
+wovsssesemee  CAL
+
+
+
+
+
+
+
+Etemal vt code
+
+1
+i
+
+(SRR BB R R R R R R R R R R R R R R R R R R R R R R R R RCRCRClChClC R R )
+
+
+
+
+
+
+
+(<))
+
+
+
+CALCHRROR
+CALCERROR
+
+CALCERROR
+
+ALCERROR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Messromert une.
+Test type
+
+
+
+
+
+omare
+
+
+
+= Cotified phemes
+
+
+
+Pesema
+Waming
+Pancioges
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sered 10 US sher vabdamon
+Doys of pamm. 1 om-bet et
+
+
+
+
+
+ Averages wetting, AVG
+
+
+
+Cabtancn mote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Avreace of Mormal AON!
+
+
+
+Nosmmier of peeres out
+Fort it ccmpare.
+
+
+
+
+
+= Morcing Averane WA
+
+
+
+Ooys of returtion of o,
+Festan
+Srem et 0g
+
+
+
+
+
+
+
+Uarderd devation (%
+
+
+
+~ Actiom
+
+
+
+
+
+Neuroer of peees
+Action o be per
+Nourreer of poees (|
+
+Corrected OCR text:
+No correction supplied.

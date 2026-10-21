@@ -1,0 +1,118 @@
+Image: 000022_CAPTURE_20261020_141434_414.webp
+Image reference: 000022_CAPTURE_20261020_141434_414.webp
+MIME type: image/webp
+SHA-256: 07a82e1499fa4746c44dd2789dd0bda9b11437325fb4246aa1329e5929351042
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 22
+Included: Yes
+Captured: 2026-10-20T14:14:34.4295420+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.430
+OCR status: Completed
+OCR result ID: OCR-71199b6aec144c2bbf08b62be40ec5c4
+OCR completed UTC: 2026-10-20T06:32:32.1592883Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: *Untitled - Notepad
+Recognized screen ID: S0001
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+rovens ” L . {
+o ety ensbied tesn t 4 {
+de & Ana, do on scrptien Messromere ne Mot st se At type an de Vet shed Nome Pune | T T 1
+' o . [ . » s do Vet : o | [t vt code |
+g 0 D . | [ e et cote
+} {
+o smcn mte
+Nambr of peorts ot
+Port . compare
+[ Standars sevaron
+B | {
+Narmber of powets ¢
+Acticn %o be pur
+Nourreer of st ¢
+L= 4
+Resvore
+% [ (Test cote ' Mhe o Caveme
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+rovens ” L . {
+o ety ensbied tesn t 4 {
+de & Ana, do on scrptien Messromere ne Mot st se At type an de Vet shed Nome Pune | T T 1
+' o . [ . » s do Vet : o | [t vt code |
+g 0 D . | [ e et cote
+} {
+o smcn mte
+Nambr of peorts ot
+Port . compare
+[ Standars sevaron
+B | {
+Narmber of powets ¢
+Acticn %o be pur
+Nourreer of st ¢
+L= 4
+Resvore
+% [ (Test cote ' Mhe o Caveme
+
+Corrected OCR text:
+No correction supplied.

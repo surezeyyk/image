@@ -1,0 +1,140 @@
+Image: 000147_CLICK_20261020_141631_027_EVTAE0D3.webp
+Image reference: 000147_CLICK_20261020_141631_027_EVTAE0D3.webp
+MIME type: image/webp
+SHA-256: 99e120336feefca9675f452387fffa7cba0074936997d12b0578a2a88373f2ca
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 147
+Included: Yes
+Captured: 2026-10-20T14:16:31.0268294+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.780
+OCR status: Completed
+OCR result ID: OCR-44b6ab21580b47b9b08501064629d848
+OCR completed UTC: 2026-10-20T06:33:49.5637211Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Alc|dilution name: Dil 1 - factor: 4
+Recognized screen ID: OCR-814C71A661
+Recognized screen confidence: 0.780
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Alc|dilution name: Dil 1 - factor: 4
+Anti assay number : 1869
+
+Alphunit : mg/L
+
+Abd decimal : 3
+
+Alby Track code?
+
+Albd LIS code : VANq+
+
+ALD| type numeric
+
+Alks ref range 10 - 2
+
+ALQ)
+Alan
+
+Amr
+
+Click-region OCR:
+Alc|dilution name: Dil 1 - factor: 4
+Anti assay number : 1869
+
+Alphunit : mg/L
+
+Abd decimal : 3
+
+Alby Track code?
+
+Albd LIS code : VANq+
+
+ALD| type numeric
+
+Alks ref range 10 - 2
+
+ALQ)
+Alan
+
+Amr
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Alc|dilution name: Dil 1 - factor: 4
+Anti assay number : 1869
+
+Alphunit : mg/L
+
+Abd decimal : 3
+
+Alby Track code?
+
+Albd LIS code : VANq+
+
+ALD| type numeric
+
+Alks ref range 10 - 2
+
+ALQ)
+Alan
+
+Amr
+
+Corrected OCR text:
+No correction supplied.

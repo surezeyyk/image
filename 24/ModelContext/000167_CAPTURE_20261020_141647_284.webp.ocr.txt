@@ -1,0 +1,182 @@
+Image: 000167_CAPTURE_20261020_141647_284.webp
+Image reference: 000167_CAPTURE_20261020_141647_284.webp
+MIME type: image/webp
+SHA-256: 220f8ea11fb3bd4637e89a266ff89cfa5a91efefbb68c2fdbba90450cd14a2ec
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 167
+Included: Yes
+Captured: 2026-10-20T14:16:47.2958308+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.390
+OCR status: Completed
+OCR result ID: OCR-806969bae8b848c192ebb2c03e58665f
+OCR completed UTC: 2026-10-20T06:34:01.0272963Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: *Untitled - Notepad
+Recognized screen ID: S0001
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+= Vet preperin
+e, o . T cote
+B Ony enabied tesss
+Test gescrgnon
+1letcode & Amsiyincode Mnemonc  Omcrgtion Messcremert e Mask el vt cote Adwe  Tettpe Optens SN Mualcode Vebdty  Codfied ek - Nom P il
+. ™ e . Ureties Pectepod o X
+. » " Teed Fia (84 Fomat View Hep
+. N Vanc @y( in Test type R
+. e dilution name: Dil 1 - factor: 4 (o
+. ™6 Tl assay number : 1869 ~=
+¢ ™ munit : S =
+. WCA oA vaeca 24 decimal 3 » -
+« vt wa M Track code? Cosbad commants
+" UNCEA  WKREA A M LIS code : VANC remar cote
+CUMGU  WRY  UMAY 24 type numeric Optwnat
+. e o vk i ref range 10 - 2 . ]
+« vaen RemAs Y aane
+. e UM MG - Serd v0 US e - obdancn
+- wou N 2y Dags of parm. - st 55
+RS QEMOS UKD 2y T Arrraon witigs VG
+©@EROT  WEROT  LR4PROT un Cokson mote
+CRWA weM UMW 2y Lemsre senge
+¢ RasEA Wasia uy ::::-,.
+« uaey - “ et
+™ ™ v ™ e -
+« uan waary an Yoarmber of et por g0
+. ey
+“ uca X2 veaz - iveeaon of Normal AC
+w wi [t Nourriser o peorts ot
+wcoR? vcomt Port shit . compare
+WA uoma i T N Avermge (A
+" vec rrevreene e - fagcoe - Doy of retertion of )
+. w u\ vesssseen s v Mumer ? — - |
+UM A e rram——— )MALE Tmers ? — - {
+e e fes e Pamens 7 CALCERROR - :""“"‘""
+.o G s e Magpressom et e umenc ? : »::_‘.....4
+. o e e U Sedum i v B e 7 SRR 1
+v ueR wer vecr e ot Crammene Fae mymont vocn e 7 CALCERROR R o et 1
+. UPoS wHos UPwOS e Phosghate Py e Numers ? )
+« upmo who R0 e Proten - pe—— vo%0 Nmers ? o = o
+o vssa s [, i p— s Pumens 7
+o uTany T At e Armase. Tomed un o s Pemant ? W 8 S A Datse
+. oua wa W Uric Aot it vonevanee v v Nurmers 0
+. oma vueEa e Ures et UAmEA F] e ? Ouable:
+b o vanc Vencomycn  VANC e omers ?
+
+
+
++ had v X Cancel
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+= Vet preperin
+e, o . T cote
+B Ony enabied tesss
+Test gescrgnon
+1letcode & Amsiyincode Mnemonc  Omcrgtion Messcremert e Mask el vt cote Adwe  Tettpe Optens SN Mualcode Vebdty  Codfied ek - Nom P il
+. ™ e . Ureties Pectepod o X
+. » " Teed Fia (84 Fomat View Hep
+. N Vanc @y( in Test type R
+. e dilution name: Dil 1 - factor: 4 (o
+. ™6 Tl assay number : 1869 ~=
+¢ ™ munit : S =
+. WCA oA vaeca 24 decimal 3 » -
+« vt wa M Track code? Cosbad commants
+" UNCEA  WKREA A M LIS code : VANC remar cote
+CUMGU  WRY  UMAY 24 type numeric Optwnat
+. e o vk i ref range 10 - 2 . ]
+« vaen RemAs Y aane
+. e UM MG - Serd v0 US e - obdancn
+- wou N 2y Dags of parm. - st 55
+RS QEMOS UKD 2y T Arrraon witigs VG
+©@EROT  WEROT  LR4PROT un Cokson mote
+CRWA weM UMW 2y Lemsre senge
+¢ RasEA Wasia uy ::::-,.
+« uaey - “ et
+™ ™ v ™ e -
+« uan waary an Yoarmber of et por g0
+. ey
+“ uca X2 veaz - iveeaon of Normal AC
+w wi [t Nourriser o peorts ot
+wcoR? vcomt Port shit . compare
+WA uoma i T N Avermge (A
+" vec rrevreene e - fagcoe - Doy of retertion of )
+. w u\ vesssseen s v Mumer ? — - |
+UM A e rram——— )MALE Tmers ? — - {
+e e fes e Pamens 7 CALCERROR - :""“"‘""
+.o G s e Magpressom et e umenc ? : »::_‘.....4
+. o e e U Sedum i v B e 7 SRR 1
+v ueR wer vecr e ot Crammene Fae mymont vocn e 7 CALCERROR R o et 1
+. UPoS wHos UPwOS e Phosghate Py e Numers ? )
+« upmo who R0 e Proten - pe—— vo%0 Nmers ? o = o
+o vssa s [, i p— s Pumens 7
+o uTany T At e Armase. Tomed un o s Pemant ? W 8 S A Datse
+. oua wa W Uric Aot it vonevanee v v Nurmers 0
+. oma vueEa e Ures et UAmEA F] e ? Ouable:
+b o vanc Vencomycn  VANC e omers ?
+
+
+
++ had v X Cancel
+
+Corrected OCR text:
+No correction supplied.

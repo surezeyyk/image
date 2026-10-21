@@ -1,0 +1,210 @@
+Image: 000119_CAPTURE_20261020_141609_977.webp
+Image reference: 000119_CAPTURE_20261020_141609_977.webp
+MIME type: image/webp
+SHA-256: a16af33fda3067b653e8ba9e498e2667e755db14a2dc6c60db4cdf07ae61542c
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 119
+Included: Yes
+Captured: 2026-10-20T14:16:09.9895712+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.400
+OCR status: Completed
+OCR result ID: OCR-56cacacfd2e4459497c0fb140b941619
+OCR completed UTC: 2026-10-20T06:33:24.3906675Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+o~ oty enabied test
+
+
+
+reten Messiromert une Mok
+
+
+
+e A
+
+
+
+do Vabtt Sihad rewits - Newm Pty
+
+
+
+Send to U sher < pbcdanc
+
+(<)
+
+
+
+
+
+[
+
+et g
+
+Cometeme
+| Upper ime 1
+
+Aceragetive
+Vourmter of resits por p
+
+
+
+o
+
+
+
+wox of Normd (ADM
+Noummier of peres ot
+
+Fort it S comeae
+
+
+
+ of vetertion of
+
+
+
+
+
+Mamrer of pors
+[ Asenre begur|
+
+
+
+Pourmber of posrts
+
+
+
+X 9 (Test code s e van' Cuomen
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+o~ oty enabied test
+
+
+
+reten Messiromert une Mok
+
+
+
+e A
+
+
+
+do Vabtt Sihad rewits - Newm Pty
+
+
+
+Send to U sher < pbcdanc
+
+(<)
+
+
+
+
+
+[
+
+et g
+
+Cometeme
+| Upper ime 1
+
+Aceragetive
+Vourmter of resits por p
+
+
+
+o
+
+
+
+wox of Normd (ADM
+Noummier of peres ot
+
+Fort it S comeae
+
+
+
+ of vetertion of
+
+
+
+
+
+Mamrer of pors
+[ Asenre begur|
+
+
+
+Pourmber of posrts
+
+
+
+X 9 (Test code s e van' Cuomen
+
+Corrected OCR text:
+No correction supplied.

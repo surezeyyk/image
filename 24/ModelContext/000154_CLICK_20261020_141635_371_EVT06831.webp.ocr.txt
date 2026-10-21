@@ -1,0 +1,215 @@
+Image: 000154_CLICK_20261020_141635_371_EVT06831.webp
+Image reference: 000154_CLICK_20261020_141635_371_EVT06831.webp
+MIME type: image/webp
+SHA-256: 8aa18af1396b711eb329fcda80d70605337a46bef2413b2b6f40f294540c7f94
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 154
+Included: Yes
+Captured: 2026-10-20T14:16:35.3717919+08:00
+Original resolution: Unknown
+Saved resolution: 365 x 250
+OCR confidence: 0.820
+OCR status: Completed
+OCR result ID: OCR-c058a17061764c249597f9b2003184ec
+OCR completed UTC: 2026-10-20T06:33:52.8523864Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: de VANC
+Recognized screen ID: OCR-878ED19AB5
+Recognized screen confidence: 0.820
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+de VANC
+onic Vancomycin
+2scription VANC
+3| test code VANC
+
+
+
+3| test code for export
+
+
+
+is
+
+
+
+
+
+
+
+rement unit
+
+
+
+pe
+
+Numeric
+
+
+
+ed phrases
+
+
+
+mal
+
+
+
+rning
+
+
+
+
+
+halamieal
+
+Click-region OCR:
+de VANC
+onic Vancomycin
+2scription VANC
+3| test code VANC
+
+
+
+3| test code for export
+
+
+
+is
+
+
+
+
+
+
+
+rement unit
+
+
+
+pe
+
+Numeric
+
+
+
+ed phrases
+
+
+
+mal
+
+
+
+rning
+
+
+
+
+
+halamieal
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+de VANC
+onic Vancomycin
+2scription VANC
+3| test code VANC
+
+
+
+3| test code for export
+
+
+
+is
+
+
+
+
+
+
+
+rement unit
+
+
+
+pe
+
+Numeric
+
+
+
+ed phrases
+
+
+
+mal
+
+
+
+rning
+
+
+
+
+
+halamieal
+
+Corrected OCR text:
+No correction supplied.

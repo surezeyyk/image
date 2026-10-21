@@ -1,0 +1,130 @@
+Image: 000046_CAPTURE_20261020_141506_768.webp
+Image reference: 000046_CAPTURE_20261020_141506_768.webp
+MIME type: image/webp
+SHA-256: b0f73f1bda9e4fa8193098d848706b82886b2f33cb949723f4e0a34a86b22820
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 46
+Included: Yes
+Captured: 2026-10-20T14:15:06.7816931+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.370
+OCR status: Completed
+OCR result ID: OCR-291b47504a6e4e57b3165309e6e7f00d
+OCR completed UTC: 2026-10-20T06:32:48.0326953Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+- do Ve creten Messiremert une ot o ose Acy Test type -t SN ode Vbt shed e e Pune | T — 1
+' - ° - r [ D - s W
+e . e wan
+»ewm i Wiz ot gkl wi B men 1 Ao ]
+o w » - v % o [ et e U5 sher oo ]
+Dops of parm. 2 om b o
+Upeer ieme 1 ]
+Sengae I ]
+Vourrber of et par po
+S o Suntnd
+Sarderd dmoaton
+Touroer of porers |
+At to b pur
+b of pesrts ¢
+Acvonte 1
+[ e e aies |
+Cdtan sop et ame
+e 26 e A Dutaie
+Cuable
+X 0 Descrption b e v Catomae
+= o+ aas v X Concel
+
+B o B e & Ome
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+- do Ve creten Messiremert une ot o ose Acy Test type -t SN ode Vbt shed e e Pune | T — 1
+' - ° - r [ D - s W
+e . e wan
+»ewm i Wiz ot gkl wi B men 1 Ao ]
+o w » - v % o [ et e U5 sher oo ]
+Dops of parm. 2 om b o
+Upeer ieme 1 ]
+Sengae I ]
+Vourrber of et par po
+S o Suntnd
+Sarderd dmoaton
+Touroer of porers |
+At to b pur
+b of pesrts ¢
+Acvonte 1
+[ e e aies |
+Cdtan sop et ame
+e 26 e A Dutaie
+Cuable
+X 0 Descrption b e v Catomae
+= o+ aas v X Concel
+
+B o B e & Ome
+
+Corrected OCR text:
+No correction supplied.

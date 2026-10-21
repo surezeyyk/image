@@ -1,0 +1,122 @@
+Image: 000084_CAPTURE_20261020_141535_311.webp
+Image reference: 000084_CAPTURE_20261020_141535_311.webp
+MIME type: image/webp
+SHA-256: 393d13c2d280d908faf1d5704437af6906d2d17365cb5ed4128c4da6f36c86e9
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 84
+Included: Yes
+Captured: 2026-10-20T14:15:35.3246435+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.540
+OCR status: Completed
+OCR result ID: OCR-2e76324b03f1442885a86c9e0509fae8
+OCR completed UTC: 2026-10-20T06:33:09.1235021Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+ER R B B R R BB R R B R R R R R R R R R RCR RN
+
+
+
+Workstatm weyer
+
+
+
+
+
+o omape
+
+
+
+v X Caneet
+
+Unk OC sor
+
+@ oy [ Copytom
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+ER R B B R R BB R R B R R R R R R R R R RCR RN
+
+
+
+Workstatm weyer
+
+
+
+
+
+o omape
+
+
+
+v X Caneet
+
+Unk OC sor
+
+@ oy [ Copytom
+
+Corrected OCR text:
+No correction supplied.

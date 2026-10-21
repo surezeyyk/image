@@ -1,0 +1,168 @@
+Image: 000158_CAPTURE_20261020_141638_843.webp
+Image reference: 000158_CAPTURE_20261020_141638_843.webp
+MIME type: image/webp
+SHA-256: e1c2a5bcbd112efdcf63e96757408fa8ad0805c11b624bbdf987394d8e404507
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 158
+Included: Yes
+Captured: 2026-10-20T14:16:38.8559637+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.420
+OCR status: Completed
+OCR result ID: OCR-c75c477f67084be3828092df123123ae
+OCR completed UTC: 2026-10-20T06:33:55.1215564Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+s Ciaads 1
+- tests Wnemome ___[vencomyon ]
+[Tetsmscngmen  [uaw 1
+1 Towt code ode Mnarmarsc Mesremert e Mok e SAN  Muesicode Vedey  Cod Mo # ey 1
+v U e Lol tout code for enpont
+. wor oo vor Hows Post Prandi vor = = |
+. 2o - vor Hours Post Pramtisl vor ] |
+. aner e o - aer ) AL CuRROR ]
+« acce e acce owr-CCP " » ]
+. a o we " a ] {
+. u P /G Rae ] ALCERROR 1
+. ap ae ap » = 1
+. aw e e » ap ]
+. ALD & Y D [ |
+. ap e ar A b Prosghatase (ALP ar %
+cwo we u u = ;
+. Morena Tromsomnase (ALT ] [ Sentve U5 s woitamen = ]
+. , = - ]
+. = ]
+. wniBe e e HBe epatas § ¢ Arobody e Hbe o N g |
+Corerved ores
+o - . st 1
+. anv ' = o |
+st ast amese (AT a5t u [Tacerage e )|
+" [ b ! e u Yourber ot et por |
+. b o Beta HCG Screen = ]
+.o - - - = |
+. s ot wor = ]
+. = ]
+. 4 4 ‘ ‘ | 1
+. ‘ an ] i
+. ca " A A A ] d
+. cams 19 a5 219 i a5 = 1
+’ = 1
+. AL A Al ) 1
+. Al A Al ] )
+. car » =
+. cca A A = A cumpon
+. ct 1 W w 1 )
+.o ]
+» O e « )
+v vt =
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+s Ciaads 1
+- tests Wnemome ___[vencomyon ]
+[Tetsmscngmen  [uaw 1
+1 Towt code ode Mnarmarsc Mesremert e Mok e SAN  Muesicode Vedey  Cod Mo # ey 1
+v U e Lol tout code for enpont
+. wor oo vor Hows Post Prandi vor = = |
+. 2o - vor Hours Post Pramtisl vor ] |
+. aner e o - aer ) AL CuRROR ]
+« acce e acce owr-CCP " » ]
+. a o we " a ] {
+. u P /G Rae ] ALCERROR 1
+. ap ae ap » = 1
+. aw e e » ap ]
+. ALD & Y D [ |
+. ap e ar A b Prosghatase (ALP ar %
+cwo we u u = ;
+. Morena Tromsomnase (ALT ] [ Sentve U5 s woitamen = ]
+. , = - ]
+. = ]
+. wniBe e e HBe epatas § ¢ Arobody e Hbe o N g |
+Corerved ores
+o - . st 1
+. anv ' = o |
+st ast amese (AT a5t u [Tacerage e )|
+" [ b ! e u Yourber ot et por |
+. b o Beta HCG Screen = ]
+.o - - - = |
+. s ot wor = ]
+. = ]
+. 4 4 ‘ ‘ | 1
+. ‘ an ] i
+. ca " A A A ] d
+. cams 19 a5 219 i a5 = 1
+’ = 1
+. AL A Al ) 1
+. Al A Al ] )
+. car » =
+. cca A A = A cumpon
+. ct 1 W w 1 )
+.o ]
+» O e « )
+v vt =
+
+Corrected OCR text:
+No correction supplied.

@@ -1,0 +1,174 @@
+Image: 000089_CAPTURE_20261020_141540_784.webp
+Image reference: 000089_CAPTURE_20261020_141540_784.webp
+MIME type: image/webp
+SHA-256: 67ccab7a445aab60fab54d126dac3481c940917973593ad52aefb1bbe942d769
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 89
+Included: Yes
+Captured: 2026-10-20T14:15:40.7967623+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.370
+OCR status: Completed
+OCR result ID: OCR-01026aa534a847ab86879d2f0c48b176
+OCR completed UTC: 2026-10-20T06:33:11.4701524Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+g 8 CoRamn hander here 1 groug by thet comme
+
+Ansyie  Descrgton ege Wodsganon sbsestony code image
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reril— ovecromremn b as po s x]
+T Atpees cose At dmuptn Werkststion
+A Y Mg 1 |AMSPRI]
+- e tetrenest g [T Conecsreny Bk
+A ™ o Test . Oowrbosd & Uplaad Avtomotion Pl Active [N pe
+~ ~ " o= AcCP 20 - -
+N . . . . - —
+- A “w MESAGN - Dedete
+” " . o @ Doee st
+o mnsigiphemat (po—
+o oot code
+° " s -
+. . e Rz
+
+Qe
+
+L4
+
+
+
+
+
+X Cancet
+
+o omope
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+g 8 CoRamn hander here 1 groug by thet comme
+
+Ansyie  Descrgton ege Wodsganon sbsestony code image
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reril— ovecromremn b as po s x]
+T Atpees cose At dmuptn Werkststion
+A Y Mg 1 |AMSPRI]
+- e tetrenest g [T Conecsreny Bk
+A ™ o Test . Oowrbosd & Uplaad Avtomotion Pl Active [N pe
+~ ~ " o= AcCP 20 - -
+N . . . . - —
+- A “w MESAGN - Dedete
+” " . o @ Doee st
+o mnsigiphemat (po—
+o oot code
+° " s -
+. . e Rz
+
+Qe
+
+L4
+
+
+
+
+
+X Cancet
+
+o omope
+
+Corrected OCR text:
+No correction supplied.

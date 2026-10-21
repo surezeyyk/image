@@ -1,0 +1,288 @@
+Image: 000136_CAPTURE_20261020_141623_600.webp
+Image reference: 000136_CAPTURE_20261020_141623_600.webp
+MIME type: image/webp
+SHA-256: d47a89002cec26436bac0a09caeb4381c75c651812c62595bfb2f71d9c738e9c
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 136
+Included: Yes
+Captured: 2026-10-20T14:16:23.6138622+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.620
+OCR status: Completed
+OCR result ID: OCR-e48ac0c6d4f04db18b16883db2e448c9
+OCR completed UTC: 2026-10-20T06:33:44.4530050Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+2o e
+
+
+
+
+
+
+
+
+
+
+
+
+
+wton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Messuremert une
+
+
+
+
+
+
+
+w
+
+
+
+
+
+
+
+[
+
+
+
+
+
+
+
+[ R R R B R B R R R R R R R R R B R R R R R R R R R R R R R R R R R R RN}
+
+
+
+
+
+=
+
+=
+=
+
+(<]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1<}
+
+X Cancel
+
+(& Cose
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+2o e
+
+
+
+
+
+
+
+
+
+
+
+
+
+wton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Messuremert une
+
+
+
+
+
+
+
+w
+
+
+
+
+
+
+
+[
+
+
+
+
+
+
+
+[ R R R B R B R R R R R R R R R B R R R R R R R R R R R R R R R R R R RN}
+
+
+
+
+
+=
+
+=
+=
+
+(<]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1<}
+
+X Cancel
+
+(& Cose
+
+Corrected OCR text:
+No correction supplied.

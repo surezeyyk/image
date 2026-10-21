@@ -1,0 +1,221 @@
+Image: 000050_CLICK_20261020_141509_929_EVT52CD0.webp
+Image reference: 000050_CLICK_20261020_141509_929_EVT52CD0.webp
+MIME type: image/webp
+SHA-256: abe6b542a864d656928e3e911d17f50237faebdad3ddc7334170ff8e34845c9c
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 50
+Included: Yes
+Captured: 2026-10-20T14:15:09.9295888+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.870
+OCR status: Completed
+OCR result ID: OCR-edeb7e030eb84770a2a26167a0669835
+OCR completed UTC: 2026-10-20T06:32:53.1787951Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: ] T ]
+Recognized screen ID: OCR-FB5B3C6404
+Recognized screen confidence: 0.870
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+] T ]
+alidity  Codified results - Norr Pz
+
+
+
+
+
+10
+
+10 +
+
+7 :CALCERROR:
+7 :CALCERROR:
+7
+7
+
+7 :CALCERROR:
+-
+
+
+
+
+
+
+
+
+
+
+
+
+Codified comments
+Material code
+Optional
+
+
+
+Send to LIS after validation
+Days of perm. in on-line hi
+- Averages settings (AVG)
+Calculation mode
+Literature average
+Observed average
+
+
+
+Lower limit
+
+Click-region OCR:
+] T ]
+alidity  Codified results - Norr Pz
+
+
+
+
+
+10
+
+10 +
+
+7 :CALCERROR:
+7 :CALCERROR:
+7
+7
+
+7 :CALCERROR:
+-
+
+
+
+
+
+
+
+
+
+
+
+
+Codified comments
+Material code
+Optional
+
+
+
+Send to LIS after validation
+Days of perm. in on-line hi
+- Averages settings (AVG)
+Calculation mode
+Literature average
+Observed average
+
+
+
+Lower limit
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+] T ]
+alidity  Codified results - Norr Pz
+
+
+
+
+
+10
+
+10 +
+
+7 :CALCERROR:
+7 :CALCERROR:
+7
+7
+
+7 :CALCERROR:
+-
+
+
+
+
+
+
+
+
+
+
+
+
+Codified comments
+Material code
+Optional
+
+
+
+Send to LIS after validation
+Days of perm. in on-line hi
+- Averages settings (AVG)
+Calculation mode
+Literature average
+Observed average
+
+
+
+Lower limit
+
+Corrected OCR text:
+No correction supplied.

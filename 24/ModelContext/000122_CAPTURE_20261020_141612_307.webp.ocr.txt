@@ -1,0 +1,170 @@
+Image: 000122_CAPTURE_20261020_141612_307.webp
+Image reference: 000122_CAPTURE_20261020_141612_307.webp
+MIME type: image/webp
+SHA-256: ab5750974146a81ff3b9a67180c103ee840bde37c909466ab4b2ec1248a1bad8
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 122
+Included: Yes
+Captured: 2026-10-20T14:16:12.3193865+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.460
+OCR status: Completed
+OCR result ID: OCR-015c05bfc61341c1bc20dcb75366d7b6
+OCR completed UTC: 2026-10-20T06:33:26.1816239Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+e 1
+1 Tont code S0 Mmermor Messremert une Mo tere ot cde. an Mareral cc3e odbed rewits - Mo P T 1
+. nov vor vor = ]
+»a sec  ave axce . = Ap— ]
+P Mo Ao s . accr = ]
+. w wr Mg Fesopeston (59 y = 1
+. a6 P /G Rate Ao Glothokn Pat » ] AL cERROR 1
+. s = ]
+caw uw a ]
+i ~ = = ]
+. e 7] 1
+. a = u ] |
+o ur = = ]
+cum  am =
+
+- p = 1
+. ANAL D ] |
+» e = 1
+. E = = ]
+.o anv = = 1
+- - a ]
+.« o e L] Hearmber of rests por po |
+e s [ Mamberof st pr ]
+.o - = = ]
+ot wor = = ]
+. = ]
+et s ) |
+. % ]
+- N s oo o dennd_| |
+cam  am = ]
+u - ]
+- caL ” ]
+
+. cu u = = LL ]
+. » = =
+
+" CCA " = ACIWOR
+
+ca =
+
+.o . ] =
+
+. o e A =
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+e 1
+1 Tont code S0 Mmermor Messremert une Mo tere ot cde. an Mareral cc3e odbed rewits - Mo P T 1
+. nov vor vor = ]
+»a sec  ave axce . = Ap— ]
+P Mo Ao s . accr = ]
+. w wr Mg Fesopeston (59 y = 1
+. a6 P /G Rate Ao Glothokn Pat » ] AL cERROR 1
+. s = ]
+caw uw a ]
+i ~ = = ]
+. e 7] 1
+. a = u ] |
+o ur = = ]
+cum  am =
+
+- p = 1
+. ANAL D ] |
+» e = 1
+. E = = ]
+.o anv = = 1
+- - a ]
+.« o e L] Hearmber of rests por po |
+e s [ Mamberof st pr ]
+.o - = = ]
+ot wor = = ]
+. = ]
+et s ) |
+. % ]
+- N s oo o dennd_| |
+cam  am = ]
+u - ]
+- caL ” ]
+
+. cu u = = LL ]
+. » = =
+
+" CCA " = ACIWOR
+
+ca =
+
+.o . ] =
+
+. o e A =
+
+Corrected OCR text:
+No correction supplied.

@@ -1,0 +1,143 @@
+Image: 000075_CLICK_20261020_141530_457_EVT8FF37.webp
+Image reference: 000075_CLICK_20261020_141530_457_EVT8FF37.webp
+MIME type: image/webp
+SHA-256: 3afe7614591b4bc70b432604b11efa3baf8d2ff58b6593f074be406cf539a417
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: CONFIGURATOR.SEC.5_8_6_3
+Hierarchy path: Configurator > Configurator > Analyzers > Analyzer configuration > Instrument flags
+Hierarchy manual: Configurator
+Hierarchy section: 5.8.6.3
+Hierarchy node type: Section
+Hierarchy source: Automatic OCR match
+Hierarchy confidence: 95%
+Hierarchy evidence: OCR contains the screen title: Instrument flags
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 75
+Included: Yes
+Captured: 2026-10-20T14:15:30.4574006+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.730
+OCR status: Completed
+OCR result ID: OCR-aa8a883b3e42425dad050f8fb11bb5bd
+OCR completed UTC: 2026-10-20T06:33:05.2544560Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Configurator > Configurator > Analyzers > Analyzer configuration > Instrument flags
+Recognized screen ID: CONFIGURATOR.SEC.5_8_6_3
+Recognized screen confidence: 0.950
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+AM
+AM
+™
+™
+™
+™
+™
+™
+TM
+
+
+
+CONNECTION MANAGER © 2024 - Rel. 11.2.0 - Analyzer chai
+
+Analyzer code Analyzer description
+Alci-1 Alci-1
+I mifle instrument flags Test/Channel
+Transmission settings Bit
+Port SOCKET v L
+Baud rate 9600 e
+
+Click-region OCR:
+AM
+AM
+™
+™
+™
+™
+™
+™
+TM
+
+
+
+CONNECTION MANAGER © 2024 - Rel. 11.2.0 - Analyzer chai
+
+Analyzer code Analyzer description
+Alci-1 Alci-1
+I mifle instrument flags Test/Channel
+Transmission settings Bit
+Port SOCKET v L
+Baud rate 9600 e
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+AM
+AM
+™
+™
+™
+™
+™
+™
+TM
+
+
+
+CONNECTION MANAGER © 2024 - Rel. 11.2.0 - Analyzer chai
+
+Analyzer code Analyzer description
+Alci-1 Alci-1
+I mifle instrument flags Test/Channel
+Transmission settings Bit
+Port SOCKET v L
+Baud rate 9600 e
+
+Corrected OCR text:
+No correction supplied.

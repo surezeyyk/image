@@ -1,0 +1,158 @@
+Image: 000013_CLICK_20261020_141425_708_EVTE1BEC.webp
+Image reference: 000013_CLICK_20261020_141425_708_EVTE1BEC.webp
+MIME type: image/webp
+SHA-256: eb5ce625fc12e45c643d03c68039deb660185d62ca55cf2662002db8dc39a1fb
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 13
+Included: Yes
+Captured: 2026-10-20T14:14:25.7079485+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.860
+OCR status: Completed
+OCR result ID: OCR-41b66a7d51d6407aa60a2bc04bdc4692
+OCR completed UTC: 2026-10-20T06:32:28.8093229Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Abbott
+Recognized screen ID: OCR-3EAFB67A7B
+Recognized screen confidence: 0.860
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Abbott
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v 0K
+
+
+
+
+
+”
+
+X Cancel
+
+Click-region OCR:
+Abbott
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v 0K
+
+
+
+
+
+”
+
+X Cancel
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Abbott
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v 0K
+
+
+
+
+
+”
+
+X Cancel
+
+Corrected OCR text:
+No correction supplied.

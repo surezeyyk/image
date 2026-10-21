@@ -1,0 +1,556 @@
+Image: 000164_CAPTURE_20261020_141641_704.webp
+Image reference: 000164_CAPTURE_20261020_141641_704.webp
+MIME type: image/webp
+SHA-256: cad8a55f66b77198f43e4f9c9b6ac6bb13a26222db160863a6068e44eb24d02d
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 164
+Included: Yes
+Captured: 2026-10-20T14:16:41.7179345+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.470
+OCR status: Completed
+OCR result ID: OCR-405d8040ccc7487c813d11badcd2d298
+OCR completed UTC: 2026-10-20T06:33:58.2999599Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+wamia
+
+e
+
+
+
+Unetied - Maotepad
+
+
+
+(41 Fomat Vew e e
+2 Vancomyc in
+dilution name: Dil 1
+Tl assay number : 1869
+munit : mg/L
+{decimal : 3
+#H Track code?
+H#HLIS code :
+¥ type numeric
+uHref range 10 - 2
+2y
+
+-
+
+2y
+
+2H
+
+2y
+
+2
+
+
+
+factor: 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e
+
+D L) S D
+Unre Potassasen. el p—
+e ABume -0 T
+
+Wi Ao Crastirnne Fate
+bt Magrsasen
+U Sengusrm.
+
+e Proten Crameent Fate
+
+e Prasgiate e
+e Proten -
+
+e Y
+
+(e Armyase Tomed un s
+
+Wi Uric Acs
+
+VAN
+
+
+
+
+
+Etema e code
+
+Adve  Teange
+Mmers
+Mumers
+
+Windows (C9LF)
+
+(SR BB R R R R B R RCR i)
+
+Optonst  SMAN
+
+Cal 2
+
+Muteral code
+
+Vemse,
+
+Codbond remts - Mo P4
+
+CALCERRO
+
+
+
+T CALCERROR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T Averae of Normd AOW)
+
+
+
+Poumier of pesrts ot |
+Port et % compans
+
+
+
+
+
+
+
+
+
+= Moving Avevage (A
+
+
+
+Doys of retertion of o,
+Festan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+S o drnteard
+
+arrerd oecaton
+T
+
+ Houmbe of poets 1
+
+Acven to e per 1
+
+Nt of poets < |
+
+Obaan o8 Ret anges
+
+s G bers A Detae
+
+Ouabie
++ e v X Concel
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+wamia
+
+e
+
+
+
+Unetied - Maotepad
+
+
+
+(41 Fomat Vew e e
+2 Vancomyc in
+dilution name: Dil 1
+Tl assay number : 1869
+munit : mg/L
+{decimal : 3
+#H Track code?
+H#HLIS code :
+¥ type numeric
+uHref range 10 - 2
+2y
+
+-
+
+2y
+
+2H
+
+2y
+
+2
+
+
+
+factor: 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e
+
+D L) S D
+Unre Potassasen. el p—
+e ABume -0 T
+
+Wi Ao Crastirnne Fate
+bt Magrsasen
+U Sengusrm.
+
+e Proten Crameent Fate
+
+e Prasgiate e
+e Proten -
+
+e Y
+
+(e Armyase Tomed un s
+
+Wi Uric Acs
+
+VAN
+
+
+
+
+
+Etema e code
+
+Adve  Teange
+Mmers
+Mumers
+
+Windows (C9LF)
+
+(SR BB R R R R B R RCR i)
+
+Optonst  SMAN
+
+Cal 2
+
+Muteral code
+
+Vemse,
+
+Codbond remts - Mo P4
+
+CALCERRO
+
+
+
+T CALCERROR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T Averae of Normd AOW)
+
+
+
+Poumier of pesrts ot |
+Port et % compans
+
+
+
+
+
+
+
+
+
+= Moving Avevage (A
+
+
+
+Doys of retertion of o,
+Festan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+S o drnteard
+
+arrerd oecaton
+T
+
+ Houmbe of poets 1
+
+Acven to e per 1
+
+Nt of poets < |
+
+Obaan o8 Ret anges
+
+s G bers A Detae
+
+Ouabie
++ e v X Concel
+
+Corrected OCR text:
+No correction supplied.

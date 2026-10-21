@@ -1,0 +1,134 @@
+Image: 000059_CLICK_20261020_141521_440_EVT04AC9.webp
+Image reference: 000059_CLICK_20261020_141521_440_EVT04AC9.webp
+MIME type: image/webp
+SHA-256: f5fc098705686f4d359e7a43bab6756ca3cd64b09856b689b7a7a8e7f2067f05
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: CONFIGURATOR.SEC.5_7
+Hierarchy path: Configurator > Configurator > Instrumental interfacing
+Hierarchy manual: Configurator
+Hierarchy section: 5.7
+Hierarchy node type: Section
+Hierarchy source: Automatic OCR match
+Hierarchy confidence: 95%
+Hierarchy evidence: OCR contains the screen title: Instrumental interfacing
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 59
+Included: Yes
+Captured: 2026-10-20T14:15:21.4409025+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.650
+OCR status: Completed
+OCR result ID: OCR-26434c7605e54079b890df31ceee967f
+OCR completed UTC: 2026-10-20T06:33:01.4765107Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Configurator > Configurator > Instrumental interfacing
+Recognized screen ID: CONFIGURATOR.SEC.5_7
+Recognized screen confidence: 0.950
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+& Instrumental interfacing
+
+i . Analyzers
+
++ . THKD - Thomson Hospital Kota Damansara
+& AC04516 ALCI-1-C
+
+- AC04517 ALCI-2-C
+
+- Ai22517 ALCI-1-
+
+& Ai22521 ALCI-2-|
+
+Review02 Review02
+
+Review02-TWM Review02-TWM
+COMIIIOA Al CILI.COM
+
+Click-region OCR:
+& Instrumental interfacing
+
+i . Analyzers
+
++ . THKD - Thomson Hospital Kota Damansara
+& AC04516 ALCI-1-C
+
+- AC04517 ALCI-2-C
+
+- Ai22517 ALCI-1-
+
+& Ai22521 ALCI-2-|
+
+Review02 Review02
+
+Review02-TWM Review02-TWM
+COMIIIOA Al CILI.COM
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+& Instrumental interfacing
+
+i . Analyzers
+
++ . THKD - Thomson Hospital Kota Damansara
+& AC04516 ALCI-1-C
+
+- AC04517 ALCI-2-C
+
+- Ai22517 ALCI-1-
+
+& Ai22521 ALCI-2-|
+
+Review02 Review02
+
+Review02-TWM Review02-TWM
+COMIIIOA Al CILI.COM
+
+Corrected OCR text:
+No correction supplied.

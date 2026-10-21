@@ -1,0 +1,146 @@
+Image: 000172_CLICK_20261020_141650_954_EVT38146.webp
+Image reference: 000172_CLICK_20261020_141650_954_EVT38146.webp
+MIME type: image/webp
+SHA-256: a9d4260f2967e2d8aadf210407ee4d0c85f8f6f64a266f3f2d136909f24ac10e
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: CONFIGURATOR.SEC.5_18_1_4
+Hierarchy path: Configurator > Configurator > Profiles / Analysis / Tests / Specimen > Tests > AVG filters
+Hierarchy manual: Configurator
+Hierarchy section: 5.18.1.4
+Hierarchy node type: Function/Procedure
+Hierarchy source: Automatic OCR match
+Hierarchy confidence: 95%
+Hierarchy evidence: OCR contains the screen title: AVG filters
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 172
+Included: Yes
+Captured: 2026-10-20T14:16:50.9541371+08:00
+Original resolution: Unknown
+Saved resolution: 337 x 247
+OCR confidence: 0.780
+OCR status: Completed
+OCR result ID: OCR-1775b13352a646a68eb709f3b56f60de
+OCR completed UTC: 2026-10-20T06:34:05.2652855Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Configurator > Configurator > Profiles / Analysis / Tests / Specimen > Tests > AVG filters
+Recognized screen ID: CONFIGURATOR.SEC.5_18_1_4
+Recognized screen confidence: 0.950
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Dilution SOP Ref. ranges
+
+
+
+Wizard AVG filters MA Details
+Disable
+
+< Add v Appl;i- X Cancel
+
+B Export -ﬁ Import x| Close
+
+
+
+
+
+
+
+6PM
+10/20/2026
+
+AT
+
+Click-region OCR:
+Dilution SOP Ref. ranges
+
+
+
+Wizard AVG filters MA Details
+Disable
+
+< Add v Appl;i- X Cancel
+
+B Export -ﬁ Import x| Close
+
+
+
+
+
+
+
+6PM
+10/20/2026
+
+AT
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Dilution SOP Ref. ranges
+
+
+
+Wizard AVG filters MA Details
+Disable
+
+< Add v Appl;i- X Cancel
+
+B Export -ﬁ Import x| Close
+
+
+
+
+
+
+
+6PM
+10/20/2026
+
+AT
+
+Corrected OCR text:
+No correction supplied.

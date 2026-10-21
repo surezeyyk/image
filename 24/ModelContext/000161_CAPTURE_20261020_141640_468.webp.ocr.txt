@@ -1,0 +1,174 @@
+Image: 000161_CAPTURE_20261020_141640_468.webp
+Image reference: 000161_CAPTURE_20261020_141640_468.webp
+MIME type: image/webp
+SHA-256: 6f2e5f94e0bd30761ae61eac5b29664646b12889a37acb450bfcf60edf456222
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 161
+Included: Yes
+Captured: 2026-10-20T14:16:40.4804078+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.480
+OCR status: Completed
+OCR result ID: OCR-505e6d8eb5e9437791530a322dad4b93
+OCR completed UTC: 2026-10-20T06:33:57.0345121Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Uletcode & Anshvn code Mnamanc Mesremert e Mask [y Wiond AN Maweicode Vi,  Codhed = 1
+‘ B e sucummon 1
+i s e ]
+. - = ]
+. o~ ] sucummon ]
+v ™ = ]
+. ) 4
+. o ] 1
+" . = 1
+. " [} 1
+. - 7]
+
+. - ] ]
+" = 1
+" ] ]
+. ona ) . )
+. vow = ]
+" . .
+v s ) ]
+. WAREA  WARA IR - vos nia u |
+. e . e Umevet 2 - . = ]
+.o “ . e v . % [ i
+« vase aary v Armyase - aar = e
+. = et {
+. oA A A " 8 1
+" . . = ]
+. com ucoRr ar - g ]
+cuoms waa i ) 1
+.o " . . = ]
+. x . x = ]
+. s A - ]
+axn acn % ? CALCTAROR ]
+. " . ] ]
+.o ™, " =
+s wc . ocn = sicemmon
+. o — P = Il ]
+« orm . ou o = o o =
+. uRsa #EA ]
+v A o T.an B e - A Detsie
+.o " . . 8
+. rmta wia wia B e ol
+e va Vencomycn v Mumer 7
+= + ha v X Cancel
+
+Bivet B  Dome
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Uletcode & Anshvn code Mnamanc Mesremert e Mask [y Wiond AN Maweicode Vi,  Codhed = 1
+‘ B e sucummon 1
+i s e ]
+. - = ]
+. o~ ] sucummon ]
+v ™ = ]
+. ) 4
+. o ] 1
+" . = 1
+. " [} 1
+. - 7]
+
+. - ] ]
+" = 1
+" ] ]
+. ona ) . )
+. vow = ]
+" . .
+v s ) ]
+. WAREA  WARA IR - vos nia u |
+. e . e Umevet 2 - . = ]
+.o “ . e v . % [ i
+« vase aary v Armyase - aar = e
+. = et {
+. oA A A " 8 1
+" . . = ]
+. com ucoRr ar - g ]
+cuoms waa i ) 1
+.o " . . = ]
+. x . x = ]
+. s A - ]
+axn acn % ? CALCTAROR ]
+. " . ] ]
+.o ™, " =
+s wc . ocn = sicemmon
+. o — P = Il ]
+« orm . ou o = o o =
+. uRsa #EA ]
+v A o T.an B e - A Detsie
+.o " . . 8
+. rmta wia wia B e ol
+e va Vencomycn v Mumer 7
+= + ha v X Cancel
+
+Bivet B  Dome
+
+Corrected OCR text:
+No correction supplied.

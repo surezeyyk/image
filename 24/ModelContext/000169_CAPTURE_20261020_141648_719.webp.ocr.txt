@@ -1,0 +1,384 @@
+Image: 000169_CAPTURE_20261020_141648_719.webp
+Image reference: 000169_CAPTURE_20261020_141648_719.webp
+MIME type: image/webp
+SHA-256: f5bf43cd1186b74520077c0d41fd3b9106c5e37e8a16d3c899c71ee6a12ee371
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 169
+Included: Yes
+Captured: 2026-10-20T14:16:48.7313530+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.520
+OCR status: Completed
+OCR result ID: OCR-b90d4440020444d38257ecf25123fa36
+OCR completed UTC: 2026-10-20T06:34:03.9003819Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: *Untitled - Notepad
+Recognized screen ID: S0001
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+« uecL
+o UNCRER
+. UG
+. e
+. V2o
+. Ron
+o Vi
+
+
+
+. WaEs
+. e
+
+. UCTEA
+.
+
+* PR
+
+. U
+
+« uPm
+
+. uRga
+
+
+
+
+
+
+
+
+
+
+
+de Mneraenc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trprcendes
+
+vanc
+
+
+
+
+
+PP
+
+
+
+Messurement une
+
+
+
+oy enabied tesns
+
+
+
+
+
+[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(SR R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R B BB}
+
+
+
+
+
+
+
+Mutemai cote
+
+
+
+
+
+
+
+
+
+P08
+
+
+
+
+
+
+
+
+
+
+
+s oege
+
+
+
+Shim n entond
+Wardard deation (%
+
+
+
+
+
+
+
+
+
+
+
+1<}
+
+Rt anges
+
+A Dot
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+« uecL
+o UNCRER
+. UG
+. e
+. V2o
+. Ron
+o Vi
+
+
+
+. WaEs
+. e
+
+. UCTEA
+.
+
+* PR
+
+. U
+
+« uPm
+
+. uRga
+
+
+
+
+
+
+
+
+
+
+
+de Mneraenc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trprcendes
+
+vanc
+
+
+
+
+
+PP
+
+
+
+Messurement une
+
+
+
+oy enabied tesns
+
+
+
+
+
+[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(SR R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R B BB}
+
+
+
+
+
+
+
+Mutemai cote
+
+
+
+
+
+
+
+
+
+P08
+
+
+
+
+
+
+
+
+
+
+
+s oege
+
+
+
+Shim n entond
+Wardard deation (%
+
+
+
+
+
+
+
+
+
+
+
+1<}
+
+Rt anges
+
+A Dot
+
+Corrected OCR text:
+No correction supplied.

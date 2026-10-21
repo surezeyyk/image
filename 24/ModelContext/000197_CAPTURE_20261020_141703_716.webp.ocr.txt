@@ -1,0 +1,440 @@
+Image: 000197_CAPTURE_20261020_141703_716.webp
+Image reference: 000197_CAPTURE_20261020_141703_716.webp
+MIME type: image/webp
+SHA-256: 1da5d58729eebbfe2e85d0bd1be061d9d6ed9b3013873b42df68d061db97fbaa
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 197
+Included: Yes
+Captured: 2026-10-20T14:17:03.7298322+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.400
+OCR status: Completed
+OCR result ID: OCR-baaece9aa8b64d3eacb3808203dac0c1
+OCR completed UTC: 2026-10-20T06:34:19.5755112Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Fners
+
+G
+
+Pletcode &
+
+
+
+b v vanc
+
+X [ (Test code s e )
+
+Anahgim code Mnemonc
+
+Vencomycn
+
+
+
+wten
+
+AN
+
+~ vevsesven
+
+Wodlat Anvytery
+
+
+
+Sasrer  Domes.
+] -
+escre
+
+revenct [l
+
+
+
+Concel
+
+Etema tent code
+
+vanc
+
+Nornes  Worfion  Rapon Groupe
+
+Upkiod  Fiog Actwe
+
+
+
+A08 e Venos
+
+
+
+L)
+
+
+
+. .
+ek me)  Premery sl _Ausoemanon
+e change
+
+D Rt Fangen
+
+O test
+
+
+
+Cumpomas.
+
+
+
+Tt et
+
+
+
+ot cote
+Mremenc
+
+Test descagnon
+
+e veut cose
+
+
+
+
+
+
+
+
+
+
+
+Test type
+
+
+
+(ot hemen
+
+
+
+ecrma
+ey
+
+Py
+Codtied comments |
+
+
+
+
+
+
+
+
+
+
+
+Mureral cote |
+
+
+
+Cptuna
+
+
+
+pan
+
+
+
+Acte
+
+
+
+Sered 9 US ster vabddanon
+Ooys of pamm. i om-bee bt
+
+
+
+
+
+
+
+- Avrraon wettnes VG
+
+
+
+Caksncn morte
+[
+Covered e
+[
+Urper it
+Acwage type
+Noarmber of resits por po
+e
+
+
+
+
+
+
+
+" Awveage of Marmel AON
+
+
+
+Poammiver of pesrts ot |
+
+Port et % compane
+
+
+
+Moo Aver e A
+
+
+
+Ouys of retertion of o
+Bl
+e ]
+
+Uardard devaton %
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Fners
+
+G
+
+Pletcode &
+
+
+
+b v vanc
+
+X [ (Test code s e )
+
+Anahgim code Mnemonc
+
+Vencomycn
+
+
+
+wten
+
+AN
+
+~ vevsesven
+
+Wodlat Anvytery
+
+
+
+Sasrer  Domes.
+] -
+escre
+
+revenct [l
+
+
+
+Concel
+
+Etema tent code
+
+vanc
+
+Nornes  Worfion  Rapon Groupe
+
+Upkiod  Fiog Actwe
+
+
+
+A08 e Venos
+
+
+
+L)
+
+
+
+. .
+ek me)  Premery sl _Ausoemanon
+e change
+
+D Rt Fangen
+
+O test
+
+
+
+Cumpomas.
+
+
+
+Tt et
+
+
+
+ot cote
+Mremenc
+
+Test descagnon
+
+e veut cose
+
+
+
+
+
+
+
+
+
+
+
+Test type
+
+
+
+(ot hemen
+
+
+
+ecrma
+ey
+
+Py
+Codtied comments |
+
+
+
+
+
+
+
+
+
+
+
+Mureral cote |
+
+
+
+Cptuna
+
+
+
+pan
+
+
+
+Acte
+
+
+
+Sered 9 US ster vabddanon
+Ooys of pamm. i om-bee bt
+
+
+
+
+
+
+
+- Avrraon wettnes VG
+
+
+
+Caksncn morte
+[
+Covered e
+[
+Urper it
+Acwage type
+Noarmber of resits por po
+e
+
+
+
+
+
+
+
+" Awveage of Marmel AON
+
+
+
+Poammiver of pesrts ot |
+
+Port et % compane
+
+
+
+Moo Aver e A
+
+
+
+Ouys of retertion of o
+Bl
+e ]
+
+Uardard devaton %
+
+Corrected OCR text:
+No correction supplied.

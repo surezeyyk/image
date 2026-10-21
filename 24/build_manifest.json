@@ -1,0 +1,28 @@
+{
+  "SchemaVersion": 1,
+  "Application": "SUREZE AI ScreenCapture",
+  "ApplicationVersion": "1.0.25",
+  "SessionOutputVersion": "1.0.25",
+  "CreatedAtUtc": "2026-10-20T06:14:09.050801Z",
+  "CaptureEngine": "RealtimeCapture-v2",
+  "Features": [
+    "Short sequenced filenames",
+    "Duplicate suppression",
+    "Debounced keyboard capture",
+    "Immediate click capture",
+    "Context-menu capture",
+    "Structured events and timeline",
+    "Post-recording OCR and hierarchy",
+    "Stable-screen consolidation",
+    "Batch screen deletion"
+  ],
+  "CaptureSettings": {
+    "SaveThresholdPercent": 1.5,
+    "OcrThresholdPercent": 5,
+    "MajorChangeThresholdPercent": 12,
+    "MinimumSaveIntervalMilliseconds": 1000,
+    "CaptureMaxWidth": 960,
+    "CaptureImageFormat": "webp",
+    "CaptureColorMode": "color"
+  }
+}

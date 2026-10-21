@@ -1,0 +1,166 @@
+Image: 000086_CAPTURE_20261020_141537_080.webp
+Image reference: 000086_CAPTURE_20261020_141537_080.webp
+MIME type: image/webp
+SHA-256: 24f466fb65e65fdd3e0633261c8ad815e4e3ed96cde3819687de7c293a05ad67
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 86
+Included: Yes
+Captured: 2026-10-20T14:15:37.0916440+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.440
+OCR status: Completed
+OCR result ID: OCR-9a2f5932c9b74998b43596c8ea3e3b9f
+OCR completed UTC: 2026-10-20T06:33:09.6653978Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+o) 8 CoRumn hander hare 8 groug by that comme
+
+
+
+
+
+nyte  Descrgton eger Wosanen sbacmtony code mage
+. ™ wee
+. . ey
+
+= +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.1
+P o Semch
+« -
+u - Noimege
+s
+“ “con o —
+" " Q sewcn
+s . " v
+Q@ v X Caneet
+Uk X sor
+
+Grmoy  Dlombom | Qcoby
+
+[ o+ had = e
+
+" Bwen v X Conce
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+o) 8 CoRumn hander hare 8 groug by that comme
+
+
+
+
+
+nyte  Descrgton eger Wosanen sbacmtony code mage
+. ™ wee
+. . ey
+
+= +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.1
+P o Semch
+« -
+u - Noimege
+s
+“ “con o —
+" " Q sewcn
+s . " v
+Q@ v X Caneet
+Uk X sor
+
+Grmoy  Dlombom | Qcoby
+
+[ o+ had = e
+
+" Bwen v X Conce
+
+Corrected OCR text:
+No correction supplied.

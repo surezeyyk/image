@@ -1,0 +1,125 @@
+Image: 000081_CLICK_20261020_141532_568_EVT84FDC.webp
+Image reference: 000081_CLICK_20261020_141532_568_EVT84FDC.webp
+MIME type: image/webp
+SHA-256: c729a66098f0002a90f7769da068b1f1cd938122e2e1c8e6e3c2bd945928eee9
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 81
+Included: Yes
+Captured: 2026-10-20T14:15:32.5696799+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.850
+OCR status: Completed
+OCR result ID: OCR-15d4632ed5aa4343b04fb88febfb2f37
+OCR completed UTC: 2026-10-20T06:33:08.0277438Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: - Rel. 11.2.0 - Analyzer characteristics
+Recognized screen ID: OCR-93412790D4
+Recognized screen confidence: 0.850
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+- Rel. 11.2.0 - Analyzer characteristics
+
+Analyzer description
+
+Alci-1
+
+sment flags Test/Channelassociat'lt-n Rack Qc
+
+Analyzer connection
+QPL active on manual edit
+
+Single transmission
+
+Single transmission of tests with result
+
+Click-region OCR:
+- Rel. 11.2.0 - Analyzer characteristics
+
+Analyzer description
+
+Alci-1
+
+sment flags Test/Channelassociat'lt-n Rack Qc
+
+Analyzer connection
+QPL active on manual edit
+
+Single transmission
+
+Single transmission of tests with result
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+- Rel. 11.2.0 - Analyzer characteristics
+
+Analyzer description
+
+Alci-1
+
+sment flags Test/Channelassociat'lt-n Rack Qc
+
+Analyzer connection
+QPL active on manual edit
+
+Single transmission
+
+Single transmission of tests with result
+
+Corrected OCR text:
+No correction supplied.

@@ -1,0 +1,128 @@
+Image: 000094_CLICK_20261020_141547_089_EVT99246.webp
+Image reference: 000094_CLICK_20261020_141547_089_EVT99246.webp
+MIME type: image/webp
+SHA-256: 781a4352d6bf2a80ccbbd9b5baf132bb0715086b7086f19f522a8d0ef7fb2800
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: CONFIGURATOR.SEC.5_8_6_5
+Hierarchy path: Configurator > Configurator > Analyzers > Analyzer configuration > General setup
+Hierarchy manual: Configurator
+Hierarchy section: 5.8.6.5
+Hierarchy node type: Configuration Area
+Hierarchy source: Automatic OCR match
+Hierarchy confidence: 95%
+Hierarchy evidence: OCR contains the screen title: General setup
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 94
+Included: Yes
+Captured: 2026-10-20T14:15:47.0892721+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.800
+OCR status: Completed
+OCR result ID: OCR-e21117e0e0764b1ca4c7f8064a1b106e
+OCR completed UTC: 2026-10-20T06:33:14.1254764Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Configurator > Configurator > Analyzers > Analyzer configuration > General setup
+Recognized screen ID: CONFIGURATOR.SEC.5_8_6_5
+Recognized screen confidence: 0.950
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+AGER © 2024 - Rel. 11.2.0- Analyzer characteristics
+
+
+
+Analyzer description
+
+Alci-1
+INI file Instrument flags General setup
+Analysis Download & Upload Autor
+CREAT 1436 1436 CREAT
+UCREA 1438 1438 U-CRE
+CAL2 1440 1440 CAL
+UCA2 1442 1442 U-CA
+
+1A 4AAAA 4AAAA 1A
+
+Click-region OCR:
+AGER © 2024 - Rel. 11.2.0- Analyzer characteristics
+
+
+
+Analyzer description
+
+Alci-1
+INI file Instrument flags General setup
+Analysis Download & Upload Autor
+CREAT 1436 1436 CREAT
+UCREA 1438 1438 U-CRE
+CAL2 1440 1440 CAL
+UCA2 1442 1442 U-CA
+
+1A 4AAAA 4AAAA 1A
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+AGER © 2024 - Rel. 11.2.0- Analyzer characteristics
+
+
+
+Analyzer description
+
+Alci-1
+INI file Instrument flags General setup
+Analysis Download & Upload Autor
+CREAT 1436 1436 CREAT
+UCREA 1438 1438 U-CRE
+CAL2 1440 1440 CAL
+UCA2 1442 1442 U-CA
+
+1A 4AAAA 4AAAA 1A
+
+Corrected OCR text:
+No correction supplied.

@@ -1,0 +1,96 @@
+Image: 000006_CAPTURE_20261020_141413_322.webp
+Image reference: 000006_CAPTURE_20261020_141413_322.webp
+MIME type: image/webp
+SHA-256: 68be8f3bde5926fa7b0b1a6642e2727bd86d44dc4ff59dd58f0cc87d4172dd29
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 6
+Included: Yes
+Captured: 2026-10-20T14:14:13.3338043+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.760
+OCR status: Completed
+OCR result ID: OCR-b2059253ea8146f9bbba40e8759f3c13
+OCR completed UTC: 2026-10-20T06:32:27.1054213Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: *Untitled - Notepad
+Recognized screen ID: S0001
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+1ilution name: Dil 1 - fact a
+assay number : 1869
+
+
+
+nit : sg/L
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+1ilution name: Dil 1 - fact a
+assay number : 1869
+
+
+
+nit : sg/L
+
+Corrected OCR text:
+No correction supplied.

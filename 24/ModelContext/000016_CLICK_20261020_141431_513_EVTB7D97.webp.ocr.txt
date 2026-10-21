@@ -1,0 +1,146 @@
+Image: 000016_CLICK_20261020_141431_513_EVTB7D97.webp
+Image reference: 000016_CLICK_20261020_141431_513_EVTB7D97.webp
+MIME type: image/webp
+SHA-256: 1dc681bc6ecffe3421bcc691032105271693bd286acb6ed2d8bbbec7d51675df
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: CONFIGURATOR.SEC.5_12
+Hierarchy path: Configurator > Configurator > Codified phrases
+Hierarchy manual: Configurator
+Hierarchy section: 5.12
+Hierarchy node type: Configuration Area
+Hierarchy source: Automatic OCR match
+Hierarchy confidence: 95%
+Hierarchy evidence: OCR contains the screen title: Codified phrases
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 16
+Included: Yes
+Captured: 2026-10-20T14:14:31.5141491+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.680
+OCR status: Completed
+OCR result ID: OCR-24ef76ec27b24655b02c36bcaa0cd173
+OCR completed UTC: 2026-10-20T06:32:29.5609096Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Configurator > Configurator > Codified phrases
+Recognized screen ID: CONFIGURATOR.SEC.5_12
+Recognized screen confidence: 0.950
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+ES) Y VIRate
++-{*} Codified phrases
+& Report groups
+@ Events
+
+2a% Ethnicities
+
+W Categories
+
+em Requesters
+
+
+
+
+
+
+
+
+€ Smart Rules Editor
+@ Task Scheduler
+- 4¥ DCW Tools
+
+Click-region OCR:
+ES) Y VIRate
++-{*} Codified phrases
+& Report groups
+@ Events
+
+2a% Ethnicities
+
+W Categories
+
+em Requesters
+
+
+
+
+
+
+
+
+€ Smart Rules Editor
+@ Task Scheduler
+- 4¥ DCW Tools
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+ES) Y VIRate
++-{*} Codified phrases
+& Report groups
+@ Events
+
+2a% Ethnicities
+
+W Categories
+
+em Requesters
+
+
+
+
+
+
+
+
+€ Smart Rules Editor
+@ Task Scheduler
+- 4¥ DCW Tools
+
+Corrected OCR text:
+No correction supplied.

@@ -1,0 +1,176 @@
+Image: 000143_CLICK_20261020_141629_864_EVT48487.webp
+Image reference: 000143_CLICK_20261020_141629_864_EVT48487.webp
+MIME type: image/webp
+SHA-256: 312f3af015e70a0ab5dabe376d8188cc3659df7e3988cb7056f47efc7dadb1eb
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 143
+Included: Yes
+Captured: 2026-10-20T14:16:29.8649415+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.810
+OCR status: Completed
+OCR result ID: OCR-947519f549954e3da5aeb646aa7064f0
+OCR completed UTC: 2026-10-20T06:33:47.8920324Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Ladhd
+Recognized screen ID: OCR-9B34E559EF
+Recognized screen confidence: 0.810
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Ladhd
+Alc
+
+Anti
+Alph
+Alby
+Alby
+Albu
+ALD
+Alkal
+ALQ
+Alan
+
+Amr
+
+
+
+dilution name: Dil 1 - factor: 4
+assay number : 1869
+
+unit : mg/L
+
+decimal : 3
+
+Track code?
+
+LIS code : VAdE
+
+type numeric
+
+ref range 10 - 2
+
+Click-region OCR:
+Ladhd
+Alc
+
+Anti
+Alph
+Alby
+Alby
+Albu
+ALD
+Alkal
+ALQ
+Alan
+
+Amr
+
+
+
+dilution name: Dil 1 - factor: 4
+assay number : 1869
+
+unit : mg/L
+
+decimal : 3
+
+Track code?
+
+LIS code : VAdE
+
+type numeric
+
+ref range 10 - 2
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Ladhd
+Alc
+
+Anti
+Alph
+Alby
+Alby
+Albu
+ALD
+Alkal
+ALQ
+Alan
+
+Amr
+
+
+
+dilution name: Dil 1 - factor: 4
+assay number : 1869
+
+unit : mg/L
+
+decimal : 3
+
+Track code?
+
+LIS code : VAdE
+
+type numeric
+
+ref range 10 - 2
+
+Corrected OCR text:
+No correction supplied.

@@ -1,0 +1,86 @@
+Image: 000068_CLICK_20261020_141525_488_EVTB48F1.webp
+Image reference: 000068_CLICK_20261020_141525_488_EVTB48F1.webp
+MIME type: image/webp
+SHA-256: a663cff03d477e43c02b577bddd5f6ce1ecc06dd63cce97e2f3aab1987c38b04
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 68
+Included: Yes
+Captured: 2026-10-20T14:15:25.4893159+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 127
+OCR confidence: 0.820
+OCR status: Completed
+OCR result ID: OCR-5ad81b8ed23a4834be50d4c36e9d2854
+OCR completed UTC: 2026-10-20T06:33:03.0268470Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: ‘onnected user: omnilab (Super-administrator) Db version
+Recognized screen ID: OCR-3BD3F86693
+Recognized screen confidence: 0.820
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+‘onnected user: omnilab (Super-administrator) Db version
+
+Click-region OCR:
+‘onnected user: omnilab (Super-administrator) Db version
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+‘onnected user: omnilab (Super-administrator) Db version
+
+Corrected OCR text:
+No correction supplied.

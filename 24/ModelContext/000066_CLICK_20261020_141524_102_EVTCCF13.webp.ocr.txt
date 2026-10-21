@@ -1,0 +1,149 @@
+Image: 000066_CLICK_20261020_141524_102_EVTCCF13.webp
+Image reference: 000066_CLICK_20261020_141524_102_EVTCCF13.webp
+MIME type: image/webp
+SHA-256: 67fd988bb249801f5713dbc654ed4b87aa6ca5fa2a78ed3acc969916d8c1764b
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 66
+Included: Yes
+Captured: 2026-10-20T14:15:24.1021331+08:00
+Original resolution: Unknown
+Saved resolution: 260 x 250
+OCR confidence: 0.740
+OCR status: Completed
+OCR result ID: OCR-d154e0af914547f797f17987ffbf5204
+OCR completed UTC: 2026-10-20T06:33:02.7868990Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: port
+Recognized screen ID: OCR-6ACC99AF99
+Recognized screen confidence: 0.740
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+age
+
+port
+
+port
+
+Link QC
+
+@ Copy from ...
++ Add
+
+v Apply
+
+SOP
+
+£ cinfig.
+
+== Delete
+
+X Cancel
+
+<) Clace
+
+Click-region OCR:
+age
+
+port
+
+port
+
+Link QC
+
+@ Copy from ...
++ Add
+
+v Apply
+
+SOP
+
+£ cinfig.
+
+== Delete
+
+X Cancel
+
+<) Clace
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+age
+
+port
+
+port
+
+Link QC
+
+@ Copy from ...
++ Add
+
+v Apply
+
+SOP
+
+£ cinfig.
+
+== Delete
+
+X Cancel
+
+<) Clace
+
+Corrected OCR text:
+No correction supplied.

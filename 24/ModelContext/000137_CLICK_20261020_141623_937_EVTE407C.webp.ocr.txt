@@ -1,0 +1,194 @@
+Image: 000137_CLICK_20261020_141623_937_EVTE407C.webp
+Image reference: 000137_CLICK_20261020_141623_937_EVTE407C.webp
+MIME type: image/webp
+SHA-256: 8fd588ec077b93aab381ef0e76b74443570a2ad7ea008895f043ecabe8dc20f8
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 137
+Included: Yes
+Captured: 2026-10-20T14:16:23.9384047+08:00
+Original resolution: Unknown
+Saved resolution: 393 x 250
+OCR confidence: 0.820
+OCR status: Completed
+OCR result ID: OCR-2731781732674e09a9dbaba366cb0cab
+OCR completed UTC: 2026-10-20T06:33:44.5599877Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: t properties
+Recognized screen ID: OCR-CBAB5A8F38
+Recognized screen confidence: 0.820
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+t properties
+
+
+
+
+
+
+
+est code VANC
+Inemonic VANC| +
+est description VANC
+
+
+
+xternal test code
+
+
+
+xternal test code for export
+
+
+
+\nalysis
+
+
+
+Aask
+
+
+
+
+
+
+
+
+
+S0P, 3
+
+Click-region OCR:
+t properties
+
+
+
+
+
+
+
+est code VANC
+Inemonic VANC| +
+est description VANC
+
+
+
+xternal test code
+
+
+
+xternal test code for export
+
+
+
+\nalysis
+
+
+
+Aask
+
+
+
+
+
+
+
+
+
+S0P, 3
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+t properties
+
+
+
+
+
+
+
+est code VANC
+Inemonic VANC| +
+est description VANC
+
+
+
+xternal test code
+
+
+
+xternal test code for export
+
+
+
+\nalysis
+
+
+
+Aask
+
+
+
+
+
+
+
+
+
+S0P, 3
+
+Corrected OCR text:
+No correction supplied.

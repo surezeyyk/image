@@ -1,0 +1,350 @@
+Image: 000124_CAPTURE_20261020_141613_373.webp
+Image reference: 000124_CAPTURE_20261020_141613_373.webp
+MIME type: image/webp
+SHA-256: 131befc75daa119c36318110a7fd5958d0de280ddd040ed9bc940c427e09c8bb
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 124
+Included: Yes
+Captured: 2026-10-20T14:16:13.3855784+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.590
+OCR status: Completed
+OCR result ID: OCR-4dcf833f5a6b4231abc6a416b1884a93
+OCR completed UTC: 2026-10-20T06:33:26.9820053Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+- Hoe
+
+
+
+
+
+
+
+
+
+
+
+Messorement une
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ R R R B R BCR R R RC R R R R R R R R R R R R R R R R R R R R R R R RN
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+=
+]
+]
+Tenel M
+=
+=
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| e
+
+[Coente 5 e oismen
+
+Dys of veturtion of o
+
+
+
+
+
+Shim o Sentond
+
+Wardard e aton %
+
+
+
+
+
+
+
+
+
+Acton ta be per
+
+
+
+[t ot s |
+
+
+
+1<}
+
+X Concel
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+- Hoe
+
+
+
+
+
+
+
+
+
+
+
+Messorement une
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ R R R B R BCR R R RC R R R R R R R R R R R R R R R R R R R R R R R RN
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+=
+]
+]
+Tenel M
+=
+=
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| e
+
+[Coente 5 e oismen
+
+Dys of veturtion of o
+
+
+
+
+
+Shim o Sentond
+
+Wardard e aton %
+
+
+
+
+
+
+
+
+
+Acton ta be per
+
+
+
+[t ot s |
+
+
+
+1<}
+
+X Concel
+
+Corrected OCR text:
+No correction supplied.

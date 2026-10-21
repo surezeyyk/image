@@ -1,0 +1,220 @@
+Image: 000080_CAPTURE_20261020_141531_845.webp
+Image reference: 000080_CAPTURE_20261020_141531_845.webp
+MIME type: image/webp
+SHA-256: b11700808bedb40f99f1d2b26390e44ec94661f2b43341209dd579d7092cfc93
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 80
+Included: Yes
+Captured: 2026-10-20T14:15:31.8581582+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.310
+OCR status: Completed
+OCR result ID: OCR-d25c5882ccc64213ba54701ac0f1844e
+OCR completed UTC: 2026-10-20T06:33:07.8175755Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: *Untitled - Notepad
+Recognized screen ID: S0001
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+A Fle Optoms Wirndow
+v3 8 Coumn haater wrmn e
+o Dewcrgton egen Wodsten . “
+prorii= e e h e x|
+o Ansyres code Aoty res G gt Workstarm weper
+M may i 1 1AMsPRI) " +
+Reew i Commumication N She  nstrament flags  Test/Chmnet ssociotion (il ek € Wotmon
+Recmetd R A 4 Vadatam method Ansyree cormestion e
+Sove . W e 23 Q9% actue om mamael et Warm dever shcuat bsts deleted by LS o Ordr Emiry
+e -l ™M © bemntom 2 Sngle raramsnnion Warn Gmver shcet st o
+o “ . e tranarmvssson of eats wih result rare o Sarpte Sternge
+(—— parston managemert
+TP " o Satancng
+crnm A " 2 Heghinghe v avmcng st fbed X
+“ 9 Resgent chech
+LTI WAL TR a 2 Bhoch cesults mvvin st toded O3 [
+e ordy 5 Dot comput DC when messuse wvts dites
+ek wih e
+Mot QG resens
+2 Shom OCs only # tes sebected N
+os— x
+5 wdts i beldoce M, e mansgement
+Ahometi soring Actrte queted 1vbe f ne actve e found
+
+
+
+
+
+
+0 Accopt revcits for un M ar ament Somricated e
+
+
+
+
+
+% e for choned test om TWM Gces st revuited tess
+
+
+
+
+
+Accopt diution & 1 froem dever &
+
+
+
+Gver st vadated tests
+
+
+
+=
+5
+=
+
+
+
+hormeh statun updstes
+
+[
+
+
+
+Acem st L ahdsocn tor mar Wan G bt charmah statun wpdetes
+
+Q@ v X Cancet
+
+Uk OC sor
+
+Grmop  Dombom | Qconby
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+A Fle Optoms Wirndow
+v3 8 Coumn haater wrmn e
+o Dewcrgton egen Wodsten . “
+prorii= e e h e x|
+o Ansyres code Aoty res G gt Workstarm weper
+M may i 1 1AMsPRI) " +
+Reew i Commumication N She  nstrament flags  Test/Chmnet ssociotion (il ek € Wotmon
+Recmetd R A 4 Vadatam method Ansyree cormestion e
+Sove . W e 23 Q9% actue om mamael et Warm dever shcuat bsts deleted by LS o Ordr Emiry
+e -l ™M © bemntom 2 Sngle raramsnnion Warn Gmver shcet st o
+o “ . e tranarmvssson of eats wih result rare o Sarpte Sternge
+(—— parston managemert
+TP " o Satancng
+crnm A " 2 Heghinghe v avmcng st fbed X
+“ 9 Resgent chech
+LTI WAL TR a 2 Bhoch cesults mvvin st toded O3 [
+e ordy 5 Dot comput DC when messuse wvts dites
+ek wih e
+Mot QG resens
+2 Shom OCs only # tes sebected N
+os— x
+5 wdts i beldoce M, e mansgement
+Ahometi soring Actrte queted 1vbe f ne actve e found
+
+
+
+
+
+
+0 Accopt revcits for un M ar ament Somricated e
+
+
+
+
+
+% e for choned test om TWM Gces st revuited tess
+
+
+
+
+
+Accopt diution & 1 froem dever &
+
+
+
+Gver st vadated tests
+
+
+
+=
+5
+=
+
+
+
+hormeh statun updstes
+
+[
+
+
+
+Acem st L ahdsocn tor mar Wan G bt charmah statun wpdetes
+
+Q@ v X Cancet
+
+Uk OC sor
+
+Grmop  Dombom | Qconby
+
+Corrected OCR text:
+No correction supplied.

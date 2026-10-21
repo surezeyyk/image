@@ -1,0 +1,420 @@
+Image: 000195_CAPTURE_20261020_141703_250.webp
+Image reference: 000195_CAPTURE_20261020_141703_250.webp
+MIME type: image/webp
+SHA-256: d59842f990ddc402cba27152a5a93c6bb94a1a9e0f1741e9ea74a544b91a3fad
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: AMS.SEC.7_14_1
+Hierarchy path: AMS > AlinIQ AMS > Operations on tests > Add test
+Hierarchy manual: AMS
+Hierarchy section: 7.14.1
+Hierarchy node type: Function/Procedure
+Hierarchy source: Automatic OCR match
+Hierarchy confidence: 95%
+Hierarchy evidence: OCR contains the screen title: Add test
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 195
+Included: Yes
+Captured: 2026-10-20T14:17:03.2641763+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.450
+OCR status: Completed
+OCR result ID: OCR-6b1ac8515b6b451983b31a0add0a03ed
+OCR completed UTC: 2026-10-20T06:34:18.5594062Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: AMS > AlinIQ AMS > Operations on tests > Add test
+Recognized screen ID: AMS.SEC.7_14_1
+Recognized screen confidence: 0.950
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+- ase
+
+T
+
+¥ letcode &7 Anmsyn code Mnemon
+
+
+
+b o v AN
+
+x B (Test code s e )
+
+Vancomyen
+
+
+
+aNc
+
+-~ avsnseen
+
+Wealnt Anvytery
+Lnsiier Dol
+] e
+
+
+
+Concel
+
+e vt code
+
+vanc
+
+
+
+A Tetnpe
+
+Pumers
+
+Add Test Metno
+
+
+
+honat SN
+. .
+
+
+
+Mt code Valetty  Codibed ressis - Nom Pt
+
+Camomce
+
+
+
+
+
+
+
+
+
+
+
+
+
+Test type
+
+
+
+
+
+tied e men
+
+
+
+[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Serd 0 US ste abdanon
+| Dos of pem. i om-ee ot
+
+
+
+
+
+ Averages wettngs VG
+
+
+
+Cakctonn mode
+[
+et soerage
+Lower et
+Upeer tme
+
+Arerage type
+Namoer of rests por g |
+e
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Avveacn of Narmal (AON
+
+
+
+Norriser of peort ot |
+ot st . compare.
+
+
+
+
+
+Moeng Avetme (A
+
+
+
+Ouys of retertion of o,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e e
+
+A Dutaie
+
+X Concel
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+- ase
+
+T
+
+¥ letcode &7 Anmsyn code Mnemon
+
+
+
+b o v AN
+
+x B (Test code s e )
+
+Vancomyen
+
+
+
+aNc
+
+-~ avsnseen
+
+Wealnt Anvytery
+Lnsiier Dol
+] e
+
+
+
+Concel
+
+e vt code
+
+vanc
+
+
+
+A Tetnpe
+
+Pumers
+
+Add Test Metno
+
+
+
+honat SN
+. .
+
+
+
+Mt code Valetty  Codibed ressis - Nom Pt
+
+Camomce
+
+
+
+
+
+
+
+
+
+
+
+
+
+Test type
+
+
+
+
+
+tied e men
+
+
+
+[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Serd 0 US ste abdanon
+| Dos of pem. i om-ee ot
+
+
+
+
+
+ Averages wettngs VG
+
+
+
+Cakctonn mode
+[
+et soerage
+Lower et
+Upeer tme
+
+Arerage type
+Namoer of rests por g |
+e
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Avveacn of Narmal (AON
+
+
+
+Norriser of peort ot |
+ot st . compare.
+
+
+
+
+
+Moeng Avetme (A
+
+
+
+Ouys of retertion of o,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e e
+
+A Dutaie
+
+X Concel
+
+Corrected OCR text:
+No correction supplied.

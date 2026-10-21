@@ -1,0 +1,215 @@
+Image: 000152_CLICK_20261020_141634_856_EVTBFC44.webp
+Image reference: 000152_CLICK_20261020_141634_856_EVTBFC44.webp
+MIME type: image/webp
+SHA-256: 50bb675a4e2fdb10dce0a997e3a2e46ea47b2c6b6c4bd97d8a3281631da1a5e8
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 152
+Included: Yes
+Captured: 2026-10-20T14:16:34.8571972+08:00
+Original resolution: Unknown
+Saved resolution: 380 x 250
+OCR confidence: 0.870
+OCR status: Completed
+OCR result ID: OCR-b315c71d8cd543b5ae58401d16d2ca5d
+OCR completed UTC: 2026-10-20T06:33:51.7281713Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: t code
+Recognized screen ID: OCR-A003F4EFE0
+Recognized screen confidence: 0.870
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+t code
+
+
+
+emonic
+
+
+
+t description
+
+
+
+rnal test code
+
+
+
+rnal test code for export
+
+
+
+
+
+
+
+
+
+ilysis
+
+sk ::====,=:+
+3surement unit
+
+t type Numeric
+
+
+
+lified phrases
+
+
+
+Normal
+
+
+
+Narning
+
+Click-region OCR:
+t code
+
+
+
+emonic
+
+
+
+t description
+
+
+
+rnal test code
+
+
+
+rnal test code for export
+
+
+
+
+
+
+
+
+
+ilysis
+
+sk ::====,=:+
+3surement unit
+
+t type Numeric
+
+
+
+lified phrases
+
+
+
+Normal
+
+
+
+Narning
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+t code
+
+
+
+emonic
+
+
+
+t description
+
+
+
+rnal test code
+
+
+
+rnal test code for export
+
+
+
+
+
+
+
+
+
+ilysis
+
+sk ::====,=:+
+3surement unit
+
+t type Numeric
+
+
+
+lified phrases
+
+
+
+Normal
+
+
+
+Narning
+
+Corrected OCR text:
+No correction supplied.

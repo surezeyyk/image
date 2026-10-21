@@ -1,0 +1,156 @@
+Image: 000028_CAPTURE_20261020_141441_384.webp
+Image reference: 000028_CAPTURE_20261020_141441_384.webp
+MIME type: image/webp
+SHA-256: 4a7a3275c99b1b545ac975bf9d0d7d0eafab6ca5291b192caa12727bbd9077c7
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 28
+Included: Yes
+Captured: 2026-10-20T14:14:41.3968338+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.550
+OCR status: Completed
+OCR result ID: OCR-1fe0cfffe11f4a878a1b9313b327b980
+OCR completed UTC: 2026-10-20T06:32:38.3683608Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+de Arnatyun code Mnamons Oencryption
+
+
+
+
+
+DN Mt
+
+
+
+
+
+Lee s vwge
+
+Cned oeage
+
+
+
+Usrdars ceaton
+Voumber of ports ¢
+
+
+
+
+
+
+
+
+
+oo of poets ¢
+
+
+
+
+
+X 1 Descrgtion s & Cavemen
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+de Arnatyun code Mnamons Oencryption
+
+
+
+
+
+DN Mt
+
+
+
+
+
+Lee s vwge
+
+Cned oeage
+
+
+
+Usrdars ceaton
+Voumber of ports ¢
+
+
+
+
+
+
+
+
+
+oo of poets ¢
+
+
+
+
+
+X 1 Descrgtion s & Cavemen
+
+Corrected OCR text:
+No correction supplied.

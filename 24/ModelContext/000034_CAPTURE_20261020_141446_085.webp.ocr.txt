@@ -1,0 +1,328 @@
+Image: 000034_CAPTURE_20261020_141446_085.webp
+Image reference: 000034_CAPTURE_20261020_141446_085.webp
+MIME type: image/webp
+SHA-256: 647cc5a054780852dcc3bd560176131c271741b10b16133c1578b72f199a32ba
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 34
+Included: Yes
+Captured: 2026-10-20T14:14:46.0971497+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.410
+OCR status: Completed
+OCR result ID: OCR-1bc5cff2e2d844d6962ee2cd8a2fc354
+OCR completed UTC: 2026-10-20T06:32:40.0159220Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+et prree)
+
+Wealm
+paveey
+
+Twia_cR0
+
+TALTR
+
+
+
+[
+W
+
+Etema tent code
+
+
+
+Workfion  Repon Groups
+
+Upbead
+
+
+
+Fiag Acte Process S
+
+=
+
+A Tetnpe
+
+Namers
+B e
+
+AdtTen Menod
+
+Optanat  SMIN
+
+QC heck (ma
+
+Muternsl code  Valetty
+
+Prmary et Ausomation O test
+
+Mo change
+
+Mo change
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sered e U5 ster < pbdanen
+
+Doys of pamm. i om-bee bt | 55
+
+
+
+= Averages wettings VG
+
+
+
+Camcsamen mote
+
+
+
+[ Rl
+[l R
+
+
+
+ax oo R Lremn nenge
+Covemet soerage
+Comer it
+
+Ureer ime
+Aceragn tive ]
+Vourmber of st por g
+e |
+~ Avreace of Normal (AON
+
+Pasrrier of pearts ot |
+
+Port it N compare
+Rl Pages ~ Vv Avevage A
+
+J Ouys of retertion of o
+Fastan
+
+S 2 et g
+Uardard devaton %
+
+
+
+
+
+
+
+
+
+
+
+
+
+Concel [ et »
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+et prree)
+
+Wealm
+paveey
+
+Twia_cR0
+
+TALTR
+
+
+
+[
+W
+
+Etema tent code
+
+
+
+Workfion  Repon Groups
+
+Upbead
+
+
+
+Fiag Acte Process S
+
+=
+
+A Tetnpe
+
+Namers
+B e
+
+AdtTen Menod
+
+Optanat  SMIN
+
+QC heck (ma
+
+Muternsl code  Valetty
+
+Prmary et Ausomation O test
+
+Mo change
+
+Mo change
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sered e U5 ster < pbdanen
+
+Doys of pamm. i om-bee bt | 55
+
+
+
+= Averages wettings VG
+
+
+
+Camcsamen mote
+
+
+
+[ Rl
+[l R
+
+
+
+ax oo R Lremn nenge
+Covemet soerage
+Comer it
+
+Ureer ime
+Aceragn tive ]
+Vourmber of st por g
+e |
+~ Avreace of Normal (AON
+
+Pasrrier of pearts ot |
+
+Port it N compare
+Rl Pages ~ Vv Avevage A
+
+J Ouys of retertion of o
+Fastan
+
+S 2 et g
+Uardard devaton %
+
+
+
+
+
+
+
+
+
+
+
+
+
+Concel [ et »
+
+Corrected OCR text:
+No correction supplied.

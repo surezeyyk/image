@@ -1,0 +1,124 @@
+Image: 000003_CAPTURE_20261020_141410_654.webp
+Image reference: 000003_CAPTURE_20261020_141410_654.webp
+MIME type: image/webp
+SHA-256: 09e59ad033c649133528190e4aaf7f6fdee45f441f95b34fd0a8b521ca3f7cbb
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 3
+Included: Yes
+Captured: 2026-10-20T14:14:10.6652162+08:00
+Original resolution: 1687 x 1022
+Saved resolution: 960 x 582
+OCR confidence: 0.790
+OCR status: Completed
+OCR result ID: OCR-3116017fa79d4a709e58ea5b7fe69e4a
+OCR completed UTC: 2026-10-20T06:32:26.8487175Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: nttied - Notepad
+Recognized screen ID: OCR-D08A3EE62D
+Recognized screen confidence: 0.790
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+nttied - Notepad
+
+fle Ede for
+
+
+
+Vancomyc in
+
+dilution name: Dil 1 - factor: 4
+assay number : 1869
+
+unit : mg/L
+
+decimal : 3
+
+Track code?
+
+LIS code : VANC
+
+type nume
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+nttied - Notepad
+
+fle Ede for
+
+
+
+Vancomyc in
+
+dilution name: Dil 1 - factor: 4
+assay number : 1869
+
+unit : mg/L
+
+decimal : 3
+
+Track code?
+
+LIS code : VANC
+
+type nume
+
+Corrected OCR text:
+No correction supplied.

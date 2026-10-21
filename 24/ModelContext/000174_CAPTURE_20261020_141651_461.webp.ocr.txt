@@ -1,0 +1,208 @@
+Image: 000174_CAPTURE_20261020_141651_461.webp
+Image reference: 000174_CAPTURE_20261020_141651_461.webp
+MIME type: image/webp
+SHA-256: 13e4ab1f2bf35bd231cf6c8e68ecdc83bd48baf147e1d59d2842a8967039bec4
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 174
+Included: Yes
+Captured: 2026-10-20T14:16:51.4746978+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.360
+OCR status: Completed
+OCR result ID: OCR-3d724f8be3d9496a8ac2f5cef1893dc6
+OCR completed UTC: 2026-10-20T06:34:07.6269255Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: *Untitled - Notepad
+Recognized screen ID: S0001
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+e ~ Tout prepern
+Feny . Ted code Tuans
+% Orty enabied tesms
+Vamonc Voncomyon
+e ——
+Tt descrpcn o |
+remert une el et cox wttype Optinst code ¥ Cotbad remsts - Mo P =TT~
+Messcremert [T Eute st ot Tetpe  Opt AN Mummaicode Vet Codhed res . T =
+Eoemai e ccote tor enpent |
+e e A CERROR + Ry
+" 7 [ T
+. 1 . Vesrremart e [t
+[Teange [
+. 7 CALCTRROR S =
+2 T Catiied pheoun
+o~k V]
+oot
+Thvyeosd Shemletso Mommone (TS mili ] ~
+2444 Urme Cacnmn el 2 vons W24-CA ? o —
+2414 Urne Ot ok 20y J Coliiod cammmts
+4 0 Unne Cremmmne o2 o : [T |
+2010 Urne e 2oy 7 Cotoora
+P ctrmoum et 20 ? san
+2040 Urine At 2o ? e
+4 Urne Magnesum el Sared 10 US s ok ]
+240 Urne Sodum i Doy of pem. & om- e ot
+4 b Unne Phosghane ] e ~ Averens it AVG
+244 Urine Proten 28 i cedes 10 make Bhe hanges eflective & & necessary b Colculatbion mode
+] - Rostan Labombrne [
+1 - Restant the Gatewsy Pemgun - Service) Coverved ov
+et { Rastart the AONSarce 4 # @ ac =
+Fiestart the MAServsce # £ 5 active. ¥ you want that Changes affect oid resuls please stog the service, hech Restat and save Changes, then restat senice Lower ke
+Upper beme
+™ w A = R t
+- DAy JAAY AN 1 Nurrter of revits por po
+® b - - Sep
+. a2 oo e ok uca T Avreaoe of Narmal (AN
+. w vt pore - ? Nsmiser of pewrt out |
+* UcomT XORT JcoRt e ot ? Port et . Compare.
+- ucrA ucra e € vcnia 7 Moving Average BMA
+. U Insananted bon Bndng Copacty  ume e ] : Doyt of retertion of o ]
+. w w Unne Potassion e U ’ Reston |
+o s MAS UM e Aluman ~y o MaLE 7 — .|
+. umcx e acr Wit Al Crasnovne Pate paet— acr 7 CALCERROR S S %
+Actiomn
+G "G e Mopresaom - " = 7
+Hearbe of pores |
+. u Sedm e~ Na 4 1
+- i e St =T
+. U vt Proten Crasmevne Rate [ee—— - ? o Py 1
+pwcr R » e B - »oCR AL CERROR < sl ]
+« UPos weHos UPos e Phasghate et U-on0s ? et
+“ o5 R0 e P - so % ?
+v = Obaon £ Rt ruoges
+« usga wmga N ver m—at p— wes 7] 7
+Ay Tanr e Armytase. Tomed ~ 7w e G b A Detaie
+. wa s wa e Uk At wnar v ]
+. s vusEa pore Uren enctd REA ] ? Olacbie
+
+
+
+b o v vanc Vecomycn  VANC o - Yosd
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+e ~ Tout prepern
+Feny . Ted code Tuans
+% Orty enabied tesms
+Vamonc Voncomyon
+e ——
+Tt descrpcn o |
+remert une el et cox wttype Optinst code ¥ Cotbad remsts - Mo P =TT~
+Messcremert [T Eute st ot Tetpe  Opt AN Mummaicode Vet Codhed res . T =
+Eoemai e ccote tor enpent |
+e e A CERROR + Ry
+" 7 [ T
+. 1 . Vesrremart e [t
+[Teange [
+. 7 CALCTRROR S =
+2 T Catiied pheoun
+o~k V]
+oot
+Thvyeosd Shemletso Mommone (TS mili ] ~
+2444 Urme Cacnmn el 2 vons W24-CA ? o —
+2414 Urne Ot ok 20y J Coliiod cammmts
+4 0 Unne Cremmmne o2 o : [T |
+2010 Urne e 2oy 7 Cotoora
+P ctrmoum et 20 ? san
+2040 Urine At 2o ? e
+4 Urne Magnesum el Sared 10 US s ok ]
+240 Urne Sodum i Doy of pem. & om- e ot
+4 b Unne Phosghane ] e ~ Averens it AVG
+244 Urine Proten 28 i cedes 10 make Bhe hanges eflective & & necessary b Colculatbion mode
+] - Rostan Labombrne [
+1 - Restant the Gatewsy Pemgun - Service) Coverved ov
+et { Rastart the AONSarce 4 # @ ac =
+Fiestart the MAServsce # £ 5 active. ¥ you want that Changes affect oid resuls please stog the service, hech Restat and save Changes, then restat senice Lower ke
+Upper beme
+™ w A = R t
+- DAy JAAY AN 1 Nurrter of revits por po
+® b - - Sep
+. a2 oo e ok uca T Avreaoe of Narmal (AN
+. w vt pore - ? Nsmiser of pewrt out |
+* UcomT XORT JcoRt e ot ? Port et . Compare.
+- ucrA ucra e € vcnia 7 Moving Average BMA
+. U Insananted bon Bndng Copacty  ume e ] : Doyt of retertion of o ]
+. w w Unne Potassion e U ’ Reston |
+o s MAS UM e Aluman ~y o MaLE 7 — .|
+. umcx e acr Wit Al Crasnovne Pate paet— acr 7 CALCERROR S S %
+Actiomn
+G "G e Mopresaom - " = 7
+Hearbe of pores |
+. u Sedm e~ Na 4 1
+- i e St =T
+. U vt Proten Crasmevne Rate [ee—— - ? o Py 1
+pwcr R » e B - »oCR AL CERROR < sl ]
+« UPos weHos UPos e Phasghate et U-on0s ? et
+“ o5 R0 e P - so % ?
+v = Obaon £ Rt ruoges
+« usga wmga N ver m—at p— wes 7] 7
+Ay Tanr e Armytase. Tomed ~ 7w e G b A Detaie
+. wa s wa e Uk At wnar v ]
+. s vusEa pore Uren enctd REA ] ? Olacbie
+
+
+
+b o v vanc Vecomycn  VANC o - Yosd
+
+Corrected OCR text:
+No correction supplied.

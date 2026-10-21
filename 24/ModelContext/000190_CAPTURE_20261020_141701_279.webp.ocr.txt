@@ -1,0 +1,326 @@
+Image: 000190_CAPTURE_20261020_141701_279.webp
+Image reference: 000190_CAPTURE_20261020_141701_279.webp
+MIME type: image/webp
+SHA-256: 6b9adcb5f0766ab254b70534a74726d1efd4899083ee3ce45de732d64c71b363
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 190
+Included: Yes
+Captured: 2026-10-20T14:17:01.2917892+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.410
+OCR status: Completed
+OCR result ID: OCR-61ae04f938564eeaae313fb1985e5e4d
+OCR completed UTC: 2026-10-20T06:34:16.8028983Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+. Wertie
+- Onty enabied ety
+Vlatcoe &7 Amoun code Mnamome o Meosronert it Mok bttt code e Tenpe Optond SAN  Mensicode Vabdey
+. . .
+VouK VMK Veemen  VAK -t e vanc Mmenc 1
+
+
+
+
+
+Tt type
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wedlat Anvyiey Chemen  Worfion  Repont Groups Tamw |
+—_
+
+Anshier  Dowslo. Uplsed  Flag Actve Process Sust. AdTest Method O check imin)  Primary esull Automation O test =y | ]
+
+Do of pemm. o on bt o] 5
+T Averaom wttig VG
+
+o marte
+
+Lrew nwnge
+
+et serage
+
+Loner e
+
+Urper it
+
+Aeeagetive
+
+Hoarmas of rests por g0
+
+e
+T verage of Narmal (ADW
+Nourriver ol peorts ot |
+Fort i ccmpae
+
+Concet [ et » Dausen Ret Panges py T
+
+L | Dups of retertvon of )
+Fastan
+
+Shem o St g 1
+Stardard devaton %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+et compes
+
+
+
+
+
+* [ (Test code’s e w)
+ad X Concel
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+. Wertie
+- Onty enabied ety
+Vlatcoe &7 Amoun code Mnamome o Meosronert it Mok bttt code e Tenpe Optond SAN  Mensicode Vabdey
+. . .
+VouK VMK Veemen  VAK -t e vanc Mmenc 1
+
+
+
+
+
+Tt type
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wedlat Anvyiey Chemen  Worfion  Repont Groups Tamw |
+—_
+
+Anshier  Dowslo. Uplsed  Flag Actve Process Sust. AdTest Method O check imin)  Primary esull Automation O test =y | ]
+
+Do of pemm. o on bt o] 5
+T Averaom wttig VG
+
+o marte
+
+Lrew nwnge
+
+et serage
+
+Loner e
+
+Urper it
+
+Aeeagetive
+
+Hoarmas of rests por g0
+
+e
+T verage of Narmal (ADW
+Nourriver ol peorts ot |
+Fort i ccmpae
+
+Concet [ et » Dausen Ret Panges py T
+
+L | Dups of retertvon of )
+Fastan
+
+Shem o St g 1
+Stardard devaton %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+et compes
+
+
+
+
+
+* [ (Test code’s e w)
+ad X Concel
+
+Corrected OCR text:
+No correction supplied.

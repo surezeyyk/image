@@ -1,0 +1,172 @@
+Image: 000141_CAPTURE_20261020_141628_053.webp
+Image reference: 000141_CAPTURE_20261020_141628_053.webp
+MIME type: image/webp
+SHA-256: 8df4ce555e889f8f8df6e40a4bfe4a32a2c2447ea38fd67b176cca201ad87dc4
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 141
+Included: Yes
+Captured: 2026-10-20T14:16:28.0650453+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.410
+OCR status: Completed
+OCR result ID: OCR-44b52806cfbb41418644d23b7fffdcb8
+OCR completed UTC: 2026-10-20T06:33:46.8486404Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: *Untitled - Notepad
+Recognized screen ID: S0001
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+= Tt progorin
+e Workdut . ':(:
+B Ordy enatied tests
+Teout descrpmen
+Oencrgten Mesiremert e Mok it et cote Adve  Tethpe Optond SN Mueicode Veidey  Codhed ks - Nom P ==
+= B 2 Etermal test code for empont
+1 How Post Prandal et ner Pmer 0 * Anahyn
+2 Hows Post Pranl ey ser Pment w Mo =
+aerce wnetmet Arepce - 7 CALCERROR
+aten s Mo ? CALCERROR
+sou-ccP v covissesene  accr Pomens ?
+Hgha-Fetogeaten (A7) o P arp Numen ?
+Atsmn Glotdn Paic Pr— % Pusmers 7 CALCERROR
+" apo? [ro—— :
+" an umen 7
+Tomel X
+A0k Prcsghatase (ALP) " Rs— ap po— ?
+. Mg xa a0 uo Tonal 0 Tl
+. ar " At Alarena Teansammase (ALT) " ar Mamens ? [
+« o e e Ameane Y . Pmers ?
+. amv aaay s 2emyie w — v umers ?
+©ANADS  ANALDS  ANMDS Tonel
+CwndEe  wwiBe  wwnBe « drmody o b Tonel 0
+o an .. ax . Tonel 0
+o ane v Tetuel 0
+oast ast Separne Teancamensse (AST " [os— Nmer :
+. Bxs e Toaw Be G w cosesosoenes  BKG f— :
+. Beos »eCas Tonw Beta HCG A Pr— Pusmers 0
+.o - ™ - Yol
+« w01 wor w01 Tonal
+a a e [ss——— a e 7
+. ™ p— P — e 0
+o @ — e ———T - 7 |
+. e —~a S Mamen 0 . |
+. cans " W Prrsse—p— A Mumen 7 B 1|
+. cam ars Wt [oS— a - ?
+caam  am wm o A - ?
+. 1
+. cau a2 AL Cocnen2 et wevsnrenn sen [ 4 ]
+. caL a o Test A ALC ? ]
+. car w w 2
+. ca mected Cakcau Commected Cokinm et cca 7 CALCERROR
+. s a Cancmembeyons Arogen (CEA) oyl cia ? »
+.o % 0 Vettnd - Mgt @ Veamad- Norped %
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+= Tt progorin
+e Workdut . ':(:
+B Ordy enatied tests
+Teout descrpmen
+Oencrgten Mesiremert e Mok it et cote Adve  Tethpe Optond SN Mueicode Veidey  Codhed ks - Nom P ==
+= B 2 Etermal test code for empont
+1 How Post Prandal et ner Pmer 0 * Anahyn
+2 Hows Post Pranl ey ser Pment w Mo =
+aerce wnetmet Arepce - 7 CALCERROR
+aten s Mo ? CALCERROR
+sou-ccP v covissesene  accr Pomens ?
+Hgha-Fetogeaten (A7) o P arp Numen ?
+Atsmn Glotdn Paic Pr— % Pusmers 7 CALCERROR
+" apo? [ro—— :
+" an umen 7
+Tomel X
+A0k Prcsghatase (ALP) " Rs— ap po— ?
+. Mg xa a0 uo Tonal 0 Tl
+. ar " At Alarena Teansammase (ALT) " ar Mamens ? [
+« o e e Ameane Y . Pmers ?
+. amv aaay s 2emyie w — v umers ?
+©ANADS  ANALDS  ANMDS Tonel
+CwndEe  wwiBe  wwnBe « drmody o b Tonel 0
+o an .. ax . Tonel 0
+o ane v Tetuel 0
+oast ast Separne Teancamensse (AST " [os— Nmer :
+. Bxs e Toaw Be G w cosesosoenes  BKG f— :
+. Beos »eCas Tonw Beta HCG A Pr— Pusmers 0
+.o - ™ - Yol
+« w01 wor w01 Tonal
+a a e [ss——— a e 7
+. ™ p— P — e 0
+o @ — e ———T - 7 |
+. e —~a S Mamen 0 . |
+. cans " W Prrsse—p— A Mumen 7 B 1|
+. cam ars Wt [oS— a - ?
+caam  am wm o A - ?
+. 1
+. cau a2 AL Cocnen2 et wevsnrenn sen [ 4 ]
+. caL a o Test A ALC ? ]
+. car w w 2
+. ca mected Cakcau Commected Cokinm et cca 7 CALCERROR
+. s a Cancmembeyons Arogen (CEA) oyl cia ? »
+.o % 0 Vettnd - Mgt @ Veamad- Norped %
+
+Corrected OCR text:
+No correction supplied.

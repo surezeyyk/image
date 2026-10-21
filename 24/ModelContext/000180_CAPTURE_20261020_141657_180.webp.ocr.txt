@@ -1,0 +1,162 @@
+Image: 000180_CAPTURE_20261020_141657_180.webp
+Image reference: 000180_CAPTURE_20261020_141657_180.webp
+MIME type: image/webp
+SHA-256: 17e80a7b457b9a36c0d4f2433ee5a906b773c553712b64bb7a99eb416d09d618
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 180
+Included: Yes
+Captured: 2026-10-20T14:16:57.1922051+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.500
+OCR status: Completed
+OCR result ID: OCR-b8689c3b4a954932bfd07ff992fad310
+OCR completed UTC: 2026-10-20T06:34:12.2308212Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+e ta T 1
+— - — - | Etemal tent code
+s = 2 [t cotetormgen| ]
+
+
+
+
+
+1<}
+
+
+
+[Thege
+
+
+
+
+
+[ Nosrrbar o4 peres o
++
+
+Pt et . compare
+
+
+
+Vumber of ports ¢
+Acten to be por
+
+
+
+oo of poets ¢
+
+
+
+Odtion o8 et conges
+
+e G ben MA Detate
+
+Cusemce
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+e ta T 1
+— - — - | Etemal tent code
+s = 2 [t cotetormgen| ]
+
+
+
+
+
+1<}
+
+
+
+[Thege
+
+
+
+
+
+[ Nosrrbar o4 peres o
++
+
+Pt et . compare
+
+
+
+Vumber of ports ¢
+Acten to be por
+
+
+
+oo of poets ¢
+
+
+
+Odtion o8 et conges
+
+e G ben MA Detate
+
+Cusemce
+
+Corrected OCR text:
+No correction supplied.

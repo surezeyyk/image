@@ -1,0 +1,364 @@
+Image: 000188_CAPTURE_20261020_141700_797.webp
+Image reference: 000188_CAPTURE_20261020_141700_797.webp
+MIME type: image/webp
+SHA-256: 7ce03424bb224519d3a65cc6411afe6fdcaf75acd4d5a877840fb9f6af5870f4
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 188
+Included: Yes
+Captured: 2026-10-20T14:17:00.8100329+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.450
+OCR status: Completed
+OCR result ID: OCR-b1a3e9c734ae4b99827210e5bb0ccf14
+OCR completed UTC: 2026-10-20T06:34:16.0882195Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+. ot
+o Orty emabied tests
+
+Plmtcode 8 Amsincode Meemone  Decrgtion Mesuremert une Mok
+an Vancomyn  VANC ~ avsesnen
+
+
+
+
+
+G T T
+
+Concet
+
+X [ (Test code's M v
+
+Etemal vt code
+
+vanc
+
+51 Anstyters/Oramels  Workfion  Raport Groups
+
+
+
+Codhnd remts
+
+Mo Patne
+
+Cuspomen.
+
+
+
+Teat properten
+
+
+
+
+
+
+
+
+
+
+
+Massemert s =
+Test type C
+
+= Catitied phemen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Send b6 US ster vabdamon | =
+Dogs o g i o b | 5
+
+
+
+
+
+~ Averages wttmgs AVG
+Consncn mte
+[
+T
+Lomer it [
+Upper ime |
+Acoage trve |
+Vearmer of revts pur g
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YT
+Teareer ot porern ¢ ]
+Achon 1o be por 1
+~Houmeer of poeen | ]
+Oaasn 08 et anges
+- G e MA Detaie
+
+Ounable
++ aa0 v X Cancel
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+. ot
+o Orty emabied tests
+
+Plmtcode 8 Amsincode Meemone  Decrgtion Mesuremert une Mok
+an Vancomyn  VANC ~ avsesnen
+
+
+
+
+
+G T T
+
+Concet
+
+X [ (Test code's M v
+
+Etemal vt code
+
+vanc
+
+51 Anstyters/Oramels  Workfion  Raport Groups
+
+
+
+Codhnd remts
+
+Mo Patne
+
+Cuspomen.
+
+
+
+Teat properten
+
+
+
+
+
+
+
+
+
+
+
+Massemert s =
+Test type C
+
+= Catitied phemen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Send b6 US ster vabdamon | =
+Dogs o g i o b | 5
+
+
+
+
+
+~ Averages wttmgs AVG
+Consncn mte
+[
+T
+Lomer it [
+Upper ime |
+Acoage trve |
+Vearmer of revts pur g
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YT
+Teareer ot porern ¢ ]
+Achon 1o be por 1
+~Houmeer of poeen | ]
+Oaasn 08 et anges
+- G e MA Detaie
+
+Ounable
++ aa0 v X Cancel
+
+Corrected OCR text:
+No correction supplied.

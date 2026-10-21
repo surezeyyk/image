@@ -1,0 +1,154 @@
+Image: 000040_CAPTURE_20261020_141459_179.webp
+Image reference: 000040_CAPTURE_20261020_141459_179.webp
+MIME type: image/webp
+SHA-256: 629db969c6b7ca75b05718c48aa49f59f9047210960c8334f597c1642ec40086
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 40
+Included: Yes
+Captured: 2026-10-20T14:14:59.1914275+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.560
+OCR status: Completed
+OCR result ID: OCR-99cafc099861409b80f49db22a5b9313
+OCR completed UTC: 2026-10-20T06:32:41.6976030Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+o ooy ematied tess
+
+
+
+de Mnammons
+
+
+
+Mescremere vt Mok ot tent code
+
+
+
+DAN  Mutensl code
+
+
+
+
+
+(<
+
+[——
+
+
+
+
+
+
+
+
+
+o8 et conges
+
+X Descrption s e v Cuomes.
+
++ e v X Cancel
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+o ooy ematied tess
+
+
+
+de Mnammons
+
+
+
+Mescremere vt Mok ot tent code
+
+
+
+DAN  Mutensl code
+
+
+
+
+
+(<
+
+[——
+
+
+
+
+
+
+
+
+
+o8 et conges
+
+X Descrption s e v Cuomes.
+
++ e v X Cancel
+
+Corrected OCR text:
+No correction supplied.

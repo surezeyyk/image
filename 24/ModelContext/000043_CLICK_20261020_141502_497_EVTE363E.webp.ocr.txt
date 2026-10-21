@@ -1,0 +1,98 @@
+Image: 000043_CLICK_20261020_141502_497_EVTE363E.webp
+Image reference: 000043_CLICK_20261020_141502_497_EVTE363E.webp
+MIME type: image/webp
+SHA-256: 0f0a83b62b17b654d09194cc170fd89b8d2117a767497d86d6ead1207e91dfac
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 43
+Included: Yes
+Captured: 2026-10-20T14:15:02.4970924+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.860
+OCR status: Completed
+OCR result ID: OCR-4e919100d6ce467ebfb6aef9c7cfb76f
+OCR completed UTC: 2026-10-20T06:32:46.7752888Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: VB12 test configuration wizard
+Recognized screen ID: OCR-C1A96B7B70
+Recognized screen confidence: 0.860
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+VB12 test configuration wizard
+
+Analyzel-*ﬁChannels Workflow Report Grou
+IACC - IACC
+TWM - TWM
+
+Click-region OCR:
+VB12 test configuration wizard
+
+Analyzel-*ﬁChannels Workflow Report Grou
+IACC - IACC
+TWM - TWM
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+VB12 test configuration wizard
+
+Analyzel-*ﬁChannels Workflow Report Grou
+IACC - IACC
+TWM - TWM
+
+Corrected OCR text:
+No correction supplied.

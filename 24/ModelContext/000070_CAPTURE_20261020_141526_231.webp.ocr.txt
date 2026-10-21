@@ -1,0 +1,216 @@
+Image: 000070_CAPTURE_20261020_141526_231.webp
+Image reference: 000070_CAPTURE_20261020_141526_231.webp
+MIME type: image/webp
+SHA-256: 898ba69830e6493e6cf48fd7c110d3971802157542f57ffa23aaca5e49c7d6aa
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 70
+Included: Yes
+Captured: 2026-10-20T14:15:26.2428850+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.320
+OCR status: Completed
+OCR result ID: OCR-0cedfee2383f4239b9206cc481d001f6
+OCR completed UTC: 2026-10-20T06:33:03.8868992Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+& Fie Optors Wandows
+
+
+
+Drg & cchumn hanser Mare o guonup by that coiumn
+
+
+
+Anwyie  Descrgton ey Wodstanon
+
+
+
+
+
+Y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. Tan Anyaes code Ansiyres desrptiom
+A T e Alei-1 IAnsPRI) w +
+1o Y et St s TestXhmnne it Goserssetsp Back O
+" Teammmismion sertngs - Atemstin
+e . = - Yack ©
+TV Bt e b Teack anatyrer © -]
+™ Pyt Atomtion do
+T Enabie XOWKC © tiore - Odd
+I O s e sob e v mctremert type
+ot 20000 A e Sngemete oe
+B Ooarieat sam : Aetersnce etnsmant
+AN Arching rack =
+Uplood s (e s
+-
+et v b o v Ten et T e Anstzertpe
+MR Aeyis
+Arcyoes terna code Ak
+rewtoce @1 mncanen tpe Pt s rome
+L LR r
+
+
+
+i emmmdadon 583
+
+
+
+0\ OMNILAR P L 0%
+
+
+
+Qe v X Cancet
+
+B Ued Notepad
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+& Fie Optors Wandows
+
+
+
+Drg & cchumn hanser Mare o guonup by that coiumn
+
+
+
+Anwyie  Descrgton ey Wodstanon
+
+
+
+
+
+Y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. Tan Anyaes code Ansiyres desrptiom
+A T e Alei-1 IAnsPRI) w +
+1o Y et St s TestXhmnne it Goserssetsp Back O
+" Teammmismion sertngs - Atemstin
+e . = - Yack ©
+TV Bt e b Teack anatyrer © -]
+™ Pyt Atomtion do
+T Enabie XOWKC © tiore - Odd
+I O s e sob e v mctremert type
+ot 20000 A e Sngemete oe
+B Ooarieat sam : Aetersnce etnsmant
+AN Arching rack =
+Uplood s (e s
+-
+et v b o v Ten et T e Anstzertpe
+MR Aeyis
+Arcyoes terna code Ak
+rewtoce @1 mncanen tpe Pt s rome
+L LR r
+
+
+
+i emmmdadon 583
+
+
+
+0\ OMNILAR P L 0%
+
+
+
+Qe v X Cancet
+
+B Ued Notepad
+
+Corrected OCR text:
+No correction supplied.

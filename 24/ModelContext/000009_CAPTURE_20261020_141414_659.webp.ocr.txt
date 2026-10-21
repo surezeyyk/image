@@ -1,0 +1,144 @@
+Image: 000009_CAPTURE_20261020_141414_659.webp
+Image reference: 000009_CAPTURE_20261020_141414_659.webp
+MIME type: image/webp
+SHA-256: 2502f3df236c23db1e4060077a5dce1ccb473cad4db129e239f94a5b6ce17dd4
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 9
+Included: Yes
+Captured: 2026-10-20T14:14:14.6736691+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.650
+OCR status: Completed
+OCR result ID: OCR-fcb414a81c8c46618916f63f82851a01
+OCR completed UTC: 2026-10-20T06:32:27.9237532Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: *Untitled - Notepad
+Recognized screen ID: S0001
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Ovacte components
+
+Watall Oracle Server 64bit for Windows.
+
+Install Orache instances (AMS DB & Offline sistorical AMS 08}
+
+Install Orache Client 12bit for Windows
+
+Unetied - Netepad
+(a1t fomat Vew Mg
+
+Vancomycin
+
+dilution name: Dil 1 - factor: 4
+
+assay number : 1869
+
+unit : mg/L
+
+decimal 3
+
+Track code?
+
+LIS code : VANC
+
+type numeric
+
+eof range 10
+
+Windows (CRLF)
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Ovacte components
+
+Watall Oracle Server 64bit for Windows.
+
+Install Orache instances (AMS DB & Offline sistorical AMS 08}
+
+Install Orache Client 12bit for Windows
+
+Unetied - Netepad
+(a1t fomat Vew Mg
+
+Vancomycin
+
+dilution name: Dil 1 - factor: 4
+
+assay number : 1869
+
+unit : mg/L
+
+decimal 3
+
+Track code?
+
+LIS code : VANC
+
+type numeric
+
+eof range 10
+
+Windows (CRLF)
+
+Corrected OCR text:
+No correction supplied.

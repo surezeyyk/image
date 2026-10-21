@@ -1,0 +1,95 @@
+Image: 000205_CLICK_20261020_141713_648_EVTDB3EC.webp
+Image reference: 000205_CLICK_20261020_141713_648_EVTDB3EC.webp
+MIME type: image/webp
+SHA-256: a43f824ec0e272ade6ed05ee39d735665a70302e2277a5d79216affcee1d8d8d
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 205
+Included: Yes
+Captured: 2026-10-20T14:17:13.6488990+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.800
+OCR status: Completed
+OCR result ID: OCR-49810366ffd84c26b518946c421c8a18
+OCR completed UTC: 2026-10-20T06:34:23.9167510Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Vancomycin test configuration wizard
+Recognized screen ID: OCR-622D00753B
+Recognized screen confidence: 0.800
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Vancomycin test configuration wizard
+
+WorkList Analyzers/Channels Workflow Repc
+Analyzer  Downlo... Upload
+
+Click-region OCR:
+Vancomycin test configuration wizard
+
+WorkList Analyzers/Channels Workflow Repc
+Analyzer  Downlo... Upload
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Vancomycin test configuration wizard
+
+WorkList Analyzers/Channels Workflow Repc
+Analyzer  Downlo... Upload
+
+Corrected OCR text:
+No correction supplied.

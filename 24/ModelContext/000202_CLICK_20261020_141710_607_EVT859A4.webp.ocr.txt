@@ -1,0 +1,98 @@
+Image: 000202_CLICK_20261020_141710_607_EVT859A4.webp
+Image reference: 000202_CLICK_20261020_141710_607_EVT859A4.webp
+MIME type: image/webp
+SHA-256: aa267eee9acd2ea3332302ce1af7428365c42efeeb0a4a86cdf95cc67b0a8416
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 202
+Included: Yes
+Captured: 2026-10-20T14:17:10.6081291+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.570
+OCR status: Completed
+OCR result ID: OCR-5640e898eacc4e45a290dbd60647dde4
+OCR completed UTC: 2026-10-20T06:34:23.5185981Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: WorkList Analyzers/Channels  Workflow Report Grou;
+Recognized screen ID: OCR-AF13F08215
+Recognized screen confidence: 0.570
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+WorkList Analyzers/Channels  Workflow Report Grou;
+
+Analyzer Downlo.. Upload Flag Active Process
+
+Acid ol Mo -
+
+Click-region OCR:
+WorkList Analyzers/Channels  Workflow Report Grou;
+
+Analyzer Downlo.. Upload Flag Active Process
+
+Acid ol Mo -
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+WorkList Analyzers/Channels  Workflow Report Grou;
+
+Analyzer Downlo.. Upload Flag Active Process
+
+Acid ol Mo -
+
+Corrected OCR text:
+No correction supplied.

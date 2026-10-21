@@ -1,0 +1,202 @@
+Image: 000093_CAPTURE_20261020_141546_689.webp
+Image reference: 000093_CAPTURE_20261020_141546_689.webp
+MIME type: image/webp
+SHA-256: f0dc29cf88ff3804125da5b9d647d92f04102c3534d40cba422b4ec4a04bbb80
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 93
+Included: Yes
+Captured: 2026-10-20T14:15:46.7018872+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.440
+OCR status: Completed
+OCR result ID: OCR-98df7af09c884c6aa6e7e568bdf6bdb9
+OCR completed UTC: 2026-10-20T06:33:13.9141379Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+o) 8 CoRamn hander hare 86 groug by that comma
+
+
+
+
+
+Anhre  Descrgnon eger Wosganen sbarstory code Iemage
+. pes] wee n_
+Workstaton weyr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a .
+A Py Active Pre Anroe
+P
+~ [ Lol
+" = & ot
+o) Al - - B =
+" . " ag a A ol = Deletn
+" =
+\ ™ - " )
+- - o a - ] e _
+» a as an = Pav——
+" A A a A ]
+~ L MOL ol =
+MTIX T TR M n on " . . S
+. y o - - ot -
+. A~ r » ar ]
+« ™ ™ s « ™ =
+T v " « "o =
+- " = Noimoge
+ot cote
+o w =
+e - » =
+. . ™ [ Q sewch
+» » ¥ =
+» » -
+e P o
+Qwm v X Cament
+Link OC or
+@rrope  Diomytom_ | Gty
+[ + s = Cwee
+. o v X Concel
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+o) 8 CoRamn hander hare 86 groug by that comma
+
+
+
+
+
+Anhre  Descrgnon eger Wosganen sbarstory code Iemage
+. pes] wee n_
+Workstaton weyr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a .
+A Py Active Pre Anroe
+P
+~ [ Lol
+" = & ot
+o) Al - - B =
+" . " ag a A ol = Deletn
+" =
+\ ™ - " )
+- - o a - ] e _
+» a as an = Pav——
+" A A a A ]
+~ L MOL ol =
+MTIX T TR M n on " . . S
+. y o - - ot -
+. A~ r » ar ]
+« ™ ™ s « ™ =
+T v " « "o =
+- " = Noimoge
+ot cote
+o w =
+e - » =
+. . ™ [ Q sewch
+» » ¥ =
+» » -
+e P o
+Qwm v X Cament
+Link OC or
+@rrope  Diomytom_ | Gty
+[ + s = Cwee
+. o v X Concel
+
+Corrected OCR text:
+No correction supplied.

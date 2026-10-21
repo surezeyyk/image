@@ -1,0 +1,194 @@
+Image: 000126_CLICK_20261020_141616_569_EVT142FF.webp
+Image reference: 000126_CLICK_20261020_141616_569_EVT142FF.webp
+MIME type: image/webp
+SHA-256: 9f86555e361acc888c84cbd7c5a9d7e36db6871927d14a9dd07b132c5a6c7959
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 126
+Included: Yes
+Captured: 2026-10-20T14:16:16.5691203+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.820
+OCR status: Completed
+OCR result ID: OCR-497dce5bfc684f7caefe835721089ad1
+OCR completed UTC: 2026-10-20T06:33:27.2175329Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: st properties
+Recognized screen ID: OCR-D212A580A7
+Recognized screen confidence: 0.820
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+st properties
+
+
+
+Test code
+
+
+
+Mnemonic
+
+
+
+Test description
+
+
+
+External test code
+
+
+
+External test code for export
+
+
+
+Analysis
+
+
+
+Mask
+
+
+
+
+
+
+
+[ At s L S
+
+Click-region OCR:
+st properties
+
+
+
+Test code
+
+
+
+Mnemonic
+
+
+
+Test description
+
+
+
+External test code
+
+
+
+External test code for export
+
+
+
+Analysis
+
+
+
+Mask
+
+
+
+
+
+
+
+[ At s L S
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+st properties
+
+
+
+Test code
+
+
+
+Mnemonic
+
+
+
+Test description
+
+
+
+External test code
+
+
+
+External test code for export
+
+
+
+Analysis
+
+
+
+Mask
+
+
+
+
+
+
+
+[ At s L S
+
+Corrected OCR text:
+No correction supplied.

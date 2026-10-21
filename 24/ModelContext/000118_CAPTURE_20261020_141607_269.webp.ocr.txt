@@ -1,0 +1,168 @@
+Image: 000118_CAPTURE_20261020_141607_269.webp
+Image reference: 000118_CAPTURE_20261020_141607_269.webp
+MIME type: image/webp
+SHA-256: 3781c3450bb3803f7054dc360e0de28911a078acb6a431d6b3ba5cbc91dfcace
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 118
+Included: Yes
+Captured: 2026-10-20T14:16:07.2862099+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.450
+OCR status: Completed
+OCR result ID: OCR-f69d5285f6c445609c16acc8599661f6
+OCR completed UTC: 2026-10-20T06:33:23.9424704Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+= ety ensbied tesn {
+
+¥ Tost code 3 Se Mmermor Owscrgtion Mesremart une teter Actre AN Moo 3. = 1
+. ] ]
+. T ] 7 CALCERROR ]
+. I ) {
+v vaca aca “ca ) ~
+
+. o e we wea % 7 1
+©RUCPA  QKREA “Ria ]
+. U R . ) 1
+v - “x ] )|
+. - . ] ]
+. o - - /]
+. wen A “NA o o Ry = = ]
+v o . ‘o B e “Send v US sher vobduon | ] 1
+v ent vameon sonot % ]
+« A _t aw“ - /] ]
+©GaREA  QamEA N s = ]
+. e . o . - " = 4
+.ua N . - . ] {
+« vasn an s = {
+. = {
+" A n A " B e 1
+oW X ) 1
+« ucoRt ot ar .t ] Puame e of Nesrmal (AN ]
+. von B e [ P f g ot | 1
+. ve . wocty  wme . B e ([ ]
+. x . x ] |
+. " MALD ] {
+. o - vore e ) AcEmmon i
+. o s " - - = {
+. e ra o Setuen i " ] i
+« urca e o vt Proten Crasmovne Ras - oc 7] cEmmon {
+. UP o 5 phate « [
+. o ot - o Protes ’ o ]
+. A mia "5a wEA ] Ll ]
+" VTN e TA e Ay, Remed " e u Ovhtion 0P Ret ages
+. A s " Inve Urec Acof - B ]
+. UUREA MREA SEA REA % o A ten A Detain
+) ve w ~ w =
+e - = Ounsbie
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+= ety ensbied tesn {
+
+¥ Tost code 3 Se Mmermor Owscrgtion Mesremart une teter Actre AN Moo 3. = 1
+. ] ]
+. T ] 7 CALCERROR ]
+. I ) {
+v vaca aca “ca ) ~
+
+. o e we wea % 7 1
+©RUCPA  QKREA “Ria ]
+. U R . ) 1
+v - “x ] )|
+. - . ] ]
+. o - - /]
+. wen A “NA o o Ry = = ]
+v o . ‘o B e “Send v US sher vobduon | ] 1
+v ent vameon sonot % ]
+« A _t aw“ - /] ]
+©GaREA  QamEA N s = ]
+. e . o . - " = 4
+.ua N . - . ] {
+« vasn an s = {
+. = {
+" A n A " B e 1
+oW X ) 1
+« ucoRt ot ar .t ] Puame e of Nesrmal (AN ]
+. von B e [ P f g ot | 1
+. ve . wocty  wme . B e ([ ]
+. x . x ] |
+. " MALD ] {
+. o - vore e ) AcEmmon i
+. o s " - - = {
+. e ra o Setuen i " ] i
+« urca e o vt Proten Crasmovne Ras - oc 7] cEmmon {
+. UP o 5 phate « [
+. o ot - o Protes ’ o ]
+. A mia "5a wEA ] Ll ]
+" VTN e TA e Ay, Remed " e u Ovhtion 0P Ret ages
+. A s " Inve Urec Acof - B ]
+. UUREA MREA SEA REA % o A ten A Detain
+) ve w ~ w =
+e - = Ounsbie
+
+Corrected OCR text:
+No correction supplied.

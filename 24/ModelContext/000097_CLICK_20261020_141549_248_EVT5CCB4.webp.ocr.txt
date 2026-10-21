@@ -1,0 +1,260 @@
+Image: 000097_CLICK_20261020_141549_248_EVT5CCB4.webp
+Image reference: 000097_CLICK_20261020_141549_248_EVT5CCB4.webp
+MIME type: image/webp
+SHA-256: 840793b62ce6599bdd3971bab92d9d7ed8591d162c1bc4e2d3b17a3a0b3a38fe
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 97
+Included: Yes
+Captured: 2026-10-20T14:15:49.2491217+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.780
+OCR status: Completed
+OCR result ID: OCR-f9eb752cda0342e8a033e4328d33c580
+OCR completed UTC: 2026-10-20T06:33:14.7681462Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: 0O 0O 0O O 0O 0 0 0 0 O O
+Recognized screen ID: OCR-CC69236D4F
+Recognized screen confidence: 0.780
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+0O 0O 0O O 0O 0 0 0 0 O O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[CHCR<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q) Test
+
+() Analysis
+() Test code
+(") Download
+
+() Upload
+
+
+
+
+
+
+
+
+
+Q Search
+
+Click-region OCR:
+0O 0O 0O O 0O 0 0 0 0 O O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[CHCR<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q) Test
+
+() Analysis
+() Test code
+(") Download
+
+() Upload
+
+
+
+
+
+
+
+
+
+Q Search
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+0O 0O 0O O 0O 0 0 0 0 O O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[CHCR<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q) Test
+
+() Analysis
+() Test code
+(") Download
+
+() Upload
+
+
+
+
+
+
+
+
+
+Q Search
+
+Corrected OCR text:
+No correction supplied.

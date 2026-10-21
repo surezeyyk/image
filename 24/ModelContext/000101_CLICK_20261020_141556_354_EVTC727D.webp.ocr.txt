@@ -1,0 +1,182 @@
+Image: 000101_CLICK_20261020_141556_354_EVTC727D.webp
+Image reference: 000101_CLICK_20261020_141556_354_EVTC727D.webp
+MIME type: image/webp
+SHA-256: 53bfaaff2027a668d6d2d2e19a7f0f93a10c20794279efc9f9677f1cd4ee16f3
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 101
+Included: Yes
+Captured: 2026-10-20T14:15:56.3549951+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.790
+OCR status: Completed
+OCR result ID: OCR-69c194a69d4c4204af810b2d87343a1d
+OCR completed UTC: 2026-10-20T06:33:15.9590708Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: O O O O O O O O O O O C
+Recognized screen ID: OCR-BC8CC224C2
+Recognized screen confidence: 0.790
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+O O O O O O O O O O O C
+
+C
+
+
+
+
+
+
+
+
+
+(<
+
+
+
+
+
+<
+
+
+
+
+
+
+
+
+
+
+
+
+
+I
+
+Click-region OCR:
+O O O O O O O O O O O C
+
+C
+
+
+
+
+
+
+
+
+
+(<
+
+
+
+
+
+<
+
+
+
+
+
+
+
+
+
+
+
+
+
+I
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+O O O O O O O O O O O C
+
+C
+
+
+
+
+
+
+
+
+
+(<
+
+
+
+
+
+<
+
+
+
+
+
+
+
+
+
+
+
+
+
+I
+
+Corrected OCR text:
+No correction supplied.

@@ -1,0 +1,176 @@
+Image: 000156_CAPTURE_20261020_141637_897.webp
+Image reference: 000156_CAPTURE_20261020_141637_897.webp
+MIME type: image/webp
+SHA-256: 2a51523eb23a1d24b619ff5de2af15bd7338ecb9d56633ed0e7fa1ca3d196ab9
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 156
+Included: Yes
+Captured: 2026-10-20T14:16:37.9099705+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.430
+OCR status: Completed
+OCR result ID: OCR-cc10189b9be541a0ba20da82e4944281
+OCR completed UTC: 2026-10-20T06:33:54.0632041Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: *Untitled - Notepad
+Recognized screen ID: S0001
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+v enabied tests {
+1lutcode & Anshn code Mnamonc Messremert e Mack [ DN Mueselcode Vet 5 1
+.« wor oo ror ror B e 1
+« 3o vor ror ] ]
+.a o s arcw - s = s caRmos |
+AP MG NG PO eGP ] ALCERROR {
+. acce e » s CCP " accr ) i
+. e w e ] {
+.u p /G = Auctanon 1
+. a . ap N ] 1
+. aw e aw pramens > ap ] 1
+. u e ] ]
+. ap e ar A phee Proighataie (AP ar ]
+*ag x r p = = 1
+.« ar uy At T — A ] =
+o anm anns . . ]
+. sty = 1
+. ANaLD ) [ ]
+“wndBe  wniBe  weBe Hepants § ¢ Artbody e Mo ] i
+. an 1 ] ] {
+. sy v = = {
+o - - e b a | Aceagetype |
+. > e »e ¥ e = Narrter of rests par po
+. o - - % e e 1
+. > - = [ s 1 ]
+.o [ o = ] Avveaor of Marms NON )|
+« 901 wor o1 ] ] [ Hcmmiser of pewrts ot ]
+. - | [omsin s compen]
+‘o 4 4 ‘ 7]
+o cam i o = i
+. ca " A A . A B e {
+. ca A A s A B rme {
+. cans 219 A1 29 ~ e = ]
+. =
+. AL X A Al =
+. cu " Tt ” A ] ] L1l
+. car » a» » = =
+. cca " ected Cokcon N 7] aucumpon
+. ¢ » Mog Y vy ., )
+. ¥ = =
+. e e eteme " ]
+. > Py - you = =
+
+
+
++ W oy X Concel
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+v enabied tests {
+1lutcode & Anshn code Mnamonc Messremert e Mack [ DN Mueselcode Vet 5 1
+.« wor oo ror ror B e 1
+« 3o vor ror ] ]
+.a o s arcw - s = s caRmos |
+AP MG NG PO eGP ] ALCERROR {
+. acce e » s CCP " accr ) i
+. e w e ] {
+.u p /G = Auctanon 1
+. a . ap N ] 1
+. aw e aw pramens > ap ] 1
+. u e ] ]
+. ap e ar A phee Proighataie (AP ar ]
+*ag x r p = = 1
+.« ar uy At T — A ] =
+o anm anns . . ]
+. sty = 1
+. ANaLD ) [ ]
+“wndBe  wniBe  weBe Hepants § ¢ Artbody e Mo ] i
+. an 1 ] ] {
+. sy v = = {
+o - - e b a | Aceagetype |
+. > e »e ¥ e = Narrter of rests par po
+. o - - % e e 1
+. > - = [ s 1 ]
+.o [ o = ] Avveaor of Marms NON )|
+« 901 wor o1 ] ] [ Hcmmiser of pewrts ot ]
+. - | [omsin s compen]
+‘o 4 4 ‘ 7]
+o cam i o = i
+. ca " A A . A B e {
+. ca A A s A B rme {
+. cans 219 A1 29 ~ e = ]
+. =
+. AL X A Al =
+. cu " Tt ” A ] ] L1l
+. car » a» » = =
+. cca " ected Cokcon N 7] aucumpon
+. ¢ » Mog Y vy ., )
+. ¥ = =
+. e e eteme " ]
+. > Py - you = =
+
+
+
++ W oy X Concel
+
+Corrected OCR text:
+No correction supplied.

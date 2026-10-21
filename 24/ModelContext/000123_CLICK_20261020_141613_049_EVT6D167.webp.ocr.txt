@@ -1,0 +1,164 @@
+Image: 000123_CLICK_20261020_141613_049_EVT6D167.webp
+Image reference: 000123_CLICK_20261020_141613_049_EVT6D167.webp
+MIME type: image/webp
+SHA-256: e455343f30113b721d32f7c4371ea4ee8d3cd45410757baac3e003a0ca94a06b
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 123
+Included: Yes
+Captured: 2026-10-20T14:16:13.0497384+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.810
+OCR status: Completed
+OCR result ID: OCR-0caf294ada8f4196a924d4fc8bfd3dc0
+OCR completed UTC: 2026-10-20T06:33:26.3300166Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Test properties
+Recognized screen ID: OCR-556AB74C6E
+Recognized screen confidence: 0.810
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+3 o
+
+Test properties
+
+
+
+
+
+
+
+
+
+
+
+Test code UZ4C|.
+Mnemonic u24 CL
+Test description 24 Hr Urine Chloride
+External test code U24-CL
+
+
+
+External test code for export
+
+
+
++ Analysis
+Mask BREZEZ
+
+Click-region OCR:
+3 o
+
+Test properties
+
+
+
+
+
+
+
+
+
+
+
+Test code UZ4C|.
+Mnemonic u24 CL
+Test description 24 Hr Urine Chloride
+External test code U24-CL
+
+
+
+External test code for export
+
+
+
++ Analysis
+Mask BREZEZ
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+3 o
+
+Test properties
+
+
+
+
+
+
+
+
+
+
+
+Test code UZ4C|.
+Mnemonic u24 CL
+Test description 24 Hr Urine Chloride
+External test code U24-CL
+
+
+
+External test code for export
+
+
+
++ Analysis
+Mask BREZEZ
+
+Corrected OCR text:
+No correction supplied.

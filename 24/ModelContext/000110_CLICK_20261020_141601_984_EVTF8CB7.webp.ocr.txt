@@ -1,0 +1,143 @@
+Image: 000110_CLICK_20261020_141601_984_EVTF8CB7.webp
+Image reference: 000110_CLICK_20261020_141601_984_EVTF8CB7.webp
+MIME type: image/webp
+SHA-256: f99224792d7ff97cd79433d7e05c633b82bf5b72978b28f05d412ffdc232924c
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: CONFIGURATOR.SEC.5_12
+Hierarchy path: Configurator > Configurator > Codified phrases
+Hierarchy manual: Configurator
+Hierarchy section: 5.12
+Hierarchy node type: Configuration Area
+Hierarchy source: Automatic OCR match
+Hierarchy confidence: 95%
+Hierarchy evidence: OCR contains the screen title: Codified phrases
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 110
+Included: Yes
+Captured: 2026-10-20T14:16:01.9849892+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.620
+OCR status: Completed
+OCR result ID: OCR-18c264eda83a4bd18103d065efc120b2
+OCR completed UTC: 2026-10-20T06:33:17.9958130Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Configurator > Configurator > Codified phrases
+Recognized screen ID: CONFIGURATOR.SEC.5_12
+Recognized screen confidence: 0.950
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+=) VWOIRISL
+(#-{*} Codified phrases
+& Report groups
+@[ Events
+
+|-sams Ethnicities
+
+@ Categories
+
+-jem Requesters
+
+& T
+
+4§ Workflow
+
+.lg TAT
+
+-4 Smart Rules Editor
+& @ Task Scheduler
+1-4¥ DCW Tools
+
+Click-region OCR:
+=) VWOIRISL
+(#-{*} Codified phrases
+& Report groups
+@[ Events
+
+|-sams Ethnicities
+
+@ Categories
+
+-jem Requesters
+
+& T
+
+4§ Workflow
+
+.lg TAT
+
+-4 Smart Rules Editor
+& @ Task Scheduler
+1-4¥ DCW Tools
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+=) VWOIRISL
+(#-{*} Codified phrases
+& Report groups
+@[ Events
+
+|-sams Ethnicities
+
+@ Categories
+
+-jem Requesters
+
+& T
+
+4§ Workflow
+
+.lg TAT
+
+-4 Smart Rules Editor
+& @ Task Scheduler
+1-4¥ DCW Tools
+
+Corrected OCR text:
+No correction supplied.

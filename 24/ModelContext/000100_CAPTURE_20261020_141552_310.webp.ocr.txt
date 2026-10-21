@@ -1,0 +1,186 @@
+Image: 000100_CAPTURE_20261020_141552_310.webp
+Image reference: 000100_CAPTURE_20261020_141552_310.webp
+MIME type: image/webp
+SHA-256: d1bfc7c2d040631eb5a694f5e0650a4facece7ef721ddc147705a657907889c0
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 100
+Included: Yes
+Captured: 2026-10-20T14:15:52.3217911+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.540
+OCR status: Completed
+OCR result ID: OCR-1308548d3f694cf3b729d391449458e7
+OCR completed UTC: 2026-10-20T06:33:15.8723391Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+o 8 coRamn hander here &
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+B ]
+
+
+
+ae
+
+
+
+
+
+an
+
+
+
+aaon
+
+ae
+
+
+
+
+
+
+
+No image
+
+Unk O sor
+
+@rrope [ Copytrom QG oty
+
+B G o+ had = Cwee
+
+B reon v X Concet
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+o 8 coRamn hander here &
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+B ]
+
+
+
+ae
+
+
+
+
+
+an
+
+
+
+aaon
+
+ae
+
+
+
+
+
+
+
+No image
+
+Unk O sor
+
+@rrope [ Copytrom QG oty
+
+B G o+ had = Cwee
+
+B reon v X Concet
+
+Corrected OCR text:
+No correction supplied.

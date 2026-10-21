@@ -1,0 +1,174 @@
+Image: 000165_CAPTURE_20261020_141641_871.webp
+Image reference: 000165_CAPTURE_20261020_141641_871.webp
+MIME type: image/webp
+SHA-256: 837fe29afbe05fd57e75a3ea78e94472e8a09adf68bb9e37242d04f9198c4553
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 165
+Included: Yes
+Captured: 2026-10-20T14:16:41.8869612+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.410
+OCR status: Completed
+OCR result ID: OCR-c95f32c042024eafb99ccf0095511a72
+OCR completed UTC: 2026-10-20T06:33:59.4246302Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+= Tt properin
+e Workdt ':::
+& Oty enabied tests
+Test descrgmon
+Oencrtion Mescremert e Mask et et cote Adve  Tettpe Optons SN Mewwicode Veksey  Codhed ok - Nom P =T
+Unoties - Netesed o x
+Ted Fie ot Fomat Vew Hep
+1 Vancomyc in N
+ndilution name: Dil 1 - factor: 4 e e
+Twl assay number : 1869 —
+™iunit : mg/tL Vmig
+uHdecimal : 3 Pactogs
+#4Track code? Cottiad comments
+HHLIS code : Vs cote
+4 type numeric Optuoewt 1
+uref range 10 - 2 s Ai
+ay e
+Y Serd 1o US #ter vabdamon =
+am Doys of g, o o bew bt 35 -
+wonos “ T Averages st VG
+weRot L Colosisnon mode
+. e MM AMmshun evenge
+PRUTT P uH ey
+« ey we 2 —
+.o w w [ ":'_,W
+. DAy .y [ > Nourmter of resits per pe. )
+. Py
+. vz R v - ~ Avvenge of Normd AON
+. wi L U Nsrriser of pewes out |
+* ucomt wCoR? vcoRT . Powt it %, compans
+N wata N 280 . e
+: . - Mot tn2.Calt2 an ~r =] ]
+. w Mumer ? — - )‘
+o e Mumerx ? Show s dublbond I
+. ocn w—ce Mumenc 7 CALCERROR :""""""“
+« o P umenc ? "
+.o [T [o— v B e ? s e |
+. R wer S Proten Cramnrene Paso oy v wosvaen s uBcR Pumens ALCERROR wa-: 1
+« o3 e Prasphote et vos Mamerc : et j
+« up0 oo Proten - U280 Mumer 4 o 00 Rl ranges
+o s e ——t [N mens ?
+. UTaay e Armylase. Tomed un Ty Pemers ? ot T, A Detaie
+. a e Unk Akt w—_t v Moumers »
+. uREa s e Ures et UAREA Numers ? Ousble:
+b vanc Vencomycn VAN VANC Nusmers ’
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+= Tt properin
+e Workdt ':::
+& Oty enabied tests
+Test descrgmon
+Oencrtion Mescremert e Mask et et cote Adve  Tettpe Optons SN Mewwicode Veksey  Codhed ok - Nom P =T
+Unoties - Netesed o x
+Ted Fie ot Fomat Vew Hep
+1 Vancomyc in N
+ndilution name: Dil 1 - factor: 4 e e
+Twl assay number : 1869 —
+™iunit : mg/tL Vmig
+uHdecimal : 3 Pactogs
+#4Track code? Cottiad comments
+HHLIS code : Vs cote
+4 type numeric Optuoewt 1
+uref range 10 - 2 s Ai
+ay e
+Y Serd 1o US #ter vabdamon =
+am Doys of g, o o bew bt 35 -
+wonos “ T Averages st VG
+weRot L Colosisnon mode
+. e MM AMmshun evenge
+PRUTT P uH ey
+« ey we 2 —
+.o w w [ ":'_,W
+. DAy .y [ > Nourmter of resits per pe. )
+. Py
+. vz R v - ~ Avvenge of Normd AON
+. wi L U Nsrriser of pewes out |
+* ucomt wCoR? vcoRT . Powt it %, compans
+N wata N 280 . e
+: . - Mot tn2.Calt2 an ~r =] ]
+. w Mumer ? — - )‘
+o e Mumerx ? Show s dublbond I
+. ocn w—ce Mumenc 7 CALCERROR :""""""“
+« o P umenc ? "
+.o [T [o— v B e ? s e |
+. R wer S Proten Cramnrene Paso oy v wosvaen s uBcR Pumens ALCERROR wa-: 1
+« o3 e Prasphote et vos Mamerc : et j
+« up0 oo Proten - U280 Mumer 4 o 00 Rl ranges
+o s e ——t [N mens ?
+. UTaay e Armylase. Tomed un Ty Pemers ? ot T, A Detaie
+. a e Unk Akt w—_t v Moumers »
+. uREa s e Ures et UAREA Numers ? Ousble:
+b vanc Vencomycn VAN VANC Nusmers ’
+
+Corrected OCR text:
+No correction supplied.

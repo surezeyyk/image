@@ -1,0 +1,650 @@
+Image: 000116_CAPTURE_20261020_141605_652.webp
+Image reference: 000116_CAPTURE_20261020_141605_652.webp
+MIME type: image/webp
+SHA-256: 239078c83868665f6747b7d8d11ee082f0edd43856cb2b8af94ea93035335e85
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 116
+Included: Yes
+Captured: 2026-10-20T14:16:05.6642214+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.450
+OCR status: Completed
+OCR result ID: OCR-ff6f9210409a4f9594b32f6ed2373f15
+OCR completed UTC: 2026-10-20T06:33:22.7245548Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Ejﬂ, AMS - (AMSPRI)
+Recognized screen ID: S0005
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Test porets dnsdsia
+
+Muten
+
+
+
+Fletcode & Anshun code Mnemars
+
+
+
+
+
+
+
+v
+
+M
+vaney
+
+
+
+v vcaz
+. v
+
+« ucoRt
+
+cuces uoma
+
+- vaC "
+
+. LI =
+
+. )
+. cx
+. o
+
+. wa
+
+. wr
+
+. oS
+. e
+
+. s
+. T any
+. wa
+
+. oA
+
+
+
+[
+
+24 Urmne Yed
+
+20 Urme
+2444 Urine Ovonde
+
+24 U Cremmenne
+
+
+
+2414 Urne Ghcose
+2444 Urne Peasssm
+2414 Urine At
+2414 Urne Magnesnm
+2414 Urine Soduem
+
+244 Urme Phasphne
+
+244 Urne Preten
+
+
+
+e Crastinme
+Uniansented bon Bendeng Copacty
+Wi Potassasmn
+
+e Aumn
+
+Wnre Albusmn Crestrvne Bano
+e Magresapm
+
+Unre Sagusmm
+
+e Frotem Cresrnre Eae
+
+e Prcsghate
+
+e Proten
+
+
+
+
+
+
+
+
+Oty enabied tests
+
+Memremert e Mok
+
+
+
+
+
+
+
+seessseaenae
+
+
+
+
+
+
+
+vasssssee ne
+
+vassssser ne
+
+
+
+Etema test code
+
+
+
+
+
+
+
+
+
+
+
+
+
+(SR R R R R R R R R R R R R R R R R Rl R R R R R R R R R Rl Rl Rl ]
+
+Tettpe Optons  SMN
+
+
+
+Muterai cote
+
+aese,
+
+Codthad rewals - Mo P
+
+CALCERROR
+
+CALCERROR
+
+ALCTRROR
+
+
+
+Tt oot
+
+
+
+Todt code
+Mramonc
+
+Test descnpnon
+Etermal veut o0 et
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mg Aveimye MAA
+
+
+
+Days of retertion of o,
+Festan
+S Sented
+
+
+
+
+
+
+
+Uarderd devaton (N
+
+
+
+= Actiom
+
+
+
+- Nurrber of powets |
+Acten o be per
+~ Number of poets ¢
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obton
+
+Ret. ronges
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Test porets dnsdsia
+
+Muten
+
+
+
+Fletcode & Anshun code Mnemars
+
+
+
+
+
+
+
+v
+
+M
+vaney
+
+
+
+v vcaz
+. v
+
+« ucoRt
+
+cuces uoma
+
+- vaC "
+
+. LI =
+
+. )
+. cx
+. o
+
+. wa
+
+. wr
+
+. oS
+. e
+
+. s
+. T any
+. wa
+
+. oA
+
+
+
+[
+
+24 Urmne Yed
+
+20 Urme
+2444 Urine Ovonde
+
+24 U Cremmenne
+
+
+
+2414 Urne Ghcose
+2444 Urne Peasssm
+2414 Urine At
+2414 Urne Magnesnm
+2414 Urine Soduem
+
+244 Urme Phasphne
+
+244 Urne Preten
+
+
+
+e Crastinme
+Uniansented bon Bendeng Copacty
+Wi Potassasmn
+
+e Aumn
+
+Wnre Albusmn Crestrvne Bano
+e Magresapm
+
+Unre Sagusmm
+
+e Frotem Cresrnre Eae
+
+e Prcsghate
+
+e Proten
+
+
+
+
+
+
+
+
+Oty enabied tests
+
+Memremert e Mok
+
+
+
+
+
+
+
+seessseaenae
+
+
+
+
+
+
+
+vasssssee ne
+
+vassssser ne
+
+
+
+Etema test code
+
+
+
+
+
+
+
+
+
+
+
+
+
+(SR R R R R R R R R R R R R R R R R Rl R R R R R R R R R Rl Rl Rl ]
+
+Tettpe Optons  SMN
+
+
+
+Muterai cote
+
+aese,
+
+Codthad rewals - Mo P
+
+CALCERROR
+
+CALCERROR
+
+ALCTRROR
+
+
+
+Tt oot
+
+
+
+Todt code
+Mramonc
+
+Test descnpnon
+Etermal veut o0 et
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mg Aveimye MAA
+
+
+
+Days of retertion of o,
+Festan
+S Sented
+
+
+
+
+
+
+
+Uarderd devaton (N
+
+
+
+= Actiom
+
+
+
+- Nurrber of powets |
+Acten o be per
+~ Number of poets ¢
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obton
+
+Ret. ronges
+
+Corrected OCR text:
+No correction supplied.

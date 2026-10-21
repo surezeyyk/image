@@ -1,0 +1,304 @@
+Image: 000186_CAPTURE_20261020_141700_295.webp
+Image reference: 000186_CAPTURE_20261020_141700_295.webp
+MIME type: image/webp
+SHA-256: b6ecde5e88c6496d9bc269fda6b72bebdff77702a679312c18743e077622b19b
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 186
+Included: Yes
+Captured: 2026-10-20T14:17:00.3082799+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.450
+OCR status: Completed
+OCR result ID: OCR-f8cbfb5d0fb142f38aa3a390edc4eb1f
+OCR completed UTC: 2026-10-20T06:34:13.8472749Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+-
+
+- Orty enatied tests
+
+
+
+1letcode &7 Anshn code Mamon Sescrgten Messremert e Mot e vt code Acve  Tettpe Optonst SMN  Mutensicode Veldty  Codled remsls - Noms Puthe
+
+
+
+
+
+
+
+b . v e Voncomycn  VANC ~ aveesven aNC Pumers ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Serd to US ster vabdamon | =
+Dogs o pamm. i om- b b | 5
+T Avesages wottongs VG
+Cacumen mote
+(ot ewge
+oot serage
+Tower e
+Usper eme
+Acerage type
+Voumbar o revt por e
+e
+
+" Aveeaor of Narmel AON
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Concet Nt » Dewseen Ret Banges -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+et anges
+
+
+
+x B (Test code s e N Curoence. X Cos
+s
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+-
+
+- Orty enatied tests
+
+
+
+1letcode &7 Anshn code Mamon Sescrgten Messremert e Mot e vt code Acve  Tettpe Optonst SMN  Mutensicode Veldty  Codled remsls - Noms Puthe
+
+
+
+
+
+
+
+b . v e Voncomycn  VANC ~ aveesven aNC Pumers ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Serd to US ster vabdamon | =
+Dogs o pamm. i om- b b | 5
+T Avesages wottongs VG
+Cacumen mote
+(ot ewge
+oot serage
+Tower e
+Usper eme
+Acerage type
+Voumbar o revt por e
+e
+
+" Aveeaor of Narmel AON
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Concet Nt » Dewseen Ret Banges -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+et anges
+
+
+
+x B (Test code s e N Curoence. X Cos
+s
+
+Corrected OCR text:
+No correction supplied.

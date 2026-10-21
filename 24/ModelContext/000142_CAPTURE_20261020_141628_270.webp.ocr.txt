@@ -1,0 +1,426 @@
+Image: 000142_CAPTURE_20261020_141628_270.webp
+Image reference: 000142_CAPTURE_20261020_141628_270.webp
+MIME type: image/webp
+SHA-256: d90e9a110afa12b850f5eb3c09490aaa68db0fc0a879aad5a12278d34c9a90cf
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 142
+Included: Yes
+Captured: 2026-10-20T14:16:28.2826587+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.450
+OCR status: Completed
+OCR result ID: OCR-a8288e0f5c614487a1f260d2a1beb0e1
+OCR completed UTC: 2026-10-20T06:33:47.7205112Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: *Untitled - Notepad
+Recognized screen ID: S0001
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Mescremert e Mout Etema vt code Actve  Tettpe Optonsd AN Mutesalcode Vakdty  Coddied remlts - Nom P
+
+
+
+
+
+1hg T Unetied - Neaeped o x
+
+
+
+4 Fomat View el
+
+
+
+
+
+
+
+
+
+4/ dilution name: Dil 1 - factor: 4
+4ot assay number : 1869
+
+senunit : mg/L
+
+v decimal : 3
+
+i Track code?
+
+M LIS code : VANC
+
+40 type numeric
+
+saxref range 10 - 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+£Q
+Ay Sere o US ther wabdion £
+domt Do o porm. o b | 55
+
+o ae anry v sy T Aveeages vettings VG
+
+CANMDS  ANALDS  ANDS AN Catcubnen mote
+
+Cwaree  ewiSe  worBe Voo Lomstars orege
+
+. AR anc A anC Otuerved sverage
+
+. A v ‘:-:
+
+o ast P —
+
+* 5ee Youy Nurmber of rasits per pe.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ittt Windows (CILF) nl Calt oo
+s @ - v —Cx — : ]
+o camy e cam o [RS— came Hamars ! i
+. Az cans wm sossnesres A3 o : | |
+. 15 cam A1 o veversene v A e ?
+. awm  caw 2% v B Mmens ?
+. 1
+. a2 a2 cau Cocmmd el sevsrsees vae AL e 4
+* caLC " Tt A A Tonwl ?
+
+2 w » Temual 0
+
+a amected Cakcn Comected Cakcom — fas—— ca Mo ? caicempon
+
+caa A Coromsembryon Arwgen (CEA) WA sevessss ve ca Mumenc r s Dot
+. - o 5 Tonel
+. ox ou e Oncimestease " [es— oo B e ? e
+« e - cremsTRy oo - 0
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Mescremert e Mout Etema vt code Actve  Tettpe Optonsd AN Mutesalcode Vakdty  Coddied remlts - Nom P
+
+
+
+
+
+1hg T Unetied - Neaeped o x
+
+
+
+4 Fomat View el
+
+
+
+
+
+
+
+
+
+4/ dilution name: Dil 1 - factor: 4
+4ot assay number : 1869
+
+senunit : mg/L
+
+v decimal : 3
+
+i Track code?
+
+M LIS code : VANC
+
+40 type numeric
+
+saxref range 10 - 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+£Q
+Ay Sere o US ther wabdion £
+domt Do o porm. o b | 55
+
+o ae anry v sy T Aveeages vettings VG
+
+CANMDS  ANALDS  ANDS AN Catcubnen mote
+
+Cwaree  ewiSe  worBe Voo Lomstars orege
+
+. AR anc A anC Otuerved sverage
+
+. A v ‘:-:
+
+o ast P —
+
+* 5ee Youy Nurmber of rasits per pe.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ittt Windows (CILF) nl Calt oo
+s @ - v —Cx — : ]
+o camy e cam o [RS— came Hamars ! i
+. Az cans wm sossnesres A3 o : | |
+. 15 cam A1 o veversene v A e ?
+. awm  caw 2% v B Mmens ?
+. 1
+. a2 a2 cau Cocmmd el sevsrsees vae AL e 4
+* caLC " Tt A A Tonwl ?
+
+2 w » Temual 0
+
+a amected Cakcn Comected Cakcom — fas—— ca Mo ? caicempon
+
+caa A Coromsembryon Arwgen (CEA) WA sevessss ve ca Mumenc r s Dot
+. - o 5 Tonel
+. ox ou e Oncimestease " [es— oo B e ? e
+« e - cremsTRy oo - 0
+
+Corrected OCR text:
+No correction supplied.

@@ -1,0 +1,196 @@
+Image: 000131_CAPTURE_20261020_141619_913.webp
+Image reference: 000131_CAPTURE_20261020_141619_913.webp
+MIME type: image/webp
+SHA-256: 7118f98b48ac88acbdb6dee93f9ea34a5620ae3c872ed9d07d4a4c78ee7bd18b
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 131
+Included: Yes
+Captured: 2026-10-20T14:16:19.9258419+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.430
+OCR status: Completed
+OCR result ID: OCR-762df62609b7462ca2ce08c6ce46189a
+OCR completed UTC: 2026-10-20T06:33:32.6167892Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Codified results - Norrr Pz
+Recognized screen ID: S0002
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+EREy—
+worsee
+tonen Test code s
+B Ony enabied tesss
+Mnemenc o
+Tt Sencrpnen AN
+Plmtcode & Ansywmcode Mnemonc  Dmcrgtion Messremert e e et cote Adve  Tettpe Optond SN Muensicode Vedty  Codhed ot - Nom P ey
+v O O O Extemal test code for expont
+I Ire— o x i
+IM Fle e fomat Vew el Mok —
+A% Vancomycin ""‘"""- - -
+i< dilution name: Dil 1 - factor: 4 -«m.::,-.... e
+st 6
+assay number : 1869 —
+senunit : mg/L nemeg
+s decimal : 3 Pacioges
+s Track code? Ceatas comments
+4 LIS code : VANC Maeal e
+40 type numeric gt s
+s 9an
+ua Acne
+P Serd e US e
+Dogs of pemm. o on b | 55
+o an sy e ~ Avrraes vt VG
+©ANMDS  ANALDS  ANM DS Cokctencn mote
+T Lo e
+. an e -~ Omsered soerage
+Lower ot
+- ane ey
+Upper emtt
+o ast ast
+~ Acenagetype
+M N Nurrter of resuts per po
+s wCos S
+™ vrrage of Mormal AN
+o1 Posrier o peorts o
+o a 3 Cont Port e % compans
+cam - ™ ol = Mg Averane WA
+Windows (C915) tnh Cat ox
+. 2 2 Complomen R et o e T Ooys of swtertion of &
+. e cam omplemert C4 ~a p— can Pamers 0 L {
+. cans R can v P mens ? S o Srntond [w 1
+. Sarderd decaton
+. ars a153 A1 W [ Pmers
+~ Avm
+. awm Gaw caws P e ?
+v - = Number of powts ¢ |
+: cnen e be g |
+. cau a2 A G pu - Moment 7 b 1
+* caLC m Tt ” Al Total ? = ]
+2 W 2 Tt o 2
+a o Comected Cokinm m—l - cca P 7 CaLcumRon
+can Cancmaemeyens Artgen (CEA) Wt v A Hmens ? .
+.G % Tonal
+. o ou [ avessrae ou Pomers ? o
+« oo o o Tetunt 0
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+EREy—
+worsee
+tonen Test code s
+B Ony enabied tesss
+Mnemenc o
+Tt Sencrpnen AN
+Plmtcode & Ansywmcode Mnemonc  Dmcrgtion Messremert e e et cote Adve  Tettpe Optond SN Muensicode Vedty  Codhed ot - Nom P ey
+v O O O Extemal test code for expont
+I Ire— o x i
+IM Fle e fomat Vew el Mok —
+A% Vancomycin ""‘"""- - -
+i< dilution name: Dil 1 - factor: 4 -«m.::,-.... e
+st 6
+assay number : 1869 —
+senunit : mg/L nemeg
+s decimal : 3 Pacioges
+s Track code? Ceatas comments
+4 LIS code : VANC Maeal e
+40 type numeric gt s
+s 9an
+ua Acne
+P Serd e US e
+Dogs of pemm. o on b | 55
+o an sy e ~ Avrraes vt VG
+©ANMDS  ANALDS  ANM DS Cokctencn mote
+T Lo e
+. an e -~ Omsered soerage
+Lower ot
+- ane ey
+Upper emtt
+o ast ast
+~ Acenagetype
+M N Nurrter of resuts per po
+s wCos S
+™ vrrage of Mormal AN
+o1 Posrier o peorts o
+o a 3 Cont Port e % compans
+cam - ™ ol = Mg Averane WA
+Windows (C915) tnh Cat ox
+. 2 2 Complomen R et o e T Ooys of swtertion of &
+. e cam omplemert C4 ~a p— can Pamers 0 L {
+. cans R can v P mens ? S o Srntond [w 1
+. Sarderd decaton
+. ars a153 A1 W [ Pmers
+~ Avm
+. awm Gaw caws P e ?
+v - = Number of powts ¢ |
+: cnen e be g |
+. cau a2 A G pu - Moment 7 b 1
+* caLC m Tt ” Al Total ? = ]
+2 W 2 Tt o 2
+a o Comected Cokinm m—l - cca P 7 CaLcumRon
+can Cancmaemeyens Artgen (CEA) Wt v A Hmens ? .
+.G % Tonal
+. o ou [ avessrae ou Pomers ? o
+« oo o o Tetunt 0
+
+Corrected OCR text:
+No correction supplied.

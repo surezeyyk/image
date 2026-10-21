@@ -1,0 +1,89 @@
+Image: 000045_CLICK_20261020_141506_425_EVTDE820.webp
+Image reference: 000045_CLICK_20261020_141506_425_EVTDE820.webp
+MIME type: image/webp
+SHA-256: ab2b3e7b695d556e259e3c57f9dc1ac39b304f78bee354aaa2b906c5ce50a6cd
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 45
+Included: Yes
+Captured: 2026-10-20T14:15:06.4253352+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.850
+OCR status: Completed
+OCR result ID: OCR-fcb61cb2eb9c43dcbab09b74f1f4164f
+OCR completed UTC: 2026-10-20T06:32:47.4795554Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Primary result Automation QC test
+Recognized screen ID: OCR-2430DC2FB7
+Recognized screen confidence: 0.850
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Primary result Automation QC test
+No change
+
+Click-region OCR:
+Primary result Automation QC test
+No change
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Primary result Automation QC test
+No change
+
+Corrected OCR text:
+No correction supplied.

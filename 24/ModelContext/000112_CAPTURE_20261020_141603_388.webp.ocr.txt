@@ -1,0 +1,178 @@
+Image: 000112_CAPTURE_20261020_141603_388.webp
+Image reference: 000112_CAPTURE_20261020_141603_388.webp
+MIME type: image/webp
+SHA-256: dfc261af054ad634ed3556583a0fddac95a1fbb18c9df19ce0640f68220fbcf1
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 112
+Included: Yes
+Captured: 2026-10-20T14:16:03.3999965+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.430
+OCR status: Completed
+OCR result ID: OCR-214fa5d49b9744a3a9e6c96d5193a9c0
+OCR completed UTC: 2026-10-20T06:33:19.2610802Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Ejﬂ, AMS - (AMSPRI)
+Recognized screen ID: S0005
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Anahin code Mmermsne Mesremert une 1
+. N B e ]
+. o ] 7 CALCERROR ]
+. ™ ] i
+“ T ] {
+. uaeca <a 4 ] {
+. Wt - . % 1
+o wcrA " cnea ] 1
+. UGt - “a = 1
+. -« x ]
+. e - . %
+. o - ]
+. wou - A - e “a )
+. e o - o )
+* Wemot @rot v 49901 7] ]
+. Wea - ‘s P ] |
+o uaeussa s e amia ] ]
+. o - 04 Umevel 241 Unne Vohme " « ] i
+™ N P - a ]
+. s e Amytase = i
+. E [T Acengetge ]
+» A KA A e Cok A = Hharmber o resuts po pa |
+. X e Chionde ok ] [
+« ucoat ot - e Corn - .t 7] ]
+« vorea xata viA " ata ) |
+. ve 6 wecty  umek . ) ]
+. x . « ] ]
+. P MaLD ]
+. o nacr e = AL cERROR | i
+S o drntand
+. - " - % | oaes | |
+Starders deation
+. o " N % o '
+« uRce e ere B oc ALCERROR o i
+] [+ touree ot poees
+. UP oo ) jm g
+. Una ia s wEA f] ? (.
+« Urann T an0 e Aomytase ~ )
+. A P o Uric Acst e s ]
+. oRsa rRiA < Ures ]
+Ve w v et “ %
+. w0 h o ] Restors
+. at . we ]
+
+
+
++As v X Concel
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Anahin code Mmermsne Mesremert une 1
+. N B e ]
+. o ] 7 CALCERROR ]
+. ™ ] i
+“ T ] {
+. uaeca <a 4 ] {
+. Wt - . % 1
+o wcrA " cnea ] 1
+. UGt - “a = 1
+. -« x ]
+. e - . %
+. o - ]
+. wou - A - e “a )
+. e o - o )
+* Wemot @rot v 49901 7] ]
+. Wea - ‘s P ] |
+o uaeussa s e amia ] ]
+. o - 04 Umevel 241 Unne Vohme " « ] i
+™ N P - a ]
+. s e Amytase = i
+. E [T Acengetge ]
+» A KA A e Cok A = Hharmber o resuts po pa |
+. X e Chionde ok ] [
+« ucoat ot - e Corn - .t 7] ]
+« vorea xata viA " ata ) |
+. ve 6 wecty  umek . ) ]
+. x . « ] ]
+. P MaLD ]
+. o nacr e = AL cERROR | i
+S o drntand
+. - " - % | oaes | |
+Starders deation
+. o " N % o '
+« uRce e ere B oc ALCERROR o i
+] [+ touree ot poees
+. UP oo ) jm g
+. Una ia s wEA f] ? (.
+« Urann T an0 e Aomytase ~ )
+. A P o Uric Acst e s ]
+. oRsa rRiA < Ures ]
+Ve w v et “ %
+. w0 h o ] Restors
+. at . we ]
+
+
+
++As v X Concel
+
+Corrected OCR text:
+No correction supplied.

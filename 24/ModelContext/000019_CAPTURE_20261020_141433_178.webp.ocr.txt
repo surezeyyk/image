@@ -1,0 +1,170 @@
+Image: 000019_CAPTURE_20261020_141433_178.webp
+Image reference: 000019_CAPTURE_20261020_141433_178.webp
+MIME type: image/webp
+SHA-256: b7fef99d51b4737341c699e77be55f1af4bcfbcd3f803f00f7d69cdbf4a16b44
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 19
+Included: Yes
+Captured: 2026-10-20T14:14:33.1913255+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.480
+OCR status: Completed
+OCR result ID: OCR-ed79e7471e064bfcb383d1c5293f7807
+OCR completed UTC: 2026-10-20T06:32:30.7537263Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: *Untitled - Notepad
+Recognized screen ID: S0001
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Pletcode & Anshn code Mnemonc o= Memramert e Mot Etmal Adve  Tetnge SAN M code Vebtny  Cod Neem P4 {
+. N ] ]
+o a v . ]
+I M = !
+. o e 7] N 1
+. i 7] Musmes 1
+. ] Tenw M
+. e
+. our 1 = = ]
+. e [ ™ 1
+. P o8, . ] {
+. . " Y |
+. [ = |
+
+e » ) T {
+
+- . waptes___| }
+- moca . Froca = T
+.o " e ] ALCERPOR o — 1
+. OG- T [ r e (] 1
+- N = {
+- B e 1
+. ome o % 1
+v = " =
+. . wov =
+.n .. . ” " ]
+- : s - = Shoclord dosetio ] {
+emmGa  mes  meca Rt it voese  mmGA v {
+. u ‘ 1
+. o . - - ]
+. ™ e (o . ] nal ]
+. TSt s e o ) =
+.« : e . - = sicumson
+. ™ " ’ u
+" - . ) -
+. o . ) ALCERROR, Pevonn
+. " P Trghconde =
+
+
+
++ Ast v X Concel
+
+Bivet B  Eome
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Pletcode & Anshn code Mnemonc o= Memramert e Mot Etmal Adve  Tetnge SAN M code Vebtny  Cod Neem P4 {
+. N ] ]
+o a v . ]
+I M = !
+. o e 7] N 1
+. i 7] Musmes 1
+. ] Tenw M
+. e
+. our 1 = = ]
+. e [ ™ 1
+. P o8, . ] {
+. . " Y |
+. [ = |
+
+e » ) T {
+
+- . waptes___| }
+- moca . Froca = T
+.o " e ] ALCERPOR o — 1
+. OG- T [ r e (] 1
+- N = {
+- B e 1
+. ome o % 1
+v = " =
+. . wov =
+.n .. . ” " ]
+- : s - = Shoclord dosetio ] {
+emmGa  mes  meca Rt it voese  mmGA v {
+. u ‘ 1
+. o . - - ]
+. ™ e (o . ] nal ]
+. TSt s e o ) =
+.« : e . - = sicumson
+. ™ " ’ u
+" - . ) -
+. o . ) ALCERROR, Pevonn
+. " P Trghconde =
+
+
+
++ Ast v X Concel
+
+Bivet B  Eome
+
+Corrected OCR text:
+No correction supplied.

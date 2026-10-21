@@ -1,0 +1,137 @@
+Image: 000035_CLICK_20261020_141453_017_EVT21A05.webp
+Image reference: 000035_CLICK_20261020_141453_017_EVT21A05.webp
+MIME type: image/webp
+SHA-256: 66a8ef1405ac2b0403fb71a285c0f29817cfbba661fc9d06679e9bc632ccbec9
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 35
+Included: Yes
+Captured: 2026-10-20T14:14:53.0171341+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.800
+OCR status: Completed
+OCR result ID: OCR-b2659387b79142dda6886036f854b7c7
+OCR completed UTC: 2026-10-20T06:32:40.1601161Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: *& Wizard
+Recognized screen ID: OCR-07D75F2E9E
+Recognized screen confidence: 0.800
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+*& Wizard
+
+VB12 test configuration wizard
+
+
+
+WorkList ~ Workflov
+Analyzer Downlo Upload  Flag
+
+
+
+TWM_ORD VB12 0
+TWM_TRK VB12 0
+Alci-1 654 654 0
+
+0
+
+Alci-2 654 654
+
+Click-region OCR:
+*& Wizard
+
+VB12 test configuration wizard
+
+
+
+WorkList ~ Workflov
+Analyzer Downlo Upload  Flag
+
+
+
+TWM_ORD VB12 0
+TWM_TRK VB12 0
+Alci-1 654 654 0
+
+0
+
+Alci-2 654 654
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+*& Wizard
+
+VB12 test configuration wizard
+
+
+
+WorkList ~ Workflov
+Analyzer Downlo Upload  Flag
+
+
+
+TWM_ORD VB12 0
+TWM_TRK VB12 0
+Alci-1 654 654 0
+
+0
+
+Alci-2 654 654
+
+Corrected OCR text:
+No correction supplied.

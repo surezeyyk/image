@@ -1,0 +1,44 @@
+{
+  "SessionName": "configure new test code",
+  "Description": "",
+  "StartedAt": "2026-10-20T14:14:09.0527768+08:00",
+  "EndedAt": "2026-10-20T14:31:57.5217423+08:00",
+  "FolderName": "2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE",
+  "JourneyRoot": "Windows Desktop",
+  "JourneyEvents": [
+    {
+      "OccurredAt": "2026-10-20T14:14:09.0527771+08:00",
+      "Kind": "JourneyStart",
+      "Label": "Windows Desktop",
+      "WindowTitle": "",
+      "ProcessName": "",
+      "ScreenFileName": ""
+    },
+    {
+      "OccurredAt": "2026-10-20T14:14:09.3245651+08:00",
+      "Kind": "RemoteScreenOcr",
+      "Label": "PENDING OCR",
+      "WindowTitle": "PENDING OCR",
+      "ProcessName": "PENDING OCR",
+      "ScreenFileName": "000001_CAPTURE_20261020_141409_193.webp"
+    }
+  ],
+  "CountryCode": "MYS",
+  "CountryName": "Malaysia",
+  "SiteOCN": "OCN03408-801-00",
+  "SiteName": "Thomson Hospital MY",
+  "KnowledgeBaseCategory": "10_Misc_Unclassified",
+  "WorkDoneCodes": [],
+  "ProblemStatement": "",
+  "Symptoms": "",
+  "ProductName": "",
+  "ProductVersion": "",
+  "Environment": "",
+  "RootCause": "",
+  "Resolution": "",
+  "Validation": "",
+  "Tags": [],
+  "ReviewStatus": "Draft",
+  "ReviewedBy": "",
+  "ReviewedAt": null
+}

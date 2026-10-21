@@ -1,0 +1,194 @@
+Image: 000183_CLICK_20261020_141658_457_EVT15843.webp
+Image reference: 000183_CLICK_20261020_141658_457_EVT15843.webp
+MIME type: image/webp
+SHA-256: 5c712e0d15321316d4e16f7fb6dc5ca995f4e888feac97d1a2ec9c7b7b47f316
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: CONFIGURATOR.SEC.5_18_1_4
+Hierarchy path: Configurator > Configurator > Profiles / Analysis / Tests / Specimen > Tests > AVG filters
+Hierarchy manual: Configurator
+Hierarchy section: 5.18.1.4
+Hierarchy node type: Function/Procedure
+Hierarchy source: Automatic OCR match
+Hierarchy confidence: 95%
+Hierarchy evidence: OCR contains the screen title: AVG filters
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 183
+Included: Yes
+Captured: 2026-10-20T14:16:58.4574637+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.750
+OCR status: Completed
+OCR result ID: OCR-8909bfe2cf544a668a7cf5587836f621
+OCR completed UTC: 2026-10-20T06:34:12.8797202Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Configurator > Configurator > Profiles / Analysis / Tests / Specimen > Tests > AVG filters
+Recognized screen ID: CONFIGURATOR.SEC.5_18_1_4
+Recognized screen confidence: 0.950
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+tomize...
+
+NGOG U puUilio L
+
+
+
+Action to be per
+
+
+
+
+
+= Number of points ¢
+
+
+
+
+
+o
+
+
+
+
+
+Dilution
+
++ wizard
+
+
+
+SOP
+
+AVG filters
+
+Disable
+
+ Apply
+
+Click-region OCR:
+tomize...
+
+NGOG U puUilio L
+
+
+
+Action to be per
+
+
+
+
+
+= Number of points ¢
+
+
+
+
+
+o
+
+
+
+
+
+Dilution
+
++ wizard
+
+
+
+SOP
+
+AVG filters
+
+Disable
+
+ Apply
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+tomize...
+
+NGOG U puUilio L
+
+
+
+Action to be per
+
+
+
+
+
+= Number of points ¢
+
+
+
+
+
+o
+
+
+
+
+
+Dilution
+
++ wizard
+
+
+
+SOP
+
+AVG filters
+
+Disable
+
+ Apply
+
+Corrected OCR text:
+No correction supplied.

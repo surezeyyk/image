@@ -1,0 +1,116 @@
+Image: 000194_CLICK_20261020_141702_912_EVT66BC7.webp
+Image reference: 000194_CLICK_20261020_141702_912_EVT66BC7.webp
+MIME type: image/webp
+SHA-256: df2dbac20553223e766567fd6dad215f7ad845983a5c6eea901316c2a15088f4
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 194
+Included: Yes
+Captured: 2026-10-20T14:17:02.9124634+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.720
+OCR status: Completed
+OCR result ID: OCR-a60662df165c489db58918501627bb84
+OCR completed UTC: 2026-10-20T06:34:18.0579511Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: *e Wizard
+Recognized screen ID: OCR-0F3FEAAD52
+Recognized screen confidence: 0.720
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+*e Wizard
+
+Vancomycin test configuration wizard
+
+
+
+WorkList Analyzers/Channels  Workflow R
+
+Analyzer  Downlo... Upload Flag Act
+
+4 MMM 0 v
+
+Click-region OCR:
+*e Wizard
+
+Vancomycin test configuration wizard
+
+
+
+WorkList Analyzers/Channels  Workflow R
+
+Analyzer  Downlo... Upload Flag Act
+
+4 MMM 0 v
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+*e Wizard
+
+Vancomycin test configuration wizard
+
+
+
+WorkList Analyzers/Channels  Workflow R
+
+Analyzer  Downlo... Upload Flag Act
+
+4 MMM 0 v
+
+Corrected OCR text:
+No correction supplied.

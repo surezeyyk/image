@@ -1,0 +1,170 @@
+Image: 000153_CAPTURE_20261020_141635_207.webp
+Image reference: 000153_CAPTURE_20261020_141635_207.webp
+MIME type: image/webp
+SHA-256: 6f711c96f40d9287426d99e9bf48847ee8f96be40fae73a27c600d2879b9dcb2
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: PrimaryCapture
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop → PENDING OCR
+Journey window: PENDING OCR
+Journey process: PENDING OCR
+Step: 153
+Included: Yes
+Captured: 2026-10-20T14:16:35.2198064+08:00
+Original resolution: 1920 x 1200
+Saved resolution: 960 x 600
+OCR confidence: 0.460
+OCR status: Completed
+OCR result ID: OCR-422288310dff4f378d4e2a444fd4432b
+OCR completed UTC: 2026-10-20T06:33:52.7159918Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: *Untitled - Notepad
+Recognized screen ID: S0001
+Recognized screen confidence: 0.000
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+vy enatied ety {
+1 Tost code 3 Ansran ce Mmermore Mesisemert une Mo tetemal San Materal code  Valdey 34 1
+. or oo ror rop ]
+« por vor ror ]
+.a o s arcw - aer = wcummor ]
+AP MG NG PO NG ] ALCERROR {
+. acce acp ’ s CCP " accr ) ]
+. o w v ] {
+. . /G s - 7] ALCERROR 1
+. am P A N apo? = 1
+. uw o aw pramens > ap ] 1
+. u u Ao ] ] ]
+. ap up ap A skee Prosghatase (ALP ap =
+) B r x = = |
+ar st ALY ) ]
+. e s ’ ] ]
+. snay v ™
+. ANAL D c ] |
+Cwnie  swiBe  woie epsnns § ¢ Areody . ] |
+. an 1 ] ] i
+’ sy v ™ = L {
+. . . . . - - | Upper ma || ]
+ol - “ oA “ = [Thcengenee I |
+.o " b b L] [T it of esits pur o
+* . » e ) P — ety 1
+. B - - % [
+- [ ™ = =
+« 0ot wor o1 ) =
+. ] ]
+.t 4 . ‘ /]
+. cam et o = ‘ {
+. A A A A " A ] i
+. ca A A A - A = i
+. canm a1 219 ~ - A = i
+. %
+. AL " u o A ]
+. CAl " e Test " A = ] Ll )
+po » » 2 = =
+. cca a ectes Cokon ) ActRRon
+.t ,~ W ow —— 1 )
+. . % ]
+. O e e oL ]
+. - o = =
+
+Click-region OCR:
+No text extracted.
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+vy enatied ety {
+1 Tost code 3 Ansran ce Mmermore Mesisemert une Mo tetemal San Materal code  Valdey 34 1
+. or oo ror rop ]
+« por vor ror ]
+.a o s arcw - aer = wcummor ]
+AP MG NG PO NG ] ALCERROR {
+. acce acp ’ s CCP " accr ) ]
+. o w v ] {
+. . /G s - 7] ALCERROR 1
+. am P A N apo? = 1
+. uw o aw pramens > ap ] 1
+. u u Ao ] ] ]
+. ap up ap A skee Prosghatase (ALP ap =
+) B r x = = |
+ar st ALY ) ]
+. e s ’ ] ]
+. snay v ™
+. ANAL D c ] |
+Cwnie  swiBe  woie epsnns § ¢ Areody . ] |
+. an 1 ] ] i
+’ sy v ™ = L {
+. . . . . - - | Upper ma || ]
+ol - “ oA “ = [Thcengenee I |
+.o " b b L] [T it of esits pur o
+* . » e ) P — ety 1
+. B - - % [
+- [ ™ = =
+« 0ot wor o1 ) =
+. ] ]
+.t 4 . ‘ /]
+. cam et o = ‘ {
+. A A A A " A ] i
+. ca A A A - A = i
+. canm a1 219 ~ - A = i
+. %
+. AL " u o A ]
+. CAl " e Test " A = ] Ll )
+po » » 2 = =
+. cca a ectes Cokon ) ActRRon
+.t ,~ W ow —— 1 )
+. . % ]
+. O e e oL ]
+. - o = =
+
+Corrected OCR text:
+No correction supplied.

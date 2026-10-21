@@ -1,0 +1,248 @@
+Image: 000168_CLICK_20261020_141648_377_EVTC59E2.webp
+Image reference: 000168_CLICK_20261020_141648_377_EVTC59E2.webp
+MIME type: image/webp
+SHA-256: 669cf2ae5b43cc16440d3e126b3e4b45cd568e348e047b9c823111617455aafe
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 168
+Included: Yes
+Captured: 2026-10-20T14:16:48.3771519+08:00
+Original resolution: Unknown
+Saved resolution: 394 x 250
+OCR confidence: 0.810
+OCR status: Completed
+OCR result ID: OCR-e8224c82e46444e8906931431c46eb59
+OCR completed UTC: 2026-10-20T06:34:01.1880293Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Anemonic Vancomycin
+Recognized screen ID: OCR-55E69AFA1C
+Recognized screen confidence: 0.810
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+Anemonic Vancomycin
+
+
+
+est description VANC
+
+
+
+xternal test code VANC
+
+
+
+xternal test code for export
+
+
+
+\nalysis
+
+
+
+Nask
+
+
+
+
+
+Aeasurement unit +
+
+
+
+est type Numeric
+
+
+
+“odified phrases
+
+
+
+Normal
+
+
+
+Warning
+
+
+
+
+
+Pathological
+
+
+
+
+
+LU 17 <7 I .
+
+Click-region OCR:
+Anemonic Vancomycin
+
+
+
+est description VANC
+
+
+
+xternal test code VANC
+
+
+
+xternal test code for export
+
+
+
+\nalysis
+
+
+
+Nask
+
+
+
+
+
+Aeasurement unit +
+
+
+
+est type Numeric
+
+
+
+“odified phrases
+
+
+
+Normal
+
+
+
+Warning
+
+
+
+
+
+Pathological
+
+
+
+
+
+LU 17 <7 I .
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+Anemonic Vancomycin
+
+
+
+est description VANC
+
+
+
+xternal test code VANC
+
+
+
+xternal test code for export
+
+
+
+\nalysis
+
+
+
+Nask
+
+
+
+
+
+Aeasurement unit +
+
+
+
+est type Numeric
+
+
+
+“odified phrases
+
+
+
+Normal
+
+
+
+Warning
+
+
+
+
+
+Pathological
+
+
+
+
+
+LU 17 <7 I .
+
+Corrected OCR text:
+No correction supplied.

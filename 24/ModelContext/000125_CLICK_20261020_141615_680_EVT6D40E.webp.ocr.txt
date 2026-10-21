@@ -1,0 +1,167 @@
+Image: 000125_CLICK_20261020_141615_680_EVT6D40E.webp
+Image reference: 000125_CLICK_20261020_141615_680_EVT6D40E.webp
+MIME type: image/webp
+SHA-256: 28728f2662e865374d66518775dc59c31c9a9730a41ec4a189147e74fcc13a0e
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 125
+Included: Yes
+Captured: 2026-10-20T14:16:15.6809688+08:00
+Original resolution: Unknown
+Saved resolution: 387 x 250
+OCR confidence: 0.900
+OCR status: Completed
+OCR result ID: OCR-43c14ee6dfdf476296fe5582ece6b44b
+OCR completed UTC: 2026-10-20T06:33:27.0816308Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: properties
+Recognized screen ID: OCR-E50C2A53BD
+Recognized screen confidence: 0.900
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+properties
+st code VANC| +
+
+nemonic
+
+
+
+
+
+
+
+st description
+
+
+
+ternal test code
+
+
+
+ternal test code for export
+
+
+
+alysis
+
+
+
+ask
+
+Click-region OCR:
+properties
+st code VANC| +
+
+nemonic
+
+
+
+
+
+
+
+st description
+
+
+
+ternal test code
+
+
+
+ternal test code for export
+
+
+
+alysis
+
+
+
+ask
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+properties
+st code VANC| +
+
+nemonic
+
+
+
+
+
+
+
+st description
+
+
+
+ternal test code
+
+
+
+ternal test code for export
+
+
+
+alysis
+
+
+
+ask
+
+Corrected OCR text:
+No correction supplied.

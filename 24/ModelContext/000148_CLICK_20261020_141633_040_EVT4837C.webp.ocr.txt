@@ -1,0 +1,209 @@
+Image: 000148_CLICK_20261020_141633_040_EVT4837C.webp
+Image reference: 000148_CLICK_20261020_141633_040_EVT4837C.webp
+MIME type: image/webp
+SHA-256: 6d2565ad445a4327b5e0322e250dcab68dce14695e100987894d8d3cd3f19955
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: 
+Hierarchy path: 
+Hierarchy manual: 
+Hierarchy section: 
+Hierarchy node type: 
+Hierarchy source: Automatic OCR no match
+Hierarchy confidence: 
+Hierarchy evidence: No hierarchy suggestion met the automatic confidence threshold.
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 148
+Included: Yes
+Captured: 2026-10-20T14:16:33.0406646+08:00
+Original resolution: Unknown
+Saved resolution: 386 x 250
+OCR confidence: 0.790
+OCR status: Completed
+OCR result ID: OCR-972bf34906eb4fc89df041175518606e
+OCR completed UTC: 2026-10-20T06:33:49.7084596Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: properties
+Recognized screen ID: OCR-E50C2A53BD
+Recognized screen confidence: 0.790
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+properties
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+st code VANC
+emonic Vancomycin
+st description VANC
+
+ernal test code +
+ernal test code for export
+
+alysis
+
+ask SEELEE 8
+
+
+
+2asurement unit
+
+
+
+st type Numeric
+
+
+
+
+
+
+
+aose BB
+
+Click-region OCR:
+properties
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+st code VANC
+emonic Vancomycin
+st description VANC
+
+ernal test code +
+ernal test code for export
+
+alysis
+
+ask SEELEE 8
+
+
+
+2asurement unit
+
+
+
+st type Numeric
+
+
+
+
+
+
+
+aose BB
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+properties
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+st code VANC
+emonic Vancomycin
+st description VANC
+
+ernal test code +
+ernal test code for export
+
+alysis
+
+ask SEELEE 8
+
+
+
+2asurement unit
+
+
+
+st type Numeric
+
+
+
+
+
+
+
+aose BB
+
+Corrected OCR text:
+No correction supplied.

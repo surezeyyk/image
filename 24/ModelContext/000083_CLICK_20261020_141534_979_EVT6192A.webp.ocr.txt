@@ -1,0 +1,128 @@
+Image: 000083_CLICK_20261020_141534_979_EVT6192A.webp
+Image reference: 000083_CLICK_20261020_141534_979_EVT6192A.webp
+MIME type: image/webp
+SHA-256: 0ce10e81f0f2e1d93c5e4859f3c7251e6b3555d83e6fd376663be0102b9fe576
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: CONFIGURATOR.SEC.5_8_6_5
+Hierarchy path: Configurator > Configurator > Analyzers > Analyzer configuration > General setup
+Hierarchy manual: Configurator
+Hierarchy section: 5.8.6.5
+Hierarchy node type: Configuration Area
+Hierarchy source: Automatic OCR match
+Hierarchy confidence: 95%
+Hierarchy evidence: OCR contains the screen title: General setup
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 83
+Included: Yes
+Captured: 2026-10-20T14:15:34.9793949+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.760
+OCR status: Completed
+OCR result ID: OCR-5ed1f60cdb2e45ecb1f1122836f2115d
+OCR completed UTC: 2026-10-20T06:33:08.7475545Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Configurator > Configurator > Analyzers > Analyzer configuration > General setup
+Recognized screen ID: CONFIGURATOR.SEC.5_8_6_5
+Recognized screen confidence: 0.950
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+2024 -Rel. 11.2.0 - Analyzer characteristics
+
+
+
+Analyzer description
+
+Alci-1
+e Instrument flags NS0 SN EETI TN General setup  Rack
+Analysis Download + Upload Automatior
+CALC MMM MMM
+GLP MMM MMM
+1HPP 1069 1069 1HPP
+2HPP 1069 1069 2HPP
+
+AG MMM MMM
+
+Click-region OCR:
+2024 -Rel. 11.2.0 - Analyzer characteristics
+
+
+
+Analyzer description
+
+Alci-1
+e Instrument flags NS0 SN EETI TN General setup  Rack
+Analysis Download + Upload Automatior
+CALC MMM MMM
+GLP MMM MMM
+1HPP 1069 1069 1HPP
+2HPP 1069 1069 2HPP
+
+AG MMM MMM
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+2024 -Rel. 11.2.0 - Analyzer characteristics
+
+
+
+Analyzer description
+
+Alci-1
+e Instrument flags NS0 SN EETI TN General setup  Rack
+Analysis Download + Upload Automatior
+CALC MMM MMM
+GLP MMM MMM
+1HPP 1069 1069 1HPP
+2HPP 1069 1069 2HPP
+
+AG MMM MMM
+
+Corrected OCR text:
+No correction supplied.

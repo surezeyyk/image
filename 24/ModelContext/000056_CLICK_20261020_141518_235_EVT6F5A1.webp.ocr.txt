@@ -1,0 +1,167 @@
+Image: 000056_CLICK_20261020_141518_235_EVT6F5A1.webp
+Image reference: 000056_CLICK_20261020_141518_235_EVT6F5A1.webp
+MIME type: image/webp
+SHA-256: f555039e41e567f7a48af9424be79a7d174c23dae9e73dbd5cb4ec0aeb1b8950
+Session ID: 2026-10-20_14-14-09_OCN03408-801-00_THOMSON HOSPITAL MY_CONFIGURE NEW TEST CODE
+Session name: configure new test code
+Site: Thomson Hospital MY
+Country: Malaysia
+Category: 10_Misc_Unclassified
+Work done codes: 
+Case review status: Draft
+Step review status: Draft
+Privacy status: NotReviewed
+Asset type: ClickContext
+Hierarchy node ID: CONFIGURATOR.SEC.5_12
+Hierarchy path: Configurator > Configurator > Codified phrases
+Hierarchy manual: Configurator
+Hierarchy section: 5.12
+Hierarchy node type: Configuration Area
+Hierarchy source: Automatic OCR match
+Hierarchy confidence: 95%
+Hierarchy evidence: OCR contains the screen title: Codified phrases
+Journey path: Windows Desktop
+Journey window: 
+Journey process: 
+Step: 56
+Included: Yes
+Captured: 2026-10-20T14:15:18.2362121+08:00
+Original resolution: Unknown
+Saved resolution: 400 x 250
+OCR confidence: 0.710
+OCR status: Completed
+OCR result ID: OCR-93dec09430b44e04bb8bc837e511127f
+OCR completed UTC: 2026-10-20T06:33:00.9777199Z
+OCR source: PostRecordingFullScreen
+OCR error: 
+Similarity score: Unavailable
+Duplicate candidate: No
+Recognized screen: Configurator > Configurator > Codified phrases
+Recognized screen ID: CONFIGURATOR.SEC.5_12
+Recognized screen confidence: 0.950
+
+Description:
+No description supplied.
+
+Step title:
+Not supplied.
+
+UI target:
+Not supplied.
+
+Outcome:
+Informational
+
+Error message:
+None supplied.
+
+Action:
+Not supplied.
+
+Full-screen OCR:
+=% AMS - (AMSPRI)
+* g Users
+Labs
+
+) g Laboratory groups
+- Workstations
+
+& Instrumental interfacing
+
+
+
+
+
+
+
+& Analyzers
+
+@ ac
+
+% Parameters
+
++ Worklists
+
++-{*} Codified phrases
+: & Report groups
+@ Events
+
+e C+hnicitiec
+
+Click-region OCR:
+=% AMS - (AMSPRI)
+* g Users
+Labs
+
+) g Laboratory groups
+- Workstations
+
+& Instrumental interfacing
+
+
+
+
+
+
+
+& Analyzers
+
+@ ac
+
+% Parameters
+
++ Worklists
+
++-{*} Codified phrases
+: & Report groups
+@ Events
+
+e C+hnicitiec
+
+Changed-region OCR:
+No text extracted.
+
+Reason:
+Not supplied.
+
+Expected result:
+Not supplied.
+
+Actual result:
+Not supplied.
+
+Warning:
+None supplied.
+
+Extracted text:
+=% AMS - (AMSPRI)
+* g Users
+Labs
+
+) g Laboratory groups
+- Workstations
+
+& Instrumental interfacing
+
+
+
+
+
+
+
+& Analyzers
+
+@ ac
+
+% Parameters
+
++ Worklists
+
++-{*} Codified phrases
+: & Report groups
+@ Events
+
+e C+hnicitiec
+
+Corrected OCR text:
+No correction supplied.
